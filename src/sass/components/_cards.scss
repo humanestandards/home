@@ -5,6 +5,7 @@
 	border: 1px solid $color-card-border;
 	box-sizing: border-box;
 	height: 100%;
+	box-shadow: $color-classic-card-shadow;
 
 	.flex,
 	.grid {
@@ -38,6 +39,7 @@
 		position: absolute;
 		top: 0;
 		width: 100%;
+		box-shadow: $color-classic-card-shadow;
 	}
 }
 
@@ -52,7 +54,8 @@
 
 .style-classic {
 	.card {
-		border-radius: 6px;
+		border-radius: 1.5em;
+
 	}
 
 	.card__media--fill {
@@ -60,26 +63,26 @@
 		&.card__media--left,
 		&.card__media--right {
 			img {
-				border-radius: 6px 6px 0 0;
+				border-radius: 1.5em;
 			}
 		}
 
 		&.card__media--bottom {
 			img {
-				border-radius: 0 0 6px 6px;
+				border-radius: 1.5em;
 			}
 		}
 
 		@include media-breakpoint-up(md) {
 			&.card__media--left {
 				img {
-					border-radius: 6px 0 0 6px;
+					border-radius: 1.5em;
 				}
 			}
-			
+
 			&.card__media--right {
 				img {
-					border-radius: 0 6px 6px 0;
+					border-radius: 1.5em;
 				}
 			}
 		}

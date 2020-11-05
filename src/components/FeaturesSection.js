@@ -24,11 +24,11 @@ export default class FeaturesSection extends React.Component {
             	)}
             	{(_.get(section, 'title', null) || _.get(section, 'subtitle', null)) && (
             	<div className={classNames('container', 'container--medium', {'mb-5': (feature_padding_y === 'small') || (feature_padding_y === 'medium'), 'mb-4': feature_padding_y === 'large', 'text-center': align_x === 'center', 'text-right': align_x === 'right'})}>
-            		{_.get(section, 'subtitle', null) && (
-            		<div className="section__subtitle">{_.get(section, 'subtitle', null)}</div>
-            		)}
             		{_.get(section, 'title', null) && (
             		<h2 className="section__title mt-0">{_.get(section, 'title', null)}</h2>
+            		)}
+                {_.get(section, 'subtitle', null) && (
+            		<div className="section__subtitle">{_.get(section, 'subtitle', null)}</div>
             		)}
             	</div>
             	)}

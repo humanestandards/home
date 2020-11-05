@@ -12,13 +12,13 @@ export default class Header extends React.Component {
             	<div className="container">
             		<nav className="navbar flex items-center" aria-label="Main Navigation">
             			<Link className="sr-only" to="#content">Skip to main content</Link>
-            			<div className="navbar__branding mr-2">
-            				{_.get(this.props, 'pageContext.site.siteMetadata.header.logo', null) ? (
-            				<Link className="navbar__logo m-0" to={withPrefix('/')}><img src={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo', null))} alt={_.get(this.props, 'pageContext.site.siteMetadata.header.title', null)} /></Link>
-            				) : 
-            				<Link className="navbar__title h4 m-0" to={withPrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.header.title', null)}</Link>
-            				}
-            			</div>
+                  <div className="navbar__branding mr-2">
+                  {_.get(this.props, 'pageContext.site.siteMetadata.header.logo', null) && (
+                  <Link className="navbar__logo m-0" to={withPrefix('/')}><img src={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo', null))} alt={_.get(this.props, 'pageContext.site.siteMetadata.header.title', null)} /></Link>
+                  )}</div>
+                  <div>
+                  <Link className="navbar__title h4 m-0" to={withPrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.header.title', null)}</Link>
+                  </div>
             			{(_.get(this.props, 'pageContext.site.siteMetadata.header.has_primary_nav', null) || _.get(this.props, 'pageContext.site.siteMetadata.header.has_secondary_nav', null)) && (<React.Fragment>
             			<div className="navbar__container flex-md-auto">
             				<div className="navbar__scroller">

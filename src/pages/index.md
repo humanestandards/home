@@ -2,309 +2,140 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
-    subtitle: Optional hero section subtitle
+    title: 'Self-Governance '
+    subtitle: 'Being Human, Matters!'
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+      The Humane Standards offer Guidelines and Tools for Sensible Autonomy.
+      After all, there is only One Source of Governance which has the capacity
+      to enhance all others, and this is Self-Autonomy.
     actions:
       - type: action
-        label: Try Free
-        url: /pricing
+        label: About
+        url: /about
         style: primary
-      - type: action
-        label: Learn More
-        url: /features
-        style: secondary
-    image: images/classic/hero.png
+    image: /images/people.png
     media_position: left
     media_width: fifty
     align: left
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - type: grid_section
-    title: Image Grid
-    subtitle: Grid Section Example
+    background_image: /images/scientific-pineapple.jpg
+    background_image_opacity: 10
+  - title: Our New Standards
+    subtitle: Beta Release
+    actions: []
     grid_items:
-      - type: grid_item
-        image: images/logo-1.svg
-        image_align: center
-      - type: grid_item
-        image: images/logo-2.svg
-        image_align: center
-      - type: grid_item
-        image: images/logo-3.svg
-        image_align: center
-      - type: grid_item
-        image: images/logo-4.svg
-        image_align: center
-      - type: grid_item
-        image: images/logo-5.svg
-        image_align: center
-      - type: grid_item
-        image: images/logo-6.svg
-        image_align: center
-      - type: grid_item
-        image: images/logo-7.svg
-        image_align: center
-      - type: grid_item
-        image: images/logo-8.svg
-        image_align: center
-    grid_cols: four
-    grid_gap_vert: medium
-    grid_gap_horiz: medium
-    align: center
-  - type: features_section
-    title: Features Section
-    subtitle: Features Section Example
-    features:
-      - type: feature
-        title: The Big Title For the Feature
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+      - title: Self-Empowerment
+        subtitle: Liberty & Peace for Everyone
+        title_align: left
+        content: ''
+        content_align: left
         actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
+          - label: Learn More
+            url: /self/empowerment
             style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-1.png
-        media_position: right
-        media_width: fifty
-      - type: feature
-        title: The Big Title For the Feature
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+            new_window: false
+            type: action
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/HS_Empowerment_Cover.jpg
+      - title: Self-Support
+        subtitle: Equality & Order for Everyone
+        title_align: left
+        content: ''
+        content_align: center
         actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
+          - label: Learn More
+            url: /self/support
             style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-2.png
-        media_position: left
-        media_width: fifty
-      - type: feature
-        title: The Big Title For the Feature
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+            new_window: false
+            type: action
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/HS_Support_Cover.jpg
+      - title: Self-Coexistence
+        subtitle: Family & Good Governance for Everyone
+        title_align: left
+        content: ''
+        content_align: left
         actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
+          - label: Learn More
+            url: /self/coexistence
             style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-3.png
-        media_position: right
-        media_width: fifty
-    feature_padding_vert: large
-    align: center
-    background_color: secondary
-  - type: features_section
-    features:
-      - type: feature
-        title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
-        image: images/brandon-guidelines.png
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
-  - type: grid_section
-    title: Cards Grid Section
-    subtitle: Grid Section Example
-    grid_items:
-      - type: grid_item
-        title: Section Item 1
-        title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        content_align: left
-        actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+            new_window: false
+            type: action
         actions_align: left
-        image: images/classic/icon-1.svg
+        actions_width: auto
         image_position: top
+        image_width: fifty
         image_align: left
-        image_has_padding: true
-      - type: grid_item
-        title: Section Item 2
-        title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        content_align: left
-        actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        actions_align: left
-        image: images/classic/icon-2.svg
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - type: grid_item
-        title: Section Item 3
-        title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        content_align: left
-        actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        actions_align: left
-        image: images/classic/icon-3.svg
-        image_position: top
-        image_align: left
-        image_has_padding: true
+        image_has_padding: false
+        type: grid_item
+        image: images/HS_Coexistence_Cover.jpg
     grid_cols: three
     grid_gap_vert: small
-    grid_gap_horiz: medium
+    grid_gap_horiz: small
     enable_cards: true
     align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
     background_color: none
-  - type: grid_section
-    title: Reviews Section
-    subtitle: Grid Section Example
-    grid_items:
-      - type: grid_item
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: grid_section
+  - type: features_section
+    features:
+      - type: feature
+        title: Humane Science Masterclass
+        subtitle: 'by Leonardo da Vinci, Polymath Artist and Scientist'
+        image: /images/Leo.png
+        media_position: right
+        media_width: thirty-three
+        actions:
+          - label: Watch
+            url: >-
+              https://www.youtube.com/watch?v=F8bjhRSi0vo&list=PLGYNxF_pnQgv9WorsLMsTjJXWMGxWSnlX
+            style: secondary
+            has_icon: true
+            icon: youtube
+            icon_position: left
+            new_window: false
+            type: action
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          "Join me into a quest of self-discovery; an honest attempt to decode
+          all kinds of symbols, and to design a language capable to communicate
+          our human nature."
 
 
-          **Hanson Deck,** *App Developer, Studio*
-        image: images/hanson-deck.png
-        image_position: left
-        image_width: twenty-five
-      - type: grid_item
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Miles Tone,** *CEO, Studio*
-        image: images/miles-tone.png
-        image_position: left
-        image_width: twenty-five
-      - type: grid_item
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Eleanor Carr,** *CTO, Studio*
-        image: images/eleanor-carr.png
-        image_position: left
-        image_width: twenty-five
-      - type: grid_item
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Gordon Norman,** *Web Designer, Studio*
-        image: images/gordon-norman.png
-        image_position: left
-        image_width: twenty-five
-    grid_cols: two
-    grid_gap_vert: large
-    grid_gap_horiz: medium
-    align: center
-    background_color: secondary
-  - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-    actions:
-      - type: action
-        label: Learn More
-        url: /features
-        style: secondary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
+          **A Humane Standards Original**
+    feature_padding_vert: small
     background_color: primary
-  - type: grid_section
-    title: Team Section
-    subtitle: Grid Section Example
-    actions:
-      - type: action
-        label: Join the team
-        url: /style-guide
-        style: primary
-    grid_items:
-      - type: grid_item
-        title: Gustav Purpleson
-        subtitle: Co-Founder & CEO
-        title_align: center
-        image: images/gustav-purpleson.jpg
-        image_position: top
-      - type: grid_item
-        title: Dianne Ameter
-        subtitle: Software Engineer
-        title_align: center
-        image: images/dianne-ameter.jpg
-        image_position: top
-      - type: grid_item
-        title: Hugh Saturation
-        subtitle: Developer Advocate
-        title_align: center
-        image: images/hugh-saturation.jpg
-        image_position: top
-      - type: grid_item
-        title: Hilary Ouse
-        subtitle: Operations Manager
-        title_align: center
-        image: images/hilary-ouse.jpg
-        image_position: top
-    grid_cols: four
-    align: center
-    background_color: secondary
   - type: blog_feed_section
     title: What's New
-    subtitle: Blog Feed Section Example
+    subtitle: Archive
     actions:
       - type: action
         label: View All
@@ -316,29 +147,39 @@ sections:
     recent_count: 3
     show_date: true
     show_categories: true
-    show_author: true
-    show_excerpt: false
+    show_author: false
+    show_excerpt: true
     show_image: true
     align: center
     padding_top: medium
     padding_bottom: medium
     has_border: false
     background_color: none
-  - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+  - title: Connect
+    subtitle: Empower and Support Multilateral Coexistence
+    content: ''
     actions:
-      - type: action
-        label: Button
-        url: /pricing
-        style: primary
-    actions_position: bottom
+      - label: 'Yes, Please'
+        url: /contact
+        style: secondary
+        has_icon: true
+        icon: arrow-right
+        icon_position: right
+        new_window: false
+        type: action
+    video_embed_html: ''
+    media_position: top
+    media_width: fifty
     align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: primary
+    background_image_opacity: 24
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
+    background_image: images/HI Main Pic.jpg
 template: advanced
 ---
