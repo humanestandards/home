@@ -14,15 +14,6 @@ import BlogPostTags from '../components/BlogPostTags';
 export const query = graphql`
   query($url: String) {
     sitePage(path: {eq: $url}) {
-      title
-      description
-      image {
-        childImageSharp {
-          fixed { 
-              src
-                  }
-                }
-              }
       id
     }
   }
