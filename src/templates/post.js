@@ -14,6 +14,15 @@ import BlogPostTags from '../components/BlogPostTags';
 export const query = graphql`
   query($url: String) {
     sitePage(path: {eq: $url}) {
+      title
+      description
+      image {
+        childImageSharp {
+          fixed { 
+              src
+                  }
+                }
+              }
       id
     }
   }
@@ -48,7 +57,7 @@ export default class Post extends React.Component {
             				{_.get(this.props, 'pageContext.frontmatter.subtitle', null) && (
             					<p className="post__subtitle">{_.get(this.props, 'pageContext.frontmatter.subtitle', null)}</p>
             				)}
-            			
+
             			</header>
             		</div>
             	</div>
