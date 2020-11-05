@@ -32,7 +32,7 @@
 
 	.pt-#{$key},
 	.py-#{$key} {
-		padding-top: $size;
+		padding-top: 1em;
 	}
 
 	.pr-#{$key},
@@ -42,7 +42,7 @@
 
 	.pb-#{$key},
 	.py-#{$key} {
-		padding-bottom: $size;
+		padding-bottom:1em;
 	}
 
 	.pl-#{$key},
@@ -83,22 +83,22 @@
 			.m-#{$infix}-#{$key} {
 				margin: $size;
 			}
-		
+
 			.mt-#{$infix}-#{$key},
 			.my-#{$infix}-#{$key} {
 				margin-top: $size;
 			}
-		
+
 			.mr-#{$infix}-#{$key},
 			.mx-#{$infix}-#{$key} {
 				margin-right: $size;
 			}
-		
+
 			.mb-#{$infix}-#{$key},
 			.my-#{$infix}-#{$key} {
 				margin-bottom: $size;
 			}
-		
+
 			.ml-#{$infix}-#{$key},
 			.mx-#{$infix}-#{$key} {
 				margin-left: $size;
@@ -107,22 +107,22 @@
 			.p-#{$infix}-#{$key} {
 				padding: $size;
 			}
-		
+
 			.pt-#{$infix}-#{$key},
 			.py-#{$infix}-#{$key} {
 				padding-top: $size;
 			}
-		
+
 			.pr-#{$infix}-#{$key},
 			.px-#{$infix}-#{$key} {
 				padding-right: $size;
 			}
-		
+
 			.pb-#{$infix}-#{$key},
 			.py-#{$infix}-#{$key} {
-				padding-bottom: $size;
+				padding-bottom: 1em;
 			}
-		
+
 			.pl-#{$infix}-#{$key},
 			.px-#{$infix}-#{$key} {
 				padding-left: $size;
