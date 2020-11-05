@@ -48,9 +48,7 @@ export default class Post extends React.Component {
             				{_.get(this.props, 'pageContext.frontmatter.subtitle', null) && (
             					<p className="post__subtitle">{_.get(this.props, 'pageContext.frontmatter.subtitle', null)}</p>
             				)}
-            				{_.get(this.props, 'pageContext.frontmatter.author', null) && (
-            					<BlogPostAuthor {...this.props} author={_.get(this.props, 'pageContext.frontmatter.author', null)} container_class={'post__byline'} avatar_size={'medium'} />
-            				)}
+            			
             			</header>
             		</div>
             	</div>
