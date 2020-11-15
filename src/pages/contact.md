@@ -200,7 +200,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-    grid_cols: two
+    grid_cols: three
     grid_gap_vert: medium
     grid_gap_horiz: small
     enable_cards: true
@@ -215,7 +215,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: Medium
-    subtitle: Explore our Archived Publications (Not Updated Content)
+    subtitle: Explore our Archived Publications (Not Updated)
     content: ''
     actions:
       - label: Read

@@ -9,13 +9,13 @@ categories:
   - src/data/categories/ingredients.yaml
 tags: []
 excerpt: >-
-  Life is a constitution of Being, which is Meaningful by Design. Therefore, Being our best Self is not a matter of Becoming, but rather a Practical one.
+  Life is a constitution of Being in the here and now, which is Meaningful by Design.
 thumb_image: /images/HS_4_Cover.jpg
 image: /images/HS_4_Cover.jpg
 ---
-> When our Limitations End through Sensible insight, and therefore when all reasons for antagonism and judgement are Resolved - Limitless Power is being born in the form of love.
+> When our Limitations End through Sensible insight, and therefore when all reasons for antagonism and judgement are Resolved - Limitless Power is being born in the form of Love.
 
-**That love, which is not based on dependence, self-interest, desire and thought - is capable for Humane Empowerment, Continuous Support, and Peaceful Coexistence.**
+**That Love, which is not based on dependence, self-interest, desire and thought - is capable for Humane Empowerment, Continuous Support, and Peaceful Coexistence.**
 
 ![](/images/eclipse.svg)
 
@@ -40,7 +40,7 @@ To Be, one can Practically do the following:
 
 ### ⌚️ 3. Being Spacetime (Relativity)
 
-**The 3 Freedom of Spacetime:**  
+**The 3 Freedoms of Spacetime:**  
 3.1. Being the Past (Quantum Superposition)  
 3.2. Being Present (Wave Function Collapse)  
 3.3. Being the Future (Time-Dependent Schrödinger equation (TDSE))  
