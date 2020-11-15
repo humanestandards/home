@@ -48,7 +48,7 @@ sections:
       of bio-certified models. Our Predictions are based upon our:
     grid_items:
       - type: grid_item
-        title: Memory Allocation
+        title: Family Growth
         title_align: left
         content: ''
         content_align: left
@@ -60,7 +60,7 @@ sections:
         image_has_padding: true
         subtitle: Our Self-Control
       - type: grid_item
-        title: Output Feedback
+        title: Self-Governance Inheritance
         title_align: left
         content: ''
         content_align: left
@@ -95,7 +95,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: 1. Self-Control Recipes
+  - title: 1. Self-Control Challenges
     subtitle: Defining our Production Services
     actions: []
     blog_feed_cols: three
@@ -118,7 +118,7 @@ sections:
     background_image_repeat: no-repeat
     type: blog_feed_section
     category: src/data/categories/recipes.json
-  - title: 2. Self-Predictions Rituals
+  - title: 2. Self-Prediction Rituals
     subtitle: Defining our Habitat Services
     actions: []
     blog_feed_cols: three

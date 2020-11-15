@@ -52,7 +52,7 @@ sections:
       Problems. Our Prescriptions are based upon our:
     grid_items:
       - type: grid_item
-        title: Input Feedback
+        title: Liberty Genesis
         title_align: left
         content: ''
         content_align: left
@@ -64,7 +64,7 @@ sections:
         image_has_padding: true
         subtitle: Our Self-Description
       - type: grid_item
-        title: Indexing Evaluation
+        title: Peace Mimesis
         title_align: left
         content: ''
         content_align: left
@@ -100,7 +100,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: 1. Input Feedback Ingredients
+  - title: 1. Self-Description Ingredients
     subtitle: Defining our Empowerment Services
     actions: []
     blog_feed_cols: three
@@ -123,7 +123,7 @@ sections:
     background_image_repeat: no-repeat
     type: blog_feed_section
     category: src/data/categories/ingredients.json
-  - title: 2. Indexing Evaluation Journals
+  - title: 2. Self-Adaptation Topics
     subtitle: Defining our Resources Services
     actions: []
     blog_feed_cols: three
@@ -148,7 +148,7 @@ sections:
     category: src/data/categories/journals.json
   - type: cta_section
     title: 'So far, so good?'
-    content: What to do with our Ingredients and Journals? Let's find out...
+    content: What to do with our Ingredients and Topics? Let's find out...
     actions:
       - type: action
         label: Support

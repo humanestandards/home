@@ -38,7 +38,7 @@ sections:
       Descriptions are based upon our:
     grid_items:
       - type: grid_item
-        title: Deployment Control
+        title: Equality Practice
         title_align: left
         content: ''
         content_align: left
@@ -50,7 +50,7 @@ sections:
         image_has_padding: true
         subtitle: Our Self-Consensus
       - type: grid_item
-        title: Modeling Classification
+        title: Order Investigation
         title_align: left
         content: ''
         content_align: left
@@ -85,7 +85,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: 1. Self-Consensus Topics
+  - title: 1. Self-Consensus Recipes
     subtitle: Defining our Capability Services
     actions: []
     blog_feed_cols: three
@@ -108,7 +108,7 @@ sections:
     background_image_repeat: no-repeat
     type: blog_feed_section
     category: src/data/categories/topics.json
-  - title: 2. Self-Testing Challenges
+  - title: 2. Self-Testing Journals
     subtitle: Defining our Response Services
     actions: []
     blog_feed_cols: three

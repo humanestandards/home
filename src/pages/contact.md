@@ -137,27 +137,6 @@ sections:
     subtitle: More ways to Connect
     actions: []
     grid_items:
-      - title: News & Updates
-        subtitle: Our Telegram Channel
-        title_align: left
-        content: ''
-        content_align: left
-        actions:
-          - label: Connect
-            url: 'https://t.me/humanestandards'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: left
-            new_window: true
-            type: action
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
       - title: LinkedIn
         subtitle: Join our Professional Page
         title_align: left
@@ -236,7 +215,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: Medium
-    subtitle: Explore our Archived Publications
+    subtitle: Explore our Archived Publications (Not Updated Content)
     content: ''
     actions:
       - label: Read
