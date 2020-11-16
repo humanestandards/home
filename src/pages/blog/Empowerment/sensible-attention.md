@@ -24,7 +24,8 @@ The 2nd State of the Humane Standards, measures our Sensible Attention as a Mome
 
 **5.** **Smell**
 
-![](https://cdn-images-1.medium.com/max/906/1*c3tT3bjK-yFvqNKKzuRldw.png)
+![](/images/S02-Sensible Attention.png)
+*<p align="center"><a href="/images/S02-Sensible Attention.png" download>Click to Download</a><br></p>*
 
 ![](https://cdn-images-1.medium.com/max/906/1*3ZiccPJU1H-pAcvE1TsgFw.png)
 

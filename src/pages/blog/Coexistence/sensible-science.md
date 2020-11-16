@@ -22,7 +22,8 @@ image: /images/hs-main-pic.jpg
 * Density, becomes a Social matter between **Resistant Formations** of Relational Networks.
 * Through Multiplication and Reproduction, they become **Conductive Conversions** of Identified and Independent Identities of the Self.
 
-![](https://cdn-images-1.medium.com/max/906/1*oPQEniBrdC5IXYrb8PPOtA.png)
+![](/images/S05-Sensible Science.png)
+*<p align="center"><a href="/images/S05-Sensible Science.png" download>Click to Download</a><br></p>*
 
 One’s Self acquires Logic over the aforementioned Properties of itself and attains the abilities of:
 

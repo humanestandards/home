@@ -20,6 +20,9 @@ Our **Left Hand** is associated with the Measures of an **Enlightened Sensible I
 
 **Enlightenment is the Intensity of an Attentive Experience**, and it denotes **Capacity**; the Value of **Magnitude** which has **Coverage** over **Convertible** **Formations**.
 
+![](/images/S03-Sensible Intention.png)
+*<p align="center"><a href="![](/images/S03-Sensible Intention.png" download>Click to Download</a><br></p>*
+
 The Logic concerning our Resources expands to the following Five Classifications of Attention:
 
 **1.** **Detachment**

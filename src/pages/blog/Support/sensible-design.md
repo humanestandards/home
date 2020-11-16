@@ -14,7 +14,8 @@ image: /images/HD Main Pic.jpg
 ---
 Humane and therefore Sensible Design is a Scientific Practice of meta-Governance which can be applied in all domains and levels of life.
 
-![](https://cdn-images-1.medium.com/max/906/1*MNMUsKS6dwQxuhK9dHr2DA.png)
+![](/images/S04-Sensible Design.png)
+*<p align="center"><a href="/images/S04-Sensible Design.png" download>Click to Download</a><br></p>*
 
 **Design is the Character of a Function and it is an act of Governance. As the expression of an idea it is the process of forming a Coherent Synthesis with reference to what we actually perceive as possible.**
 

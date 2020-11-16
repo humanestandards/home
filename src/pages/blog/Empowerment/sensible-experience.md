@@ -18,9 +18,11 @@ image: /images/HE Main Pic.jpg
 
 **The 1st State constitutes Sensible Experience; a Passive form of Observation surrounding the Potential Value of the Static in Time Past.**
 
-![](https://cdn-images-1.medium.com/max/906/1*9XiBZlo49_gD0YDzmaHEOQ.png)
+![](/images/S01-Sensible Experience.png)
+*<p align="center"><a href="/images/S01-Sensible Experience.png" download>Click to Download</a><br></p>*
 
-The Terminals of the human body which the Humane Standards use as a Pedagogic Reference to the Analysis of the Past are the Right hand and foot. They both Function as an Analogy to our Tensional Cognition that takes place in the Right hemisphere of our Brain.
+
+The Terminals of the human body which the Humane Standards use as a Mnemonic Reference to the Analysis of the Past are the Right hand and foot. They both Function as an Analogy to our Tensional Cognition that takes place in the Right hemisphere of our Brain.
 
 The **Right Hand** is our Pedagogic Terminal, or Gamepad for Measuring a Humane and therefore Sensible Experience, which is Liberated from Pain and Sorrow.
 
