@@ -16,13 +16,6 @@ logicFields:
   - grid_section.background_image_opacity
   - cta_section.background_image_opacity
   - form_section.background_image_opacity
-  - advanced.sections.background_image_opacity
-  - advanced.sections.background_image_opacity
-  - advanced.sections.background_image_opacity
-  - advanced.sections.recent_count
-  - advanced.sections.background_image_opacity
-  - advanced.sections.background_image_opacity
-  - advanced.sections.background_image_opacity
 models:
   config:
     type: config
