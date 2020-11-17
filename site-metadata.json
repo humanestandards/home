@@ -49,7 +49,7 @@
             },
             {
                 "label": "Subscribe",
-                "url": "http://youtube.humanestandards.com/subscribe",
+                "url": "https://my.humanestandards.com/youtube",
                 "style": "secondary",
                 "has_icon": true,
                 "icon": "youtube",
