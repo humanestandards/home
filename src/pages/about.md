@@ -204,94 +204,47 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: Navigation
-    subtitle: Humane Standards Portal
-    actions: []
-    grid_items:
-      - title: Practice
-        subtitle: Coming Soon...
-        title_align: left
-        content: ''
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-      - title: Investigate
-        subtitle: ''
-        title_align: left
-        content: ''
-        content_align: left
-        actions:
-          - label: Empowerment
-            url: /self/empowerment
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            type: action
-          - label: Support
-            url: /self/support
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            type: action
-          - label: Coexistence
-            url: /self/coexistence
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            type: action
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-      - title: Grow
-        subtitle: ''
-        title_align: left
-        content: ''
-        content_align: left
-        actions:
-          - label: Connect
-            url: /contact
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            type: action
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-    grid_cols: three
-    grid_gap_vert: small
-    grid_gap_horiz: small
-    enable_cards: true
-    align: center
-    padding_top: medium
-    padding_bottom: medium
+  - title: The New Humane Standards
+    subtitle: "\U0001F938‍♂️ Being Human, Matters!"
+    content: ''
+    actions:
+      - label: Home
+        url: /index
+        style: primary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        type: action
+      - label: Intelligence
+        url: /intelligence
+        style: primary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        type: action
+      - label: Connect
+        url: /contact
+        style: primary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        type: action
+    video_embed_html: ''
+    media_position: top
+    media_width: fifty
+    align: left
+    padding_top: large
+    padding_bottom: large
     has_border: false
-    background_color: secondary
-    background_image_opacity: 0
+    background_color: primary
+    background_image_opacity: 31
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-    type: grid_section
+    type: hero_section
+    background_image: images/HEconomy_Prologue_Cover.jpg
 template: advanced
 ---

@@ -16,7 +16,7 @@ sections:
     subtitle: Liberty & Peace for Everyone
     content: >-
       The lack of proper education makes some people wrongly believe that
-      Personal Freedom and World Peace are unrealistic expectations.
+      Personal Freedom and Good Governance are unrealistic expectations.
 
 
       The Humane Standards are a well-grounded research which proves the exact
@@ -24,11 +24,11 @@ sections:
 
 
       Each Human is an Autonomous and Coherent Organism. Autonomy means Freedom,
-      and Coherence is only Possible when Peace reigns.
+      and Coherence is only Possible with Good Governance.
 
 
-      ⚡Self-Empowerment⚡ allows us to embrace our Physical Liberties, and bring
-      Peace to the World.
+      ⚡Self-Empowerment⚡ allows us to embrace our Physical Liberties, and enable
+      World Peace.
     actions: []
     video_embed_html: ''
     media_position: top
@@ -45,14 +45,10 @@ sections:
     type: hero_section
   - type: grid_section
     title: How?
-    subtitle: >-
-      Prescriptive Pathogenesis (from the Greek πάθος pathos = passion, disease
-      and γένεσις genesis =birth), is a form of Intuitive Guidance, that is
-      based on our Reflexes - surrounding the Source and Resources of our
-      Problems. Our Prescriptions are based upon our:
+    subtitle: The means of Self-Governance
     grid_items:
       - type: grid_item
-        title: Liberty Genesis
+        title: Self-Description
         title_align: left
         content: ''
         content_align: left
@@ -62,9 +58,9 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-        subtitle: Our Self-Description
+        subtitle: Our Input Feedback
       - type: grid_item
-        title: Peace Mimesis
+        title: Self-Adaptation
         title_align: left
         content: ''
         content_align: left
@@ -75,8 +71,64 @@ sections:
         image_align: left
         image_has_padding: true
         image_width: twenty-five
-        subtitle: Our Self-Adaptation
-    grid_cols: two
+        subtitle: Our Indexing Evaluation
+      - title: Self-Consent
+        subtitle: Our Deployment Control
+        title_align: left
+        content: ''
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: true
+        type: grid_item
+        image: images/3.svg
+      - title: Self-Testing
+        subtitle: Our Modeling Classification
+        title_align: left
+        content: ''
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: true
+        type: grid_item
+        image: images/4.svg
+      - title: Self-Control
+        subtitle: Our Memory Allocation
+        title_align: left
+        content: ''
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: true
+        type: grid_item
+        image: images/5.svg
+      - title: Self-Prediction
+        subtitle: Our Output Feedback
+        title_align: left
+        content: ''
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: true
+        type: grid_item
+        image: images/6.svg
+    grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: true
@@ -100,52 +152,24 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: 1. Self-Description Ingredients
-    subtitle: Defining our Empowerment Services
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
     actions: []
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: false
-    recent_count: 0
-    show_date: true
-    show_categories: false
-    show_author: false
-    show_excerpt: false
-    show_image: true
-    align: left
+    grid_items: []
+    grid_cols: three
+    grid_gap_vert: small
+    grid_gap_horiz: small
+    enable_cards: false
+    align: center
     padding_top: medium
     padding_bottom: medium
     has_border: false
-    background_color: primary
+    background_color: none
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-    type: blog_feed_section
-    category: src/data/categories/ingredients.json
-  - title: 2. Self-Adaptation Topics
-    subtitle: Defining our Resources Services
-    actions: []
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: false
-    recent_count: 0
-    show_date: true
-    show_categories: false
-    show_author: false
-    show_excerpt: false
-    show_image: true
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: blog_feed_section
-    category: src/data/categories/journals.json
+    type: grid_section
   - type: cta_section
     title: 'So far, so good?'
     content: What to do with our Ingredients and Topics? Let's find out...
