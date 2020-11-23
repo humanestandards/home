@@ -11,8 +11,8 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Empowerment",
-                "url": "/self/empowerment",
+                "label": "About",
+                "url": "/about",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
@@ -21,23 +21,18 @@
                 "type": "action"
             },
             {
-                "label": "Support",
-                "url": "/self/support",
-                "style": "link"
-            },
-            {
-                "label": "Coexistence",
-                "url": "/self/coexistence",
-                "style": "link"
+                "label": "Intelligence",
+                "url": "/intelligence",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "type": "action"
             }
         ],
         "has_secondary_nav": true,
         "secondary_nav_links": [
-            {
-                "label": "Information",
-                "url": "/about",
-                "style": "link"
-            },
             {
                 "label": "Connect",
                 "url": "/contact",
@@ -49,7 +44,7 @@
             },
             {
                 "label": "Subscribe",
-                "url": "https://my.humanestandards.com/youtube",
+                "url": "http://youtube.humanestandards.com/subscribe",
                 "style": "secondary",
                 "has_icon": true,
                 "icon": "youtube",
@@ -67,7 +62,7 @@
         "logo": "/images/humane-standards-icon.png"
     },
     "title": "Humane Standards",
-    "baseUrl":"https://humanestandards.com",
+    "baseUrl": "https://humanestandards.com",
     "footer": {
         "has_primary_nav": false,
         "primary_nav_title": "",
@@ -80,16 +75,16 @@
         "tertiary_nav_links": [],
         "has_social": false,
         "social_links": [
-                  {
+            {
                 "label": "Twitter",
                 "url": "https://twitter.com/humanestandards",
                 "new_window": true
-                },
-                {
+            },
+            {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/company/humanestandards/",
                 "new_window": true
-                }
+            }
         ],
         "content": "Humane Standards 2020 |_",
         "links": [
