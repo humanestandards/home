@@ -11,18 +11,19 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "About",
-                "url": "/about",
+                "label": "Intelligence",
+                "url": "/intelligence",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
                 "icon_position": "right",
                 "new_window": false,
                 "type": "action"
+
             },
             {
-                "label": "Intelligence",
-                "url": "/intelligence",
+                "label": "About",
+                "url": "/about",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
