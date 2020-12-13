@@ -22,9 +22,35 @@ sections:
     background_color: primary
     background_image: /images/scientific-pineapple.jpg
     background_image_opacity: 10
+  - title: Our New Humane Standards
+    subtitle: The Ingredients of a Sensible & Responsible Life.
+    content: ''
+    actions:
+      - label: Free Download
+        url: /blog/sensible-stencils
+        style: primary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        type: action
+    video_embed_html: ''
+    media_position: top
+    media_width: fifty
+    align: left
+    padding_top: large
+    padding_bottom: medium
+    has_border: false
+    background_color: secondary
+    background_image_opacity: 30
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
+    background_image: images/HS_Stencils_Back.png
   - type: blog_feed_section
-    title: Our New Standards
-    subtitle: Intelligence Archive
+    title: Intelligence
+    subtitle: Our Archives
     actions:
       - type: action
         label: View All
