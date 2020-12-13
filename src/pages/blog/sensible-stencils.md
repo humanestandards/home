@@ -46,15 +46,14 @@ The Five Fields of Humane Intelligence are the following:
 
 # The Stencils
 
+![](/images/S01-Sensible Experience.png)
+
+![](/images/S02-Sensible Attention.png)
+
+![](/images/S03-Sensible Intention.png)
+
+![](/images/S04-Sensible Design.png)
+
 ![](/images/S05-Sensible Science.png)
-*<p align="center"><a href="/images/S01-Sensible Experience.png" </a><br></p>*
-
-*<p align="center"><a href="/images/S02-Sensible Attention.png" </a><br></p>*
-
-*<p align="center"><a href="/images/S03-Sensible Intention.png" </a><br></p>*
-
-*<p align="center"><a href="/images/S04-Sensible Design.png" </a><br></p>*
-
-*<p align="center"><a href="/images/S05-Sensible Science.png" </a><br></p>*
 
 *<p align="center"><a href="/images/humanestandards_stencils.zip" download>Click to Download</a><br></p>*
