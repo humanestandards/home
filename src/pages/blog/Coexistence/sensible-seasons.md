@@ -35,11 +35,11 @@ Although we propose a Standard Annual Planning which is presented below, you can
 **The Sensible Seasons progress Annually in the proceeding Cyclical and Algorithmic Sequence:**
 
 1. **JUNE — JULY: Empowerment Genesis**
-2. **AUGUST — SEPTEMBER: Support Mimesis**
-3. **OCTOBER — NOVEMBER: Coexistence Practice**
-4. **DECEMBER — JANUARY: Coexistence Investigation**
-5. **FEBRUARY — MARCH: Support Growth**
-6. **APRIL — MAY: Empowerment Inheritance**
+2. **AUGUST — SEPTEMBER: Support Practice**
+3. **OCTOBER — NOVEMBER: Coexistence Growth**
+4. **DECEMBER — JANUARY: Empowerment Inheritance**
+5. **FEBRUARY — MARCH: Support Investigation**
+6. **APRIL — MAY: Coexistence Mimesis**
 
 _Here we can witness 3 Recurrent Phases — that one of Empowerment, one for Support and one for Coexistence. Each of them, are further divided into 2 Operations._
 
