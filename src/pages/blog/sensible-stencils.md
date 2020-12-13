@@ -34,7 +34,7 @@ The Humane Standards compose a Principled Epistemology of Everything. As a Proto
 
 Our Sensible Stencils offer a Composition concerning the Five Primal Fields of Humane Intelligence. They are also based on the Colors of the Visible Spectrum; the portion of the electromagnetic spectrum that is visible to the human eye.
 
-Electromagnetic radiation in this range of wavelengths is called visible light or simply light. That being said, Humane Intelligence turns to be Literally and from a Neurological point of view, the Enlightening Experience of Attentive Intentions.
+Electromagnetic radiation in this range of wavelengths is called visible light or simply light. That being said, Humane Intelligence turns to be Literally and from a Neurological point of view, the Enlightening Experience of Attentive Intentions. 
 
 The Five Fields of Humane Intelligence are the following:
 
