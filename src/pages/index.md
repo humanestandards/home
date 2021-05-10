@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Humane Standards
-    subtitle: Optional hero section subtitle
+    subtitle: Hybrid-Reality Symbiosis Standardization
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
