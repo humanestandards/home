@@ -202,6 +202,7 @@ sections:
     padding_bottom: large
     background_color: secondary
     background_image: /images/Humane Systems PlayGrounds Background.png
+    background_image_opacity: 30
 seo:
   type: stackbit_page_meta
   title: Stackbit DIY Theme
