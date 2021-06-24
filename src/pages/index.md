@@ -13,10 +13,6 @@ sections:
         label: Try Free
         url: /pricing
         style: primary
-      - type: action
-        label: Learn More
-        url: /features
-        style: secondary
     image: /images/PeopleRemote.png
     image_alt: Hero section placeholder image
     media_position: left
