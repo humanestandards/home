@@ -38,7 +38,7 @@ sections:
           - type: action
             label: Follow
             url: 'https://www.linkedin.com/company/humanestandards/'
-            style: primary
+            style: link
             has_icon: true
             icon: linkedin
             icon_position: left
