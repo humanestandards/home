@@ -16,7 +16,7 @@ sections:
         content_align: center
         actions:
           - type: action
-            label: Like
+            label: Facebook
             url: /general-enquiries
             style: link
             has_icon: true
