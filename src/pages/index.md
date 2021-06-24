@@ -27,7 +27,7 @@ sections:
     features:
       - type: feature
         title: "\U0001F642 General Intelligence"
-        subtitle: General is our Collective Intelligence.
+        subtitle: It's not what you think...
         content: >
           The Intelligence which is Generic, Inclusive and Autonomous is also
 
