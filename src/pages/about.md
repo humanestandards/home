@@ -7,7 +7,7 @@ sections:
     align: center
     background_color: secondary
     background_image: /images/Humane Governance - 21.png
-    background_image_opacity: 15
+    background_image_opacity: 12
     content: >
       The Humane Standards are a Family of 180 Capabilities for Hybrid-Reality
       Sensibility.
