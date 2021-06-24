@@ -108,7 +108,7 @@ sections:
     actions:
       - type: action
         label: Contact us
-        url: /pricing
+        url: /connect
         style: primary
     align: center
     padding_top: medium
