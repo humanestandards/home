@@ -22,7 +22,6 @@ sections:
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
-    title: How we do it?
   - actions: []
     grid_items:
       - title: 1️⃣ Economic Liberty
