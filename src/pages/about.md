@@ -43,7 +43,7 @@ sections:
         image_has_padding: false
         type: grid_item
         content: >
-          The Practice of Sentience defines and measures Ecophysiological
+          The Practice of Sentience which defines and measures Ecophysiological
           Equality.
       - title: 3️⃣ Ecological Solidarity
         subtitle: Sensible Care Interaction
