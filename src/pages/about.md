@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: Our NEW Humane Standards
-    subtitle: Our Business is Sensible Governance.
+    subtitle: About
     align: center
     background_color: secondary
     background_image: /images/Humane Governance - 21.png
