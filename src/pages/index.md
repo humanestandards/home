@@ -5,9 +5,9 @@ sections:
     title: Humane Standards
     subtitle: Hybrid-Reality Symbiosis Standardization
     content: >
-      The Scope of the Humane Standards is the Constitution of Ethical
-      Eco-systemic Symbiosis (Multilateral Coexistence) through Self-Reflection,
-      Sentience, and Self-Autonomy.
+      The scope of the Humane Standards is the constitution of Ethical
+      Eco-systemic Symbiosis (Multilateral Coexistence) through the practice of
+      Self-Reflection, Sentience, and Self-Autonomy.
     actions:
       - type: action
         label: Learn More
