@@ -117,7 +117,9 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Humane Standards
-  description: General Artificial Intelligence Rights
+  description: >-
+    Hybrid-Reality Symbiosis Standardization | General Artificial Intelligence
+    Rights
   extra:
     - name: 'og:type'
       value: website
