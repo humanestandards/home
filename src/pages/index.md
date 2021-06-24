@@ -182,6 +182,7 @@ sections:
     background_color: primary
     background_image: /images/Humane Systems PlayGrounds Background.png
     background_image_opacity: 30
+    background_image_position: center top
   - type: blog_feed_section
     title: What's New
     subtitle: Blog Feed Section Example
