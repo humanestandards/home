@@ -165,24 +165,6 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-  - type: cta_section
-    title: Remote PlayGrounds
-    content: |
-      A Console for Fair-Play Digital & Physical Symbiosis.
-    actions:
-      - type: action
-        label: Coming Soon
-        url: /features
-        style: primary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    background_image: /images/Humane Systems PlayGrounds Background.png
-    background_image_opacity: 30
-    background_image_position: center center
   - type: blog_feed_section
     title: What's New
     subtitle: Blog Feed Section Example
