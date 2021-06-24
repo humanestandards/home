@@ -70,7 +70,7 @@ sections:
         image_has_padding: true
         actions_width: full-width
         title: YouTube
-        subtitle: Watch our Humane Standards Originals
+        subtitle: Enjoy our Humane Standards Originals
     grid_cols: three
     grid_gap_vert: medium
     grid_gap_horiz: medium
