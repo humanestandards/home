@@ -62,7 +62,7 @@ sections:
         media_position: left
         media_width: fifty
       - type: feature
-        title: Our Common Ground
+        title: Remote Autonomy
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
