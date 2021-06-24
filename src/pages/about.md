@@ -25,7 +25,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: 2️⃣ Ecophysiological Equality
-        subtitle: lorem-ipsum
+        subtitle: Intelligence Curation
         title_align: left
         content_align: left
         actions: []
