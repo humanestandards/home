@@ -23,12 +23,6 @@
                 "label": "About",
                 "url": "/pricing",
                 "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link"
             }
         ],
         "has_secondary_nav": true,
