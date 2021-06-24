@@ -5,7 +5,7 @@ sections:
     title: One of us?
     subtitle: Humane Standards Channels
     align: center
-    padding_top: small
+    padding_top: none
     padding_bottom: small
     has_border: true
     background_color: primary
