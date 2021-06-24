@@ -108,7 +108,7 @@ sections:
     actions:
       - type: action
         label: Connect
-        url: /connect
+        url: /contact
         style: primary
     align: center
     padding_top: large
