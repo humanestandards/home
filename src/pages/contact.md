@@ -34,7 +34,7 @@ sections:
         actions:
           - type: action
             label: LinkedIn
-            url: /general-enquiries
+            url: 'https://www.linkedin.com/company/humanestandards/'
             style: secondary
             has_icon: true
             icon: arrow-right
