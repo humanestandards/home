@@ -3,7 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: One of us?
-    subtitle: 'All People, part of One Family'
+    subtitle: Humane Standards Channels
     align: center
     padding_top: small
     padding_bottom: small
