@@ -77,7 +77,7 @@ sections:
     background_color: secondary
     padding_top: large
   - type: blog_feed_section
-    title: What's New
+    title: Our Latest Kits
     subtitle: Intelligence Curation
     actions:
       - type: action
