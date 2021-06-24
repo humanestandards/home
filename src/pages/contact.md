@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - type: hero_section
-    title: Connect
+    title: One of us?
     subtitle: 'All People, part of One Family'
     align: center
     padding_top: small
