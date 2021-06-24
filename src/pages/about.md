@@ -78,7 +78,7 @@ sections:
     features:
       - type: feature
         title: Sensibility Standardisation
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: A Universal Language for Human and Machine Learning
         content: >
           The Humane Standards are a Lineage of 5 Families of Indices for
           Sensible Hybrid-Reality Symbiosis (Coexistence).
