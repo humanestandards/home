@@ -88,7 +88,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-    padding_top: medium
+    padding_top: large
   - type: grid_section
     title: Cards Grid Section
     subtitle: Grid Section Example
