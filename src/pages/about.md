@@ -12,7 +12,7 @@ sections:
       The Humane Standards are a Family of 180 Capabilities for Hybrid-Reality
       Sensibility.
     image: /images/Humane Standards.png
-    padding_bottom: medium
+    padding_bottom: large
   - actions: []
     grid_items:
       - title: 1️⃣ Economic Liberty
