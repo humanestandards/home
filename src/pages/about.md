@@ -9,7 +9,7 @@ sections:
     background_image: /images/Humane Standards Cover.jpg
     background_image_opacity: 30
     content: >
-      The Humane Standards are a Family of 180 Indices of Hybrid-Reality
+      The Humane Standards are a Family of 180 Capabilities for Hybrid-Reality
       Sensibility.
   - actions: []
     grid_items:
