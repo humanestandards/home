@@ -54,7 +54,7 @@ sections:
             style: link
             has_icon: true
             icon: youtube
-            icon_position: right
+            icon_position: left
         actions_align: center
         image_alt: Other queries icon
         image_position: top
