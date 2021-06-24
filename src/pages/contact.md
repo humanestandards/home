@@ -46,6 +46,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
+        actions_width: full-width
       - type: grid_item
         title_align: center
         content_align: center
