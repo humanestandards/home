@@ -44,10 +44,11 @@ sections:
         media_width: fifty
       - type: feature
         title: ✋ Fair-Play Kits
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          *Our Fair-Play Kits are Gamified Ecosystems for Self-Reflection,
+          Sentience, and Self-Autonomy. They are inclusive to All ethnicities,
+          social states, ideologies, beliefs, and any other characteristics we
+          may have, and they may help us Be Sensible Humans - Together.*
         actions: []
         image: images/classic/feature-2.png
         image_alt: Feature 2 placeholder image
