@@ -68,7 +68,7 @@ sections:
           if that is being done by the newer generations who always suffer by
           the mistakes of their families.
         actions: []
-        image: /images/5 Conducts.png
+        image: /images/solar-system.svg
         image_alt: Feature 3 placeholder image
         media_position: left
         media_width: fifty
