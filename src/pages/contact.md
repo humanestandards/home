@@ -29,7 +29,6 @@ sections:
         image_has_padding: false
         image_width: twenty-five
       - type: grid_item
-        title: Support
         title_align: center
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
