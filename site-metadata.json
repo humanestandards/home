@@ -41,7 +41,7 @@
             {
                 "type": "action",
                 "label": "Play",
-                "url": "/pricing",
+                "url": "/blog",
                 "style": "primary"
             }
         ],
