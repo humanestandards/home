@@ -101,16 +101,6 @@
         "social_links": [
             {
                 "type": "action",
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "twitter",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "type": "action",
                 "label": "GitHub",
                 "url": "https://github.com/",
                 "style": "link",
