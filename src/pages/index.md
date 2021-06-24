@@ -45,7 +45,7 @@ sections:
       - type: feature
         title: ✋ Fair-Play Kits
         content: >
-          *Our Fair-Play Kits are Gamified Ecosystems for Self-Reflection,
+          *The Humane Standards are a Fair-Play Kit for Self-Reflection,
           Sentience, and Self-Autonomy. They are inclusive to All ethnicities,
           social states, ideologies, beliefs, and any other characteristics we
           may have, and they may help us Be Sensible Humans - Together.*
