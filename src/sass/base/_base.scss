@@ -1,12 +1,50 @@
 /**
  * Base Styles
  */
+ html,
+ body {
+ 	height: auto;
+ 	margin: 0;
+ }
+ body {
+     background: linear-gradient(142deg, #85efff, #0041ff, #00fff4, #7300b8);
+     background-size: 800% 800%;
+
+     -webkit-animation: AnimationName 34s ease infinite;
+     -moz-animation: AnimationName 34s ease infinite;
+     -o-animation: AnimationName 34s ease infinite;
+     animation: AnimationName 34s ease infinite;
+ }
+
+ @-webkit-keyframes AnimationName {
+     0%{background-position:2% 0%}
+     50%{background-position:99% 100%}
+     100%{background-position:2% 0%}
+ }
+ @-moz-keyframes AnimationName {
+     0%{background-position:2% 0%}
+     50%{background-position:99% 100%}
+     100%{background-position:2% 0%}
+ }
+ @-o-keyframes AnimationName {
+     0%{background-position:2% 0%}
+     50%{background-position:99% 100%}
+     100%{background-position:2% 0%}
+ }
+ @keyframes AnimationName {
+     0%{background-position:2% 0%}
+     50%{background-position:99% 100%}
+     100%{background-position:2% 0%}
+ }
+
+
+
 html {
 	font-size: 112.5%;
 }
 
 body {
-	background-color: $color-body-bg;
+
 	color: $color-body-text;
 	line-height: 1.66667;
 	text-rendering: optimizeLegibility;
@@ -34,7 +72,6 @@ a {
 		text-decoration: none;
 	}
 }
-
 h1,
 h2,
 h3,
@@ -68,7 +105,7 @@ h3 {
 }
 
 h4 {
-	font-size: 1.33333em;
+  font-size: 1.66667em
 }
 
 h5 {
@@ -85,6 +122,7 @@ ins {
 	color: $color-highlight-text;
 	padding: 0.125em 0.25em;
 	text-decoration: none;
+
 }
 
 blockquote {
@@ -116,7 +154,7 @@ pre {
 .style-classic {
 	pre {
 		background-color: $color-code-bg;
-		border-radius: 6px;
+		border-radius: 1.5em;
 	}
 }
 
@@ -182,17 +220,20 @@ iframe,
 object,
 video {
 	max-width: 100%;
+  border-radius: 1.5em;
 }
 
 img {
 	height: auto;
 	max-width: 100%;
+  border-radius: 1.5em;
+
 }
 
 .style-classic {
 	.site-content {
 		img {
-			border-radius: 6px;
+			border-radius: 1.5em;
 		}
 	}
 }

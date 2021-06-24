@@ -4,10 +4,13 @@
 .announcement-bar {
 	background: $color-anncmnt-bg;
 	position: relative;
+	border-radius: 1.5em;
 }
 
 .announcement-bar__copy {
 	font-size: 0.875rem;
+	font-weight: 700;
+	color: $color-green;
 
 	> :last-child {
 		margin-bottom: 0;
