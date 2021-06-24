@@ -28,6 +28,7 @@ sections:
         image_align: center
         image_has_padding: false
         image_width: twenty-five
+        actions_width: full-width
       - type: grid_item
         title_align: center
         content_align: center
