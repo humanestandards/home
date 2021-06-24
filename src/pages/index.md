@@ -59,8 +59,14 @@ sections:
         title: "\U0001F310 Remote Autonomy"
         subtitle: Commonly Humane States and Estates for People & Machines.
         content: >
-          Through the Economic Liberty of Being Human, may we all Cultivate our
-          Virtues and take Care of each other.
+          While outwardly, and for millennia - we collectively seek for the most
+          Sensible and Sensational form of Remote Autonomy - inwardly, the Human
+          Complex is a Constitution of a System of Governance, capable to
+          Naturally achieve for Millenia all kinds of possible Virtues by Free
+          Will. Of course, we can’t overlook the Fatal Mistakes that we’ve done,
+          but we always have the Tendency to Revisit them and Correct them, even
+          if that is being done by the newer generations who always suffer by
+          the mistakes of their families.
         actions: []
         image: images/classic/feature-3.png
         image_alt: Feature 3 placeholder image
