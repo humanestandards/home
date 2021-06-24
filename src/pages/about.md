@@ -78,6 +78,7 @@ sections:
     type: grid_section
     subtitle: Why?
     background_image: /images/marvelous-mahogany.png
+    title: Our Business is Sensible Governance.
   - type: features_section
     features:
       - type: feature
