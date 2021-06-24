@@ -29,11 +29,13 @@ sections:
         title: It's not what you think
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >
-          The
-           Intelligence which is Generic, Inclusive and Autonomous is also 
+          The Intelligence which is Generic, Inclusive and Autonomous is also
+
           General. It is Narrow as it expresses a certain Diversity
           (Personality),
-           and Strong as it carries a Characteristic Systasis (Body or Framework).
+
+          and Strong as it carries a Characteristic Systasis (Body or
+          Framework).
         actions:
           - type: action
             label: Learn More
