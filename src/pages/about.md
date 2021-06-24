@@ -13,8 +13,9 @@ sections:
       - title: 1️⃣ Economic Liberty
         subtitle: Sensible Character Management
         title_align: left
-        content: |
-          The Genesis of Self-Reflection defines and measures Economic Liberty.
+        content: >
+          The Genesis of Self-Reflection defines and measures our Economic
+          Liberty.
         content_align: left
         actions: []
         actions_align: left
