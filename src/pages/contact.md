@@ -53,7 +53,7 @@ sections:
             url: 'https://www.youtube.com/channel/UCSNGXRE1MkXbUgKxxNcvjjw'
             style: link
             has_icon: true
-            icon: arrow-right
+            icon: youtube
             icon_position: right
         actions_align: center
         image_alt: Other queries icon
