@@ -180,6 +180,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
+    background_image: /images/Humane Systems PlayGrounds Background.png
   - type: blog_feed_section
     title: What's New
     subtitle: Blog Feed Section Example
