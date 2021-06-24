@@ -59,7 +59,7 @@ sections:
         image_has_padding: false
         type: grid_item
         content: >
-          The Mimesis of Self-Autonomy defines and measures Ecological
+          The Mimesis of Self-Autonomy which defines and measures Ecological
           Solidarity.
     grid_cols: three
     grid_gap_vert: small
