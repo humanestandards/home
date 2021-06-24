@@ -4,9 +4,10 @@ sections:
   - type: hero_section
     title: Humane Standards
     subtitle: Hybrid-Reality Symbiosis Standardization
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      The Scope of the Humane Standards is to Constitute Ethical Eco-systemic
+      Symbiosis (Natural Governance) through Self-Reflection, Sentience, and
+      Self-Autonomy. 
     actions:
       - type: action
         label: Try Free
