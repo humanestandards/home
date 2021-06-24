@@ -8,6 +8,9 @@ sections:
     background_color: primary
     background_image: /images/Humane Standards Cover.jpg
     background_image_opacity: 50
+    content: >
+      The Humane Standards are a Family of 180 Indices of Sensible
+      Hybrid-Reality Symbiosis (Coexistence).
   - actions: []
     grid_items:
       - title: 1️⃣ Economic Liberty
