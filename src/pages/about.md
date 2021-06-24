@@ -13,7 +13,7 @@ sections:
         subtitle: lorem-ipsum
         title_align: left
         content: |
-          *
+          The Genesis of Self-Reflection defines and measures Economic Liberty.
         content_align: left
         actions: []
         actions_align: left
