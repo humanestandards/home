@@ -21,7 +21,7 @@ sections:
             style: secondary
             has_icon: true
             icon: facebook
-            icon_position: right
+            icon_position: left
         actions_align: center
         image: /images/fabulous-aluminum.svg
         image_alt: Partnering and sponsorships icon
