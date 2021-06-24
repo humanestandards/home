@@ -10,7 +10,7 @@ sections:
     background_image_opacity: 50
   - actions: []
     grid_items:
-      - title: 1️⃣ Economic Freedom
+      - title: 1️⃣ Economic Liberty
         subtitle: Sensible Character Management
         title_align: left
         content: |
