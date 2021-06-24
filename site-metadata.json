@@ -29,12 +29,6 @@
         "secondary_nav_links": [
             {
                 "type": "action",
-                "label": "Connect",
-                "url": "/contact",
-                "style": "link"
-            },
-            {
-                "type": "action",
                 "label": "Play",
                 "url": "/pricing",
                 "style": "primary"
