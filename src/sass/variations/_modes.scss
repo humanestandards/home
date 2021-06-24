@@ -5,6 +5,7 @@
 	&.style-classic {
 		.card--highlight {
 			box-shadow: none;
+            border-radius: 1.3em;
 
 			&:hover {
 				box-shadow: 0 2px 30px $color-classic-card-shadow;
