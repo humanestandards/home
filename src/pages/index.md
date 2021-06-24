@@ -38,7 +38,7 @@ sections:
           and Strong as it carries a Characteristic Systasis (Body or
           Framework).
         actions: []
-        image: images/classic/feature-1.png
+        image: /images/groovy-anemone.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
