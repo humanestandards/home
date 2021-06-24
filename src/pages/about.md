@@ -88,7 +88,9 @@ sections:
         media_width: fifty
       - type: feature
         title: 2️⃣ Ecophysiological Equality
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: >-
+          A framework of an Identity, over which, People and Computers can
+          Self-Reflect.
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
