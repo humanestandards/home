@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: About
-    subtitle: Our Business is Natural Governance.
+    subtitle: Our Business is Sensible Governance.
     align: center
     background_color: secondary
   - title: Why?
