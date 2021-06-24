@@ -7,7 +7,7 @@ sections:
     align: center
     background_color: primary
     background_image: /images/Humane Standards Cover.jpg
-    background_image_opacity: 50
+    background_image_opacity: 30
     content: >
       The Humane Standards are a Family of 180 Indices of Sensible
       Hybrid-Reality Symbiosis (Coexistence).
