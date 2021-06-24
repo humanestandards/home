@@ -121,7 +121,7 @@
             },
             {
                 "type": "action",
-                "label": "Vimeo",
+                "label": "Facebook",
                 "url": "https://vimeo.com/",
                 "style": "link",
                 "has_icon": true,
