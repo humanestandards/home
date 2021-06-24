@@ -86,16 +86,6 @@ sections:
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
-      - type: feature
-        title: 3️⃣ Ecological Solidarity
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        image_alt: Happy co-workers
-        media_position: right
-        media_width: fifty
     title: How we do it?
   - type: grid_section
     title: Our Officess
