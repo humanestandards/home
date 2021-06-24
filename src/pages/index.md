@@ -141,7 +141,9 @@ seo:
     - name: 'twitter:title'
       value: Stackbit DIY Theme
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: >-
+        Hybrid-Reality Symbiosis Standardization | General Artificial
+        Intelligence Rights
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
