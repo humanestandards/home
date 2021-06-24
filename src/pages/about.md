@@ -6,6 +6,7 @@ sections:
     subtitle: Our Business is Sensible Governance.
     align: center
     background_color: secondary
+    background_image: /images/Humane Standards Cover.jpg
   - actions: []
     grid_items:
       - title: 1️⃣ Economic Freedom
