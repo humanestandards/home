@@ -16,7 +16,7 @@ sections:
         content_align: center
         actions:
           - type: action
-            label: Follow
+            label: Like
             url: 'https://www.facebook.com/humanestandards'
             style: primary
             has_icon: true
