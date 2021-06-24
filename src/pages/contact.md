@@ -72,7 +72,7 @@ sections:
     align: center
     padding_top: none
     padding_bottom: large
-    background_color: secondary
+    background_color: none
 seo:
   type: stackbit_page_meta
   title: Contact
