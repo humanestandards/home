@@ -26,7 +26,7 @@ sections:
     subtitle: Welcome to the Future
     features:
       - type: feature
-        title: "\U0001F642 Humane Complexity Format (HCF)"
+        title: "\U0001F642 Humane Complexity"
         subtitle: 'It''s not what you think, but who you are.'
         content: >
           General is our Collective Intelligence. The Intelligence which is
