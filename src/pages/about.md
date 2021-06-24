@@ -43,8 +43,8 @@ sections:
         image_has_padding: false
         type: grid_item
         content: >
-          The Practice of Sentience which defines and measures Ecophysiological
-          Equality through Diversity and Inclusion.
+          Through the Practice of Sentience, we define and measure the principle
+          of Ecophysiological Equality (Inclusive Diversity).
       - title: 3️⃣ Ecological Solidarity
         subtitle: Sensible Care Interaction
         title_align: left
