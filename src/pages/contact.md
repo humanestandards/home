@@ -9,7 +9,6 @@ sections:
     padding_bottom: small
     has_border: true
     background_color: none
-    image: /images/HS_Connect_Cover.jpg
   - type: grid_section
     grid_items:
       - type: grid_item
