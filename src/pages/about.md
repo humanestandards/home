@@ -5,7 +5,7 @@ sections:
     title: About HS
     subtitle: Our Business is Sensible Governance.
     align: center
-    background_color: primary
+    background_color: secondary
     background_image: /images/Humane Governance - 21.png
     background_image_opacity: 15
     content: >
