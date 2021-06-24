@@ -71,7 +71,6 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     subtitle: Why?
-    background_image: /images/Humane Standards.png
   - type: features_section
     features:
       - type: feature
