@@ -77,7 +77,7 @@ sections:
   - type: features_section
     features:
       - type: feature
-        title: 1️⃣ Economic Freedom
+        title: Sensibility Standardisation
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
