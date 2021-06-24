@@ -26,7 +26,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: /images/facebook-logo.svg
+        image: /images/facebook.svg
         image_alt: Partnering and sponsorships icon
         image_position: top
         image_align: center
