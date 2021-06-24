@@ -24,46 +24,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - type: grid_section
-    title: Image Grid
-    subtitle: Grid Section Example
-    grid_items:
-      - type: grid_item
-        image: images/logo-1.svg
-        image_alt: Contentful logo
-        image_align: center
-      - type: grid_item
-        image: images/logo-2.svg
-        image_alt: Netlify logo
-        image_align: center
-      - type: grid_item
-        image: images/logo-3.svg
-        image_alt: Gatsby logo
-        image_align: center
-      - type: grid_item
-        image: images/logo-4.svg
-        image_alt: Sanity logo
-        image_align: center
-      - type: grid_item
-        image: images/logo-5.svg
-        image_alt: DatoCMS logo
-        image_align: center
-      - type: grid_item
-        image: images/logo-6.svg
-        image_alt: Next.js logo
-        image_align: center
-      - type: grid_item
-        image: images/logo-7.svg
-        image_alt: Gridsome logo
-        image_align: center
-      - type: grid_item
-        image: images/logo-8.svg
-        image_alt: Git logo
-        image_align: center
-    grid_cols: four
-    grid_gap_vert: medium
-    grid_gap_horiz: medium
-    align: center
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
