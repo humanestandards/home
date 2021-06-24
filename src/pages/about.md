@@ -9,7 +9,7 @@ sections:
   - title: Why?
     actions: []
     grid_items:
-      - title: 'border-radius: 1.3em;'
+      - title: 1️⃣ Economic Freedom
         subtitle: lorem-ipsum
         title_align: left
         content: >-
