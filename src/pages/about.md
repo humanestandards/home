@@ -17,7 +17,12 @@ sections:
         subtitle: A Universal Language for Human and Machine Learning
         content: >
           The Humane Standards are a Family of 180 Capabilities for
-          Hybrid-Reality Sensibility.
+          Hybrid-Reality Sensibility. 
+
+
+          The Capabilities which are Inherited to all people by Design,
+          constitute the fundamental Principles of our Ethical and therefore
+          Humane Standards.
         image: /images/HS_Sets.png
         image_alt: People in conversation in the office lounge area
         media_position: right
