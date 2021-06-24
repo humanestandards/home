@@ -51,7 +51,7 @@ sections:
         actions: []
         image: images/classic/feature-2.png
         image_alt: Feature 2 placeholder image
-        media_position: left
+        media_position: right
         media_width: fifty
       - type: feature
         title: Remote Autonomy
