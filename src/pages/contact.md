@@ -19,7 +19,7 @@ sections:
         content_align: center
         actions:
           - type: action
-            label: Get Support
+            label: Like
             url: /general-enquiries
             style: link
             has_icon: true
