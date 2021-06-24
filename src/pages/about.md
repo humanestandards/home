@@ -89,7 +89,7 @@ sections:
       - type: feature
         title: 2️⃣ Ecophysiological Equality
         subtitle: >-
-          A framework of an Identity, over which, People and Computers can
+          A framework of an Identity, over which - People and Computers can
           Self-Reflect.
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
