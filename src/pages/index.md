@@ -57,7 +57,7 @@ sections:
         subtitle: '  The Gamification of our Ecosystems.'
       - type: feature
         title: "\U0001F310 Remote Autonomy"
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: Commonly Humane States and Estates for People & Machines.
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
