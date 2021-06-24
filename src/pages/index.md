@@ -83,17 +83,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-  - type: features_section
-    features:
-      - type: feature
-        title: "“By being Human, may we All get Better Together - in Peace, Order, and as a Family. \U0001F64F”"
-        subtitle: Adam Apricot - The Author
-        image: /images/Vasileios_Profile.png
-        image_alt: Brandon Guidelines
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
   - type: grid_section
     title: Cards Grid Section
     subtitle: Grid Section Example
