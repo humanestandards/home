@@ -109,6 +109,7 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
+    title: How we do it?
   - type: grid_section
     title: Our Officess
     grid_items:
