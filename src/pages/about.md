@@ -6,7 +6,7 @@ sections:
     subtitle: Our Business is Sensible Governance.
     align: center
     background_color: primary
-    background_image: /images/Humane Standards Cover.jpg
+    background_image: /images/Humane Governance - 21.png
     background_image_opacity: 30
     content: >
       The Humane Standards are a Family of 180 Capabilities for Hybrid-Reality
