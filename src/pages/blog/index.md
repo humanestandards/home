@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: hero_section
     title: Our Fair-Play Kits
-    subtitle: Humane Standards Formats Documentation
+    subtitle: Humane Standards Documentation Formats
     align: center
     padding_top: medium
     padding_bottom: none
