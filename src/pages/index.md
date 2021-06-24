@@ -78,7 +78,7 @@ sections:
     padding_top: large
   - type: blog_feed_section
     title: What's New
-    subtitle: Blog Feed Section Example
+    subtitle: Intelligence Curation
     actions:
       - type: action
         label: View All
