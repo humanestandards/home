@@ -93,7 +93,7 @@ sections:
     content: "Whether you are a Human or a Machine, we are here to help. \U0001F609\n"
     actions:
       - type: action
-        label: Compare Plans
+        label: Contact us
         url: /pricing
         style: primary
     align: center
