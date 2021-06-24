@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    title: About
+    title: About HS
     subtitle: Our Business is Sensible Governance.
     align: center
     background_color: secondary
