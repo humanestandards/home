@@ -34,7 +34,7 @@ sections:
         content_align: center
         actions:
           - type: action
-            label: LinkedIn
+            label: Follow
             url: 'https://www.linkedin.com/company/humanestandards/'
             style: primary
             has_icon: true
