@@ -69,6 +69,7 @@ sections:
         image_align: center
         image_has_padding: true
         actions_width: full-width
+        title: YouTube
     grid_cols: three
     grid_gap_vert: medium
     grid_gap_horiz: medium
