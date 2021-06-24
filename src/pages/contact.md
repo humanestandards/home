@@ -55,6 +55,7 @@ sections:
             has_icon: true
             icon: youtube
             icon_position: left
+            new_window: true
         actions_align: center
         image_alt: Other queries icon
         image_position: top
