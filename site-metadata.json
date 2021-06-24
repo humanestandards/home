@@ -42,7 +42,6 @@
     },
     "footer": {
         "type": "footer",
-        "logo": "/images/NEWHumaneStandards Icon.svg",
         "has_primary_nav": false,
         "primary_nav_title": "Company",
         "primary_nav_links": [
