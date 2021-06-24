@@ -52,7 +52,7 @@ sections:
         content_align: center
         actions:
           - type: action
-            label: YouTube
+            label: Subscribe
             url: 'https://www.youtube.com/channel/UCSNGXRE1MkXbUgKxxNcvjjw'
             style: primary
             has_icon: true
