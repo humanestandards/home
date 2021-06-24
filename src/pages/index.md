@@ -116,7 +116,7 @@ sections:
     background_image_opacity: 31
 seo:
   type: stackbit_page_meta
-  title: Stackbit DIY Theme
+  title: Humane Standards
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
