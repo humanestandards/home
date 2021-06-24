@@ -10,7 +10,7 @@ sections:
       Self-Autonomy. 
     actions:
       - type: action
-        label: Try Free
+        label: Learn More
         url: /pricing
         style: primary
     image: /images/PeopleRemote.png
