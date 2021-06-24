@@ -11,7 +11,7 @@ sections:
     actions:
       - type: action
         label: Learn More
-        url: /pricing
+        url: /about
         style: primary
     image: /images/PeopleRemote.png
     image_alt: Hero section placeholder image
