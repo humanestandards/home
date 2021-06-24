@@ -7,7 +7,7 @@ sections:
     align: center
     background_color: primary
     background_image: /images/Humane Standards Cover.jpg
-    background_image_opacity: 0
+    background_image_opacity: 5
   - actions: []
     grid_items:
       - title: 1️⃣ Economic Freedom
