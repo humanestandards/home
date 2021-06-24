@@ -14,9 +14,8 @@ sections:
       - type: grid_item
         title: Empower
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam.
+        content: |
+          Liberty & Peace
         content_align: center
         actions:
           - type: action
