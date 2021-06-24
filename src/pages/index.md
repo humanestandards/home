@@ -29,7 +29,8 @@ sections:
         title: "\U0001F642 General Intelligence"
         subtitle: It's not what you think...
         content: >
-          The Intelligence which is Generic, Inclusive and Autonomous is also
+          General is our Collective Intelligence. The Intelligence which is
+          Generic, Inclusive and Autonomous is also
 
           General. It is Narrow as it expresses a certain Diversity
           (Personality),
