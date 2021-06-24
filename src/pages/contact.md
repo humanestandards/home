@@ -14,8 +14,6 @@ sections:
       - type: grid_item
         title: Facebook
         title_align: center
-        content: |
-          Self-Sovereign Economic Liberty.
         content_align: center
         actions:
           - type: action
