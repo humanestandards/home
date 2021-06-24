@@ -54,7 +54,7 @@ sections:
           - type: action
             label: YouTube
             url: 'https://www.youtube.com/channel/UCSNGXRE1MkXbUgKxxNcvjjw'
-            style: secondary
+            style: primary
             has_icon: true
             icon: youtube
             icon_position: left
