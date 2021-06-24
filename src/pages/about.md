@@ -27,8 +27,6 @@ sections:
       - title: 2️⃣ Ecophysiological Equality
         subtitle: lorem-ipsum
         title_align: left
-        content: |
-          *
         content_align: left
         actions: []
         actions_align: left
