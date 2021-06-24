@@ -28,12 +28,6 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "type": "action",
-                "label": "Play",
-                "url": "/pricing",
-                "style": "primary"
-            },
-            {
                 "label": "Connect",
                 "url": "/contact",
                 "style": "link",
@@ -43,6 +37,12 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "type": "action",
+                "label": "Play",
+                "url": "/pricing",
+                "style": "primary"
             }
         ],
         "has_anncmnt": true,
