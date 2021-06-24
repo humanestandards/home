@@ -87,7 +87,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: /images/marvelous-mahogany.png
-    title: Our Business is Sensible Governance.
+    title: Why Sensible Governance?
   - type: grid_section
     title: Our Officess
     grid_items:
