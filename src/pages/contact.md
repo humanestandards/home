@@ -49,6 +49,7 @@ sections:
         image_align: center
         image_has_padding: true
         actions_width: full-width
+        title: LinkedIn
       - type: grid_item
         title_align: center
         content_align: center
