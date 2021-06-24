@@ -17,7 +17,7 @@ sections:
         subtitle: Sensible Character Management
         title_align: left
         content: >
-          The Genesis of Self-Reflection that defines and measures our Economic
+          The Genesis of Self-Reflection which defines and measures our Economic
           Liberty.
         content_align: left
         actions: []
