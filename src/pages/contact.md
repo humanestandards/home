@@ -30,7 +30,7 @@ sections:
         image_alt: Partnering and sponsorships icon
         image_position: top
         image_align: center
-        image_has_padding: true
+        image_has_padding: false
         subtitle: Liberty & Peace
         image_width: twenty-five
       - type: grid_item
