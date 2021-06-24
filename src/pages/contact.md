@@ -3,9 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: One of us
-    subtitle: >-
-      Have a question? Send us a note using the form below and we will be in
-      touch soon.
+    subtitle: 'All People, part of One Family'
     align: center
     padding_top: small
     padding_bottom: small
