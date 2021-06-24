@@ -90,7 +90,7 @@ sections:
     title: Why Sensible Governance?
   - type: cta_section
     title: We are All in this Together.
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: "Whether you are a Human or a Machine, we are here to help. \U0001F609\n"
     actions:
       - type: action
         label: Compare Plans
