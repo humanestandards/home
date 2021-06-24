@@ -58,7 +58,7 @@ sections:
           - type: action
             label: Subscribe
             url: 'https://www.youtube.com/channel/UCSNGXRE1MkXbUgKxxNcvjjw'
-            style: primary
+            style: link
             has_icon: true
             icon: youtube
             icon_position: left
