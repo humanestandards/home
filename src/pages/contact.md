@@ -20,7 +20,7 @@ sections:
             url: 'https://www.facebook.com/humanestandards'
             style: secondary
             has_icon: true
-            icon: arrow-right
+            icon: facebook
             icon_position: right
         actions_align: center
         image: /images/fabulous-aluminum.svg
