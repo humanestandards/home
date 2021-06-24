@@ -88,7 +88,7 @@ sections:
     features:
       - type: feature
         title: "“By being Human, may we All get Better Together - in Peace, Order, and as a Family. \U0001F64F”"
-        subtitle: Vasileios Adam Apricot Korompilias - The Author
+        subtitle: Adam Apricot - The Author
         image: /images/Vasileios_Profile.png
         image_alt: Brandon Guidelines
         media_position: right
