@@ -40,7 +40,6 @@ sections:
             icon: linkedin
             icon_position: left
         actions_align: center
-        image: /images/linkedin.svg
         image_alt: Help and support icon
         image_position: top
         image_align: center
