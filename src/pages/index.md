@@ -50,7 +50,7 @@ sections:
           social states, ideologies, beliefs, and any other characteristics we
           may have, and they may help us Be Sensible Humans - Together.*
         actions: []
-        image: images/classic/feature-2.png
+        image: /images/Woman_Window_Device.png
         image_alt: Feature 2 placeholder image
         media_position: right
         media_width: fifty
