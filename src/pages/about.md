@@ -43,7 +43,7 @@ sections:
         title_align: left
         content: >
           Through the Genesis of Self-Reflection, we define and measure our
-          Economic Liberties.
+          Economic Liberties (Freedom to Be Human).
         content_align: left
         actions: []
         actions_align: left
