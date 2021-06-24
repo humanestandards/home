@@ -6,7 +6,7 @@ sections:
     subtitle: Our Business is Natural Governance.
     align: center
     background_color: secondary
-  - title: lorem-ipsum
+  - title: Why?
     actions: []
     grid_items: []
     grid_cols: three
