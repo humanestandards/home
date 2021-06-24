@@ -89,7 +89,7 @@ sections:
     background_image: /images/marvelous-mahogany.png
     title: Why Sensible Governance?
   - type: cta_section
-    title: This is a Call to Action
+    title: We are All in this Together.
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - type: action
