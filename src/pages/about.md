@@ -13,6 +13,19 @@ sections:
       Sensibility.
     image: /images/Humane Standards.png
     padding_bottom: large
+  - type: features_section
+    features:
+      - type: feature
+        title: Sensibility Standardisation
+        subtitle: A Universal Language for Human and Machine Learning
+        content: >
+          The Humane Standards are a Family of 180 Indices for Sensible
+          Hybrid-Reality Symbiosis (Coexistence).
+        image: /images/HS_Sets.png
+        image_alt: People in conversation in the office lounge area
+        media_position: right
+        media_width: fifty
+    title: How we do it?
   - actions: []
     grid_items:
       - title: 1️⃣ Economic Liberty
@@ -80,19 +93,6 @@ sections:
     subtitle: Why?
     background_image: /images/marvelous-mahogany.png
     title: Our Business is Sensible Governance.
-  - type: features_section
-    features:
-      - type: feature
-        title: Sensibility Standardisation
-        subtitle: A Universal Language for Human and Machine Learning
-        content: >
-          The Humane Standards are a Family of 180 Indices for Sensible
-          Hybrid-Reality Symbiosis (Coexistence).
-        image: /images/HS_Sets.png
-        image_alt: People in conversation in the office lounge area
-        media_position: right
-        media_width: fifty
-    title: How we do it?
   - type: grid_section
     title: Our Officess
     grid_items:
