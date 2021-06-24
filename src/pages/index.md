@@ -27,7 +27,7 @@ sections:
     features:
       - type: feature
         title: It's not what you think
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: General is our Collective Intelligence.
         content: >
           The Intelligence which is Generic, Inclusive and Autonomous is also
 
