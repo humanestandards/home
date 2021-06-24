@@ -9,7 +9,7 @@ sections:
   - title: Why?
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: 'border-radius: 1.3em;'
         subtitle: lorem-ipsum
         title_align: left
         content: >-
