@@ -10,7 +10,7 @@ sections:
     actions: []
     grid_items:
       - title: 1️⃣ Economic Freedom
-        subtitle: Through Character Management
+        subtitle: Sensible Character Management
         title_align: left
         content: |
           The Genesis of Self-Reflection defines and measures Economic Liberty.
