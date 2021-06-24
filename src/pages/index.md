@@ -56,7 +56,7 @@ sections:
         media_width: fifty
         subtitle: '  The Gamification of our Ecosystems.'
       - type: feature
-        title: "\U0001F310 Remote Autonomy"
+        title: "\U0001F310 Humane Symbiosis Format (HSF)"
         subtitle: Commonly Humane States and Estates for People & Machines.
         content: >
           While outwardly, and for millennia - we collectively seek for the most
