@@ -117,7 +117,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Humane Standards
-  description: The preview of the DIY theme
+  description: General Artificial Intelligence Rights
   extra:
     - name: 'og:type'
       value: website
