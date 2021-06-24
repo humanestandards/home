@@ -49,7 +49,7 @@ sections:
         content_align: center
         actions:
           - type: action
-            label: Get Support
+            label: YouTube
             url: /general-enquiries
             style: primary
             has_icon: true
