@@ -29,6 +29,7 @@ sections:
         image_has_padding: false
         image_width: twenty-five
         actions_width: full-width
+        title: Facebook
       - type: grid_item
         title_align: center
         content_align: center
