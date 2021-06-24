@@ -18,7 +18,7 @@ sections:
           - type: action
             label: Facebook
             url: 'https://www.facebook.com/humanestandards'
-            style: secondary
+            style: primary
             has_icon: true
             icon: facebook
             icon_position: left
