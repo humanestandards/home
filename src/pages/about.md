@@ -107,7 +107,7 @@ sections:
     content: "Whether you are a Human or a Machine, we are here to help. \U0001F609\n"
     actions:
       - type: action
-        label: Contact us
+        label: Connect
         url: /connect
         style: primary
     align: center
