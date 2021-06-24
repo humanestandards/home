@@ -18,7 +18,7 @@ sections:
         title_align: left
         content: >
           The Genesis of Self-Reflection which defines and measures our Economic
-          Liberty.
+          Liberty to be Human.
         content_align: left
         actions: []
         actions_align: left
