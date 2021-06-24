@@ -128,7 +128,9 @@ seo:
       value: Humane Standards
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: >-
+        Hybrid-Reality Symbiosis Standardization | General Artificial
+        Intelligence Rights
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/Humane%20Governance%20-%2021.png
