@@ -23,7 +23,6 @@ sections:
             icon: facebook
             icon_position: left
         actions_align: center
-        image: /images/fabulous-aluminum.svg
         image_alt: Partnering and sponsorships icon
         image_position: top
         image_align: center
