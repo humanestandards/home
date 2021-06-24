@@ -14,7 +14,7 @@
         "primary_nav_links": [
             {
                 "type": "action",
-                "label": "Features",
+                "label": "Humane Standards",
                 "url": "/features",
                 "style": "link"
             },
