@@ -17,7 +17,7 @@ sections:
         actions:
           - type: action
             label: Facebook
-            url: /general-enquiries
+            url: 'https://www.facebook.com/humanestandards'
             style: secondary
             has_icon: true
             icon: arrow-right
