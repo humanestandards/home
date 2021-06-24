@@ -145,7 +145,7 @@ seo:
         Hybrid-Reality Symbiosis Standardization | General Artificial
         Intelligence Rights
     - name: 'twitter:image'
-      value: images/diy-preview.png
+      value: /_static/app-assets/Humane%20Governance%20-%2021.png
       relativeUrl: true
 template: advanced
 ---
