@@ -151,7 +151,20 @@
                 "new_window": true
             }
         ],
-        "content": "Humane Standards |"
+        "content": "Humane Standards |",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ]
     },
     "domain": "https://home-859a3.netlify.app",
     "favicon": "/images/NEWHumaneStandards Icon.svg"
