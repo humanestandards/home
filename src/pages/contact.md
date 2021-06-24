@@ -46,9 +46,6 @@ sections:
         image_has_padding: true
       - type: grid_item
         title_align: center
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel.
         content_align: center
         actions:
           - type: action
