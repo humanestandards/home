@@ -54,7 +54,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: right
         media_width: fifty
-        subtitle: '  Gamified Ecosystems '
+        subtitle: '  The Gamification of our Ecosystems '
       - type: feature
         title: Remote Autonomy
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
