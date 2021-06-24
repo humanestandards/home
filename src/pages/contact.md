@@ -36,7 +36,7 @@ sections:
           - type: action
             label: LinkedIn
             url: 'https://www.linkedin.com/company/humanestandards/'
-            style: secondary
+            style: primary
             has_icon: true
             icon: linkedin
             icon_position: left
