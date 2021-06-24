@@ -23,7 +23,7 @@ sections:
     background_color: primary
   - type: features_section
     title: Artificial General Intelligence Rights
-    subtitle: Features Section Example
+    subtitle: Welcome to the Future
     features:
       - type: feature
         title: The Big Title For the Feature
