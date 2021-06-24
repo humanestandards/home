@@ -80,8 +80,8 @@ sections:
         title: Sensibility Standardisation
         subtitle: A Universal Language for Human and Machine Learning
         content: >
-          The Humane Standards are a Lineage of 5 Families of Indices for
-          Sensible Hybrid-Reality Symbiosis (Coexistence).
+          The Humane Standards are a Family of 180 Indices for Sensible
+          Hybrid-Reality Symbiosis (Coexistence).
         image: /images/HS_Sets.png
         image_alt: People in conversation in the office lounge area
         media_position: right
