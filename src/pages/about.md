@@ -5,7 +5,7 @@ sections:
     title: About HS
     subtitle: Our Business is Sensible Governance.
     align: center
-    background_color: secondary
+    background_color: primary
     background_image: /images/Humane Standards Cover.jpg
   - actions: []
     grid_items:
