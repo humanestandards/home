@@ -16,8 +16,8 @@ sections:
         title: Sensibility Standardisation
         subtitle: A Universal Language for Human and Machine Learning
         content: >
-          The Humane Standards are a Family of 180 Capabilities for
-          Hybrid-Reality Sensibility. 
+          The Humane Standards are a Capability Framework of 180 Indices for
+          Hybrid-Reality Sensibility.
 
 
           The Capabilities which are Inherited to all people by Design,
