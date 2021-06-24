@@ -6,8 +6,7 @@ sections:
     subtitle: Our Business is Sensible Governance.
     align: center
     background_color: secondary
-  - title: Why?
-    actions: []
+  - actions: []
     grid_items:
       - title: 1️⃣ Economic Freedom
         subtitle: Sensible Character Management
