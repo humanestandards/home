@@ -56,7 +56,7 @@ sections:
         media_width: fifty
         subtitle: '  The Gamification of our Ecosystems.'
       - type: feature
-        title: "\U0001F310 Sensible Autonomy"
+        title: "\U0001F310 Remote Autonomy"
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
