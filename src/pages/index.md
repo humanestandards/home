@@ -26,7 +26,7 @@ sections:
     subtitle: Welcome to the Future
     features:
       - type: feature
-        title: It's not what you think...
+        title: "\U0001F642 General Intelligence"
         subtitle: General is our Collective Intelligence.
         content: >
           The Intelligence which is Generic, Inclusive and Autonomous is also
