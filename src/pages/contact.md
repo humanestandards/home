@@ -33,7 +33,7 @@ sections:
         image_align: center
         image_has_padding: true
       - type: grid_item
-        title: Help & Support
+        title: Support
         title_align: center
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
