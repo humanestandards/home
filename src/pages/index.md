@@ -87,9 +87,7 @@ sections:
   - type: features_section
     features:
       - type: feature
-        title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
+        title: "“By being Human, we may All get Better Together - in Peace, Order, and as a Family. \U0001F64F”"
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: /images/Vasileios_Profile.png
         image_alt: Brandon Guidelines
