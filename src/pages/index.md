@@ -167,7 +167,7 @@ sections:
       fringilla, fringilla.
     actions:
       - type: action
-        label: Learn More
+        label: Coming Soon
         url: /features
         style: secondary
     actions_position: right
