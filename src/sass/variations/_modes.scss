@@ -15,6 +15,7 @@
 	&.style-bold {
 		.card {
 			border-color: $color-bold-card-border;
+            border-radius: 1.3em;
 		}
 
 		.site-header {
