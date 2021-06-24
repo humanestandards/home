@@ -33,7 +33,7 @@ sections:
         content_align: center
         actions:
           - type: action
-            label: Get Support
+            label: LinkedIn
             url: /general-enquiries
             style: secondary
             has_icon: true
