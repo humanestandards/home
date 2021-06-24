@@ -30,6 +30,7 @@ sections:
         image_width: twenty-five
         actions_width: full-width
         title: Facebook
+        subtitle: Be part of our Global Family
       - type: grid_item
         title_align: center
         content_align: center
