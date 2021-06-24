@@ -8,7 +8,7 @@ sections:
     padding_top: small
     padding_bottom: small
     has_border: true
-    background_color: none
+    background_color: primary
     background_image: /images/HS_Connect_Cover.jpg
     background_image_opacity: 24
   - type: grid_section
