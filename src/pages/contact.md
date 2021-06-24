@@ -50,6 +50,7 @@ sections:
         image_has_padding: true
         actions_width: full-width
         title: LinkedIn
+        subtitle: Join our Professional Page
       - type: grid_item
         title_align: center
         content_align: center
