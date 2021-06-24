@@ -18,7 +18,7 @@ sections:
           - type: action
             label: Facebook
             url: /general-enquiries
-            style: link
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
