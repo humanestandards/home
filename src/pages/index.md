@@ -37,14 +37,7 @@ sections:
 
           and Strong as it carries a Characteristic Systasis (Body or
           Framework).
-        actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/classic/feature-1.png
         image_alt: Feature 1 placeholder image
         media_position: right
