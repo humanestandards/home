@@ -70,6 +70,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+    subtitle: Why?
   - type: features_section
     features:
       - type: feature
