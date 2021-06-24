@@ -58,10 +58,9 @@ sections:
       - type: feature
         title: "\U0001F310 Remote Autonomy"
         subtitle: Commonly Humane States and Estates for People & Machines.
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Through the Economic Liberty of Being Human, may we all Cultivate our
+          Virtues and take Care of each other.
         actions: []
         image: images/classic/feature-3.png
         image_alt: Feature 3 placeholder image
