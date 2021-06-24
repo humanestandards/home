@@ -193,7 +193,7 @@ sections:
       A Console for Fair-Play Digital & Physical Symbiosis.
     actions:
       - type: action
-        label: Button
+        label: Coming Soon
         url: /pricing
         style: primary
     actions_position: bottom
