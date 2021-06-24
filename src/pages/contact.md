@@ -32,7 +32,7 @@ sections:
         image_align: center
         image_has_padding: true
         subtitle: Liberty & Peace
-        image_width: sixty
+        image_width: twenty-five
       - type: grid_item
         title: Support
         title_align: center
