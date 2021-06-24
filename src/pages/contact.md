@@ -12,7 +12,7 @@ sections:
   - type: grid_section
     grid_items:
       - type: grid_item
-        title: Empower
+        title: Facebook
         title_align: center
         content: |
           Self-Sovereign Economic Liberty.
