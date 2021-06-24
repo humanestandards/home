@@ -15,7 +15,7 @@ sections:
         title: Empower
         title_align: center
         content: |
-          Liberty & Peace
+          Self-Sovereign Economic Liberty.
         content_align: center
         actions:
           - type: action
