@@ -12,7 +12,6 @@ sections:
   - type: grid_section
     grid_items:
       - type: grid_item
-        title: Facebook
         title_align: center
         content_align: center
         actions:
