@@ -26,7 +26,7 @@ sections:
     subtitle: Welcome to the Future
     features:
       - type: feature
-        title: The Big Title For the Feature
+        title: It's not what you think
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
