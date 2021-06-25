@@ -21,7 +21,7 @@
             {
                 "type": "action",
                 "label": "About",
-                "url": "/pricing",
+                "url": "/about",
                 "style": "link"
             }
         ],
