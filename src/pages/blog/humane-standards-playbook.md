@@ -7,7 +7,7 @@ categories:
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: Humane Standards Playbook
-image_alt: lorem-ipsum
+image_alt: Humane Standards Playbook
 image_position: top
 seo:
   title: ''
