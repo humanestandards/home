@@ -16,6 +16,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+thumb_image: /images/Humane Standards Cover.jpg
 ---
 ## Lorem ipsum
 
