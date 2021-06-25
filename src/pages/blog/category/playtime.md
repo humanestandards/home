@@ -2,7 +2,7 @@
 title: General
 sections:
   - type: hero_section
-    title: PlayTime
+    title: "\U0001F4D6 PlayTime"
     align: center
     padding_top: medium
     padding_bottom: none
