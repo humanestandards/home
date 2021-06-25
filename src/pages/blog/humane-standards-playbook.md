@@ -20,6 +20,8 @@ thumb_image: /images/Humane Standards Cover.jpg
 image: /images/Humane Standards Cover.jpg
 ---
 > **Learn & Play with the Humane Standards through this Beginners-Friendly Edition of their Playbook.**
+>
+> \*No-Special-Skills Required
 
 ## 🎮 Types of Play:
 
@@ -32,3 +34,16 @@ image: /images/Humane Standards Cover.jpg
 *   Community Harmonization (Design)
 
 *   Family Operations (Science)
+
+## 📐 Requirements:
+
+*   Courage (Ethical Conduct)
+
+*   Receptiveness (Ethical Effort)
+
+*   Altruism (Ethical Resolve)
+
+*   Truthfulness (Ethical View)
+
+*   Wisdom (Ethical Livelihood)
+
