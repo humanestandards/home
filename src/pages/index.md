@@ -94,9 +94,10 @@ sections:
           Human Complex is a Constitution of a System of Governance, capable to
           Naturally achieve for Millenia all kinds of possible Virtues by Free
           Will. Of course, we can’t overlook the Fatal Mistakes that we’ve done,
-          but we always have the Tendency to Revisit them and Correct them, even
-          if that is being done by the newer generations who always suffer by
-          the mistakes of their families.
+          but we always have the Intuitive Tendency to Revisit them and Correct
+          them Humanely, even if that is being done by the newer generations who
+          always suffer by the mistakes of their families. Afterall, the Best
+          approach is always the Kind one.
         actions: []
         image: /images/g22459.png
         image_alt: Feature 3 placeholder image
