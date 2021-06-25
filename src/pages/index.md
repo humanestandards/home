@@ -52,7 +52,7 @@ sections:
         type: feature
       - type: feature
         title: "\U0001F642 Humane Complexity"
-        subtitle: 'It''s not what you think, but who we all are.'
+        subtitle: Our Collective Inheritance.
         content: >
           General is our Collective Intelligence. The Intelligence which is
           Generic, Inclusive and Autonomous is also
