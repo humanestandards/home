@@ -102,7 +102,7 @@ sections:
     type: grid_section
     background_image: /images/marvelous-mahogany.png
     title: Why Sensible Governance?
-  - title: lorem-ipsum
+  - title: Fair-Play Kits
     content: >
       *Through the Economic Liberty of Being Human, may we all Cultivate our
       Virtues and take Care of each other.*
