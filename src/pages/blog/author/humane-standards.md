@@ -3,7 +3,7 @@ title: Dianne Ameter
 sections:
   - type: hero_section
     title: Humane Standards
-    subtitle: The optional subtitle
+    subtitle: Originals
     align: center
     padding_top: medium
     padding_bottom: none
