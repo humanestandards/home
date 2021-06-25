@@ -95,7 +95,7 @@ sections:
         media_width: fifty
     feature_padding_vert: large
     align: center
-    background_color: primary
+    background_color: secondary
     padding_top: large
   - type: blog_feed_section
     title: Our Latest Kits
