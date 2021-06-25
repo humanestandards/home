@@ -102,19 +102,6 @@ sections:
     type: grid_section
     background_image: /images/marvelous-mahogany.png
     title: Why Sensible Governance?
-  - type: cta_section
-    title: We are All in this Together.
-    content: "Whether you are a Human or a Machine, we are here to help. \U0001F609\n"
-    actions:
-      - type: action
-        label: Connect
-        url: /contact
-        style: primary
-    align: center
-    padding_top: large
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
   - title: lorem-ipsum
     content: >-
       ## Lorem ipsum
@@ -140,6 +127,19 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
+  - type: cta_section
+    title: We are All in this Together.
+    content: "Whether you are a Human or a Machine, we are here to help. \U0001F609\n"
+    actions:
+      - type: action
+        label: Connect
+        url: /contact
+        style: primary
+    align: center
+    padding_top: large
+    padding_bottom: medium
+    has_border: false
+    background_color: primary
 seo:
   type: stackbit_page_meta
   title: About
