@@ -54,14 +54,10 @@ sections:
         title: "\U0001F642 Humane Complexity"
         subtitle: Our Collective Inheritance.
         content: >
-          General is our Collective Intelligence. The Intelligence which is
-          Generic, Inclusive and Autonomous is also
-
-          General. It is Narrow as it expresses a certain Diversity
-          (Personality),
-
-          and Strong as it carries a Characteristic Systasis (Body or
-          Framework). 
+          General is our Collective Intelligence, which is all-Inclusive and
+          Autonomous. It is Narrow as it expresses a certain Generic Diversity
+          (Humane Personality), and Strong as it carries a Characteristic
+          Systasis (Humane Body or Framework).
         actions: []
         image: /images/groovy-anemone.png
         image_alt: Feature 1 placeholder image
