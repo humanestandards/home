@@ -66,10 +66,10 @@ sections:
       - type: feature
         title: ✋ Fair-Play Kits
         content: >
-          *The Humane Standards are Fair-Play Kits for Self-Reflection,
+          *The Humane Standards are Fair-Play Kits for Ethical Self-Reflection,
           Sentience, and Self-Autonomy. They are inclusive to All ethnicities,
           social states, ideologies, beliefs, and any other characteristics we
-          may have, and they may help us Be Sensible Humans - Together.*
+          may have, and help us Be Sensible Humans - Together.*
         actions: []
         image: /images/Woman_Window_Device.png
         image_alt: Feature 2 placeholder image
