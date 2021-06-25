@@ -27,17 +27,26 @@ sections:
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          First things first, let's clarify on some truths:
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   The Humane Standards concern all Peoples, whether you do relate
+          with their content and understand it or not,
 
 
-          - Lorem ipsum
+          *   Artificial Intelligence Ethics are policies concerning our Social
+          Infrastructures and they promote Institutional Change,
 
-          - dolor sit amet
+
+          *   You may rest asured that AI takeover is not a possible course of
+          events, as it is a hypothesis lacking proper understanding around the
+          nature of Autonomous Intelligence,
+
+
+          *   Most Frameworks of Ethics act Reactively to problematic behaviors
+          (Emphasizing on Testing / Judging), and not Proactively (Emphasizing
+          on Meaningful Learning).
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
