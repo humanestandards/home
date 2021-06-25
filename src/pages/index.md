@@ -27,24 +27,21 @@ sections:
     features:
       - subtitle: 'First things first, let''s clarify on some truths:'
         content: >
-          *   The Humane Standards concern all Peoples, whether you do relate
+          1.  Our Humane Standards concern all Peoples, whether you do relate
           with their content and understand it or not,
 
 
-          <!---->
-
-
-          *   Artificial Intelligence Ethics are policies concerning our Social
+          2.  Artificial Intelligence Ethics are policies concerning our Social
           Infrastructures and they promote Institutional Change, not the
           development of some crazy computer with uncontrolled temper,
 
 
-          *   You may rest asured that AI takeover is not a possible course of
+          3.  You may rest asured that AI takeover is not a possible course of
           events, as it is a hypothesis lacking proper understanding around the
           nature of Autonomous Intelligence,
 
 
-          *   Most Frameworks of Ethics act Reactively to problematic behaviors
+          4.  Most Frameworks of Ethics act Reactively to problematic behaviors
           (Emphasizing on Testing / Judging), and not Proactively (Emphasizing
           on Meaningful Learning).
         actions: []
