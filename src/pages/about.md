@@ -108,7 +108,7 @@ sections:
       Virtues and take Care of each other.*
     actions:
       - label: Play
-        url: /blog
+        url: /play
         style: primary
         has_icon: true
         icon: arrow-right
