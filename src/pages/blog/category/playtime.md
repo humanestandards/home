@@ -2,7 +2,7 @@
 title: General
 sections:
   - type: hero_section
-    title: General
+    title: PlayTime
     align: center
     padding_top: medium
     padding_bottom: none
