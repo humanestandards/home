@@ -23,7 +23,7 @@ image: /images/Humane Standards Cover.jpg
 >
 > \*No-Special-Skills Required
 
-## 🎮 Types of Play:
+## 🎮 Player Types:
 
 *   Character Management (Pedagogy)
 
@@ -35,7 +35,7 @@ image: /images/Humane Standards Cover.jpg
 
 *   Family Operations (Science)
 
-## 📐 Requirements:
+## 📐 Humane Powers:
 
 *   Courage (Ethical Conduct)
 
@@ -47,3 +47,14 @@ image: /images/Humane Standards Cover.jpg
 
 *   Wisdom (Ethical Livelihood)
 
+## The Missions:
+
+*   The Practice of Sentience defines and measures Ecophysiological Equality,
+
+*   The Mimesis of Self-Autonomy defines and measures Ecological Solidarity,
+
+*   The Growth of Simplicity defines and measures Ecospheric Peace,
+
+*   The Investigation of Symmetry defines and measures Ecotypic Order.
+
+*   The Inheritance of Variety defines and measures Ecosystemic Governance.
