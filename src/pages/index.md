@@ -35,7 +35,8 @@ sections:
 
 
           *   Artificial Intelligence Ethics are policies concerning our Social
-          Infrastructures and they promote Institutional Change,
+          Infrastructures and they promote Institutional Change, not the
+          development of some crazy computer with uncontrolled temper,
 
 
           *   You may rest asured that AI takeover is not a possible course of
