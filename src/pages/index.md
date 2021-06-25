@@ -107,7 +107,7 @@ sections:
     actions:
       - type: action
         label: View All
-        url: /blog
+        url: /play
         style: primary
     blog_feed_cols: three
     enable_cards: true
