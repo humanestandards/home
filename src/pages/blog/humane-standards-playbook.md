@@ -1,6 +1,6 @@
 ---
 title: Humane Standards Playbook
-subtitle: lorem-ipsum
+subtitle: Simplified Edition
 date: '2021-06-25'
 categories: []
 tags: []
