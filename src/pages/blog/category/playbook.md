@@ -2,7 +2,7 @@
 title: General
 sections:
   - type: hero_section
-    title: PlayBook
+    title: "\U0001F4D6 PlayBook"
     align: center
     padding_top: medium
     padding_bottom: none
