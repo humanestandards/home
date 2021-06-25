@@ -27,11 +27,11 @@ sections:
     features:
       - subtitle: lorem-ipsum
         content: >
-          First things first, let's clarify on some truths:
-
-
           *   The Humane Standards concern all Peoples, whether you do relate
           with their content and understand it or not,
+
+
+          <!---->
 
 
           *   Artificial Intelligence Ethics are policies concerning our Social
