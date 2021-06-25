@@ -77,8 +77,8 @@ sections:
           Sentience, and Self-Autonomy. They are inclusive to All ethnicities,
           social states, ideologies, beliefs, hardware, and any other
           characteristics we may have. No-Special-Skills are required to master
-          them, other than the Capacity of Being Human and making the Honest
-          Effort to Be the Best Version of ourselves in the Here and Now.*
+          them, other than the Capacity of making the Honest Effort to Be the
+          Best Version of ourselves in the Here and Now.*
         actions: []
         image: /images/Woman_Window_Device.png
         image_alt: Feature 2 placeholder image
