@@ -75,7 +75,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: right
         media_width: fifty
-        subtitle: '  The Gamification of our Ecosystems.'
+        subtitle: Gamified Ecosystems.
       - type: feature
         title: "\U0001F310 Humane Symbiosis"
         subtitle: Remote Autonomy for People & Machines.
