@@ -27,8 +27,8 @@ sections:
     features:
       - subtitle: 'First things first, let''s clarify some truths about Ethics and AI:'
         content: >
-          1.  Our Humane Standards concern all Peoples, whether you do relate
-          with their content and understand it or not,
+          1.  Our Common Humane Standards concern all Peoples, whether you do
+          relate with their content and understand it or not,
 
 
           2.  Artificial Intelligence Ethics are policies concerning our Social
