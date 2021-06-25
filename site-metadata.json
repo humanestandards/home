@@ -41,7 +41,7 @@
             {
                 "type": "action",
                 "label": "Play",
-                "url": "/blog",
+                "url": "/play",
                 "style": "primary"
             }
         ],
