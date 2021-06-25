@@ -6,7 +6,7 @@ categories:
   - src/data/categories/category-72n8wqfqc.yaml
 tags: []
 excerpt: lorem-ipsum
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: Humane Standards Playbook
 image_alt: lorem-ipsum
 image_position: top
 seo:
