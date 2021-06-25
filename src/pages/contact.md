@@ -3,7 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: One of us?
-    subtitle: Humane Standards Channels
+    subtitle: Our Communication Channels
     align: center
     padding_top: large
     padding_bottom: small
