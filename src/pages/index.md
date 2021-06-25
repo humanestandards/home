@@ -48,8 +48,9 @@ sections:
 
 
           5.  The Humane Standards are a future-proof Proactive Strategy
-          concerning Crisis Management and Collective Well-being which affect
-          everyday our Local Livelihoods.
+          concerning Crisis Management and Collective Well-being. It is about
+          our Common Capabilities and Values which affect our Local Livelihoods
+          everyday.
         actions: []
         image_alt: lorem-ipsum
         media_position: top
