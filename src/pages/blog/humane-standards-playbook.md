@@ -19,9 +19,16 @@ template: post
 thumb_image: /images/Humane Standards Cover.jpg
 image: /images/Humane Standards Cover.jpg
 ---
-## Lorem ipsum
+Learn & Play with the Humane Standards through this Beginners-Friendly Edition of their Playbook.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+## 🎮 Types of Play:
 
-- Lorem ipsum
-- dolor sit amet
+*   Character Management (Pedagogy)
+
+*   Intelligence Curation (Research)
+
+*   Care Interaction (Deployment)
+
+*   Community Harmonization (Design)
+
+*   Family Operations (Science)
