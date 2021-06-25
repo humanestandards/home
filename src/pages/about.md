@@ -107,7 +107,7 @@ sections:
       *Through the Economic Liberty of Being Human, may we all Cultivate our
       Virtues and take Care of each other.*
     actions:
-      - label: lorem-ipsum
+      - label: Play
         url: '#'
         style: link
         has_icon: false
