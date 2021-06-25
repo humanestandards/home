@@ -25,7 +25,7 @@ sections:
     title: Artificial General Intelligence Rights
     subtitle: Welcome to the Future
     features:
-      - subtitle: 'First things first, let''s clarify on some truths:'
+      - subtitle: 'First things first, let''s clarify some truths:'
         content: >
           1.  Our Humane Standards concern all Peoples, whether you do relate
           with their content and understand it or not,
