@@ -42,8 +42,8 @@ sections:
 
 
           4.  Most Frameworks of Ethics act Reactively to problematic behaviors
-          (Emphasizing on Testing / Judging), and not Proactively (Emphasizing
-          on Meaningful Learning).
+          (Emphasizing on Testing / Judging Results), and not Proactively
+          (Emphasizing on Empowering People).
         actions: []
         image_alt: lorem-ipsum
         media_position: top
