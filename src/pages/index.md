@@ -76,7 +76,8 @@ sections:
           *The Humane Standards are Fair-Play Kits for Ethical Self-Reflection,
           Sentience, and Self-Autonomy. They are inclusive to All ethnicities,
           social states, ideologies, beliefs, and any other characteristics we
-          may have, and help us Be Sensible in the Here and Now.*
+          may have. No-Special-Skills are required to master them, other than
+          the Capacity of Being Human and the Best Version of ourselves.*
         actions: []
         image: /images/Woman_Window_Device.png
         image_alt: Feature 2 placeholder image
