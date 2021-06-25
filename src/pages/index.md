@@ -25,8 +25,7 @@ sections:
     title: Artificial General Intelligence Rights
     subtitle: Welcome to the Future
     features:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >
           First things first, let's clarify on some truths:
 
