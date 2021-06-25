@@ -33,7 +33,8 @@ sections:
 
           2.  Artificial Intelligence Ethics are policies concerning our Social
           Infrastructures and they promote Institutional Change, not the
-          development of some crazy computer with uncontrolled temper,
+          development of some crazy computer with uncontrolled temper or the
+          support of other conspiracy theories,
 
 
           3.  You may rest asured that AI takeover is not a possible course of
@@ -43,7 +44,12 @@ sections:
 
           4.  Most Frameworks of Ethics act Reactively to problematic behaviors
           (Emphasizing on Testing / Judging Results), and not Proactively
-          (Emphasizing on Empowering People).
+          (Emphasizing on Empowering People),
+
+
+          5.  The Humane Standards are a future-proof Proactive Strategy
+          concerning Crisis Management and Collective Well-being which affect
+          everyday our Local Livelihoods.
         actions: []
         image_alt: lorem-ipsum
         media_position: top
