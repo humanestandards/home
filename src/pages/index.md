@@ -36,7 +36,7 @@ sections:
           (Personality),
 
           and Strong as it carries a Characteristic Systasis (Body or
-          Framework).
+          Framework). 
         actions: []
         image: /images/groovy-anemone.png
         image_alt: Feature 1 placeholder image
