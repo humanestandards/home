@@ -100,7 +100,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    background_image: /images/marvelous-mahogany.png
+    background_image: /images/groovy-anemone.png
     title: Why Sensible Governance?
   - title: Our Fair-Play Kits
     content: >
