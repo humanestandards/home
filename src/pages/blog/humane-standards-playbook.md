@@ -5,7 +5,7 @@ date: '2021-06-25'
 categories:
   - src/data/categories/category-72n8wqfqc.yaml
 tags: []
-excerpt: Our Beginners-Friendly Documentation.
+excerpt: How to Play with the Humane Standards. A Beginners-Friendly Documentation.
 thumb_image_alt: Humane Standards Playbook
 image_alt: Humane Standards Playbook
 image_position: top
