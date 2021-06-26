@@ -156,7 +156,7 @@ seo:
       value: Humane Standards | About
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: About us page
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/og-image.png
