@@ -10,7 +10,7 @@ thumb_image_alt: Humane Standards Playbook
 image_alt: Humane Standards Playbook
 image_position: top
 seo:
-  title: ''
+  title: Humane Standards Playbook
   description: >-
     Learn & Play with the Humane Standards through this Beginners-Friendly
     Edition of their Playbook.
