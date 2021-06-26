@@ -13,7 +13,7 @@ sections:
         label: Learn More
         url: /about
         style: secondary
-    image: /images/Humane Standards_.png
+    image: /images/PeopleRemote_.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
