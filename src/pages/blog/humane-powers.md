@@ -47,6 +47,26 @@ Choose your favorite Star which contains Powers more Relatable to your work or g
 
 ![](/\_static/app-assets/Operations.png)![](/\_static/app-assets/Harmonization.png)![](/\_static/app-assets/Interaction.png)![](/\_static/app-assets/Curation.png)![](/\_static/app-assets/Management.png)
 
+## 🤔 Problem Solving & Decision Management
+
+Here is a Practical example on how to Practice with the Humane Powers Format:
+
+1.  We choose a Topic we wish to Asses. Something we care to reach a certain Decision and Solve a Problem.
+
+2.  We select our Favorite Stellation,  
+
+
+
+## 💡 Tips
+
+*   The Stellar Format is synthesized bye Four 5-Pointed Stars and One 6-Pointed Star.
+
+*   Although the majority of the Stars are based on the 5-fold anatomy of the Human Hand, one of them is based on the 6-Freedoms of Movement in Space (Upwards, Downwards, etc.). The 6th extra Dimension represents the Environment of the Model and its whole Ecosystem.
+
+
+
+
+
 For a more Detailed Exploration on our Standard Humane Powers, you may visit our Playbook for Beginners through the following Link:
 
 <https://coda.io/@symbiosis/humane-standards-beginners-edition>
