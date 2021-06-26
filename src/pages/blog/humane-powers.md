@@ -1,6 +1,6 @@
 ---
 title: Humane Powers
-subtitle: 'The Easiest way to '
+subtitle: The Easiest way to Practice with the Humane Standards.
 date: '2021-06-26'
 categories: []
 tags: []
