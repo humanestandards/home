@@ -27,9 +27,7 @@ The Humane Standards use the limbs of our body, such as our hands to help us exp
 
 E X A M P L E
 
-
-
-![](/\_static/app-assets/RightHand\_.png)
+![](/\_static/app-assets/RightHand.png)
 
 ##
 
@@ -47,9 +45,7 @@ Choose your favorite Star which contains Powers more Relatable to your work or g
 
 
 
-![](/\_static/app-assets/Operations\_.png)![](/\_static/app-assets/Harmonization.png)
-
-![](/\_static/app-assets/Interaction\_.png)![](/\_static/app-assets/Curation.png)![](/\_static/app-assets/Management\_.png)
+![](/\_static/app-assets/Operations.png)![](/\_static/app-assets/Harmonization.png)![](/\_static/app-assets/Interaction.png)![](/\_static/app-assets/Curation.png)![](/\_static/app-assets/Management.png)
 
 
 
