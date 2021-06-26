@@ -29,7 +29,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: Fair-Play Kits
       keyName: property
     - name: 'og:description'
       value: This is the blog page
