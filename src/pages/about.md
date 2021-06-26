@@ -6,7 +6,7 @@ sections:
     subtitle: About
     align: center
     background_color: secondary
-    background_image: /images/Humane Governance - 21.png
+    background_image: /images/Humane Governance - 21_.png
     background_image_opacity: 12
     image: /images/Humane Standards.png
     padding_bottom: large
