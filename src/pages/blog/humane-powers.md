@@ -10,7 +10,7 @@ thumb_image_alt: mahamudra-reasoning
 image_alt: lorem-ipsum
 image_position: top
 seo:
-  title: Humane Powers
+  title: ⭐ Humane Powers
   description: ''
   robots: []
   extra: []
