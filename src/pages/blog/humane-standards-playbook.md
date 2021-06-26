@@ -63,6 +63,6 @@ image: /images/Humane Standards Cover.jpg
 
 ![](/\_static/app-assets/Playbook_app.png)
 
-### **For the Playbook, Please Visit: **[**https://coda.io/@symbiosis/humane-standards-beginners-edition**](https://coda.io/@symbiosis/humane-standards-beginners-edition)** **
+### For the Playbook, Please Visit: [**https://coda.io/@symbiosis/humane-standards-beginners-edition**](https://coda.io/@symbiosis/humane-standards-beginners-edition) 
 
 ## Enjoy 😉
