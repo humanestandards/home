@@ -2,7 +2,8 @@
 title: Humane Powers
 subtitle: The Easiest way to Practice with the Humane Standards.
 date: '2021-06-26'
-categories: []
+categories:
+  - src/data/categories/category-twgaia9fr.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
