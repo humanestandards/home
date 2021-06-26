@@ -114,7 +114,7 @@ sections:
     align: center
     background_color: secondary
     padding_top: large
-    background_image: /images/HE Measures Main Pic.jpg
+    background_image: /images/noise_.png
     background_image_opacity: 12
   - type: blog_feed_section
     title: Our Latest Kits
