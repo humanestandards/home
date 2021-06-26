@@ -5,7 +5,7 @@ date: '2021-06-25'
 categories:
   - src/data/categories/category-72n8wqfqc.yaml
 tags: []
-excerpt: lorem-ipsum
+excerpt: Our Official Documentation
 thumb_image_alt: Humane Standards Playbook
 image_alt: Humane Standards Playbook
 image_position: top
