@@ -16,7 +16,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-thumb_image: /images/Reasoning.png
+thumb_image: /images/pleasant-wallaby.png
 image: /images/rainy-anemone.png
 ---
 ### Using our Hands as a Mnemonic Gear.
