@@ -6,7 +6,7 @@ sections:
     subtitle: About
     align: center
     background_color: secondary
-    background_image: /images/Humane Governance - 21.png
+    background_image: /images/Humane Governance - 21_.png
     background_image_opacity: 12
     image: /images/Humane Standards.png
     padding_bottom: large
@@ -100,7 +100,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    background_image: /images/marvelous-mahogany.png
+    background_image: /images/groovy-anemone.png
     title: Why Sensible Governance?
   - title: Our Fair-Play Kits
     content: >
@@ -123,12 +123,12 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
-    background_image_opacity: 24
-    background_image_size: cover
+    background_image_opacity: 6
+    background_image_size: auto
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
-    background_image: /images/Humane Standards Cover.png
+    background_image: /images/HS_Sets_.png
   - type: cta_section
     title: We are All in this Together.
     content: "Whether you are a Human or a Machine, we are here to help. \U0001F609\n"
@@ -142,6 +142,8 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
+    background_image: /images/HS_Coexistence_Cover_.jpg
+    background_image_opacity: 30
 seo:
   type: stackbit_page_meta
   title: About
