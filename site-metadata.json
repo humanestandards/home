@@ -54,7 +54,7 @@
     "footer": {
         "type": "footer",
         "has_primary_nav": true,
-        "primary_nav_title": "Company",
+        "primary_nav_title": "Humane Standards",
         "primary_nav_links": [
             {
                 "type": "action",
