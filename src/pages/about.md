@@ -156,7 +156,7 @@ seo:
       value: Humane Standards | About
       keyName: property
     - name: 'og:description'
-      value: About us page
+      value: A Universal Language for Human and Machine Learning.
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/og-image.png
