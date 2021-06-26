@@ -59,5 +59,6 @@ image: /images/Humane Standards Cover.jpg
 
 *   The Inheritance of Variety for Ecosystemic Governance.
 
+# ****![](/\_static/app-assets/Playbook_app.png)**For the Playbook, Please Visit: **[**https://coda.io/@symbiosis/humane-standards-beginners-edition**](https://coda.io/@symbiosis/humane-standards-beginners-edition)** **
 
-
+## Enjoy 😉
