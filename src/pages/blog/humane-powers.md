@@ -1,6 +1,6 @@
 ---
 title: Humane Powers
-subtitle: lorem-ipsum
+subtitle: 'The Easiest way to '
 date: '2021-06-26'
 categories: []
 tags: []
