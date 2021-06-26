@@ -19,7 +19,7 @@ template: post
 thumb_image: /images/HS_Empowerment_Cover.jpg
 image: /images/HS_Empowerment_Cover.jpg
 ---
-## Using our Hands as a Mnemonic Gear.
+## Using our Hands as Self-Learning Device.
 
 Mnenomics, or Symbolic Association is the most efficient Learning technique.
 
@@ -30,8 +30,6 @@ E X A M P L E
 ![](/\_static/app-assets/RightHand.png)
 
 ![](/\_static/app-assets/LeftHand.png)
-
-
 
 ## ⭐ Stellar Format
 
