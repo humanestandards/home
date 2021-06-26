@@ -116,7 +116,7 @@ sections:
     padding_top: large
     background_image: /images/diy-preview.png
     background_image_opacity: 12
-    background_image_size: contain
+    background_image_size: auto
     background_image_position: center top
     background_image_repeat: no-repeat
   - type: blog_feed_section
