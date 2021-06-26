@@ -169,7 +169,7 @@ seo:
     - name: 'twitter:description'
       value: A Universal Language for Human and Machine Learning
     - name: 'twitter:image'
-      value: images/about-1.jpg
+      value: /_static/app-assets/og-image.png
       relativeUrl: true
 template: advanced
 ---
