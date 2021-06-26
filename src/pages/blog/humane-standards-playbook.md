@@ -5,7 +5,7 @@ date: '2021-06-25'
 categories:
   - src/data/categories/category-72n8wqfqc.yaml
 tags: []
-excerpt: lorem-ipsum
+excerpt: How to Play with the Humane Standards. A Beginners-Friendly Documentation.
 thumb_image_alt: Humane Standards Playbook
 image_alt: Humane Standards Playbook
 image_position: top
@@ -61,9 +61,9 @@ image: /images/Humane Standards Cover.jpg
 
 *   The Inheritance of Variety for Ecosystemic Governance.
 
-#
+# ![](/\_static/app-assets/Playbook_app.png)
 
-![](/\_static/app-assets/Playbook_app.png)
+
 
 ### For the Playbook, Please Visit:
 
