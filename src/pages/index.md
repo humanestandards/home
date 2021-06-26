@@ -73,7 +73,7 @@ sections:
           (Humane Personality), and Strong as it carries a Characteristic
           Systasis (Humane Body or Framework).
         actions: []
-        image: /images/groovy-anemone.png
+        image: /images/marvelous-mahogany_.png
         image_alt: Feature 1 placeholder image
         media_position: left
         media_width: fifty
