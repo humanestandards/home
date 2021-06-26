@@ -90,7 +90,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Humane Standards | Connect
       keyName: property
     - name: 'og:description'
       value: Better Together.
