@@ -5,7 +5,7 @@ date: '2021-06-26'
 categories:
   - src/data/categories/category-twgaia9fr.yaml
 tags: []
-excerpt: lorem-ipsum
+excerpt: 'The Easiest way to '
 thumb_image_alt: mahamudra
 image_alt: lorem-ipsum
 image_position: top
