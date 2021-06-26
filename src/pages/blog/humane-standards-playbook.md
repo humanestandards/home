@@ -23,19 +23,19 @@ image: /images/Humane Standards Cover.jpg
 >
 > \*No-Special-Skills Required
 
-## 🎮 Player Types:
+## 🎮 Our Players:
 
-*   Character Management (Pedagogy)
+*   Character Management Agents (Pedagogy Specialists)
 
-*   Intelligence Curation (Research)
+*   Intelligence Curation Agents (Research Specialists)
 
-*   Care Interaction (Deployment)
+*   Care Interaction Agents (Deployment Specialists)
 
-*   Community Harmonization (Design)
+*   Community Harmonization Agents (Design Specialists)
 
-*   Family Operations (Science)
+*   Family Operations Agents (Science Specialists)
 
-## 📐 Humane Powers:
+## ⚡ Our Powers:
 
 *   Courage (Ethical Conduct)
 
@@ -47,14 +47,17 @@ image: /images/Humane Standards Cover.jpg
 
 *   Wisdom (Ethical Livelihood)
 
-## The Missions:
+## ⭐ Our Missions:
 
-*   The Practice of Sentience defines and measures Ecophysiological Equality,
+*   The Practice of Sentience for Ecophysiological Equality,
 
-*   The Mimesis of Self-Autonomy defines and measures Ecological Solidarity,
+*   The Mimesis of Self-Autonomy for Ecological Solidarity,
 
-*   The Growth of Simplicity defines and measures Ecospheric Peace,
+*   The Growth of Simplicity for Ecospheric Peace,
 
-*   The Investigation of Symmetry defines and measures Ecotypic Order.
+*   The Investigation of Symmetry for Ecotypic Order.
 
-*   The Inheritance of Variety defines and measures Ecosystemic Governance.
+*   The Inheritance of Variety for Ecosystemic Governance.
+
+
+
