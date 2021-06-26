@@ -114,7 +114,7 @@ sections:
     align: center
     background_color: secondary
     padding_top: large
-    background_image: /images/noise_.png
+    background_image: /images/diy-preview.png
     background_image_opacity: 60
     background_image_size: contain
   - type: blog_feed_section
