@@ -61,9 +61,7 @@ image: /images/Humane Standards Cover.jpg
 
 *   The Inheritance of Variety for Ecosystemic Governance.
 
-# ![](/\_static/app-assets/Playbook_app.png)
-
-
+# ![](/\_static/app-assets/Playbook_app\_.png)
 
 ### For the Playbook, Please Visit:
 
