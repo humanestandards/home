@@ -98,7 +98,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Humane Standards | Connect
     - name: 'twitter:description'
       value: This is the contact page
 template: advanced
