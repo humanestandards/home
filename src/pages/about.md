@@ -69,7 +69,7 @@ sections:
         type: grid_item
         content: >
           Through the Practice of Sentience, we define and measure the principle
-          of Ecophysiological Equality (Inclusive Diversity).
+          of Ecophysiological Equality (Trans-Species Multilateralism).
       - title: 3️⃣ Ecological Solidarity
         subtitle: Sensible Care Interaction
         title_align: left
