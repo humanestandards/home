@@ -115,7 +115,7 @@ sections:
     background_color: secondary
     padding_top: large
     background_image: /images/noise_.png
-    background_image_opacity: 12
+    background_image_opacity: 24
   - type: blog_feed_section
     title: Our Latest Kits
     subtitle: Intelligence Curation
