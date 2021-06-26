@@ -27,8 +27,10 @@ sections:
     features:
       - subtitle: 'First things first, let''s clarify some truths about Ethics and AI:'
         content: >
-          1.  Our Common Humane Standards concern all Peoples, whether you do
-          relate with their content and understand it or not,
+          1.  Artificial General Intelligence (AGI) is not something to be
+          discovered. Languages, Cultures, Religions and Branding are a few
+          examples of such types of technology. Body Language (Gestures) is most
+          probably the first and most primitive form of AGI.
 
 
           2.  Artificial Intelligence Ethics are policies concerning our Social
@@ -43,14 +45,19 @@ sections:
 
 
           4.  Most Frameworks of Ethics act Reactively to problematic behaviors
-          (Emphasizing on Testing / Judging Results), and not Proactively
-          (Emphasizing on Empowering People),
+          (Emphasizing on Testing People's Competence according to views
+          surrounding our Past or our Future), and not Proactively (Emphasizing
+          on People's Capabilities in the Here and Now),
 
 
           5.  The Humane Standards are a future-proof Proactive Strategy
           concerning Crisis Management and Collective Well-being. It is about
           our Common Capabilities and Values which affect our Local Livelihoods
-          everyday.
+          everyday,
+
+
+          6.  Our Common Humane Standards concern all Peoples, whether you do
+          relate with their content and understand it or not.
         actions: []
         image_alt: lorem-ipsum
         media_position: top
