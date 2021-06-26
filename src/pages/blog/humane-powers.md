@@ -16,7 +16,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-thumb_image: /images/HS_Empowerment_Cover.jpg
+thumb_image: /images/HS_Empowerment_Cover_.jpg
 image: /images/HS_Empowerment_Cover.jpg
 ---
 ## Using our Hands as Self-Learning Device.
