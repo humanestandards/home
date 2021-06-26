@@ -11,7 +11,7 @@ image_alt: lorem-ipsum
 image_position: top
 seo:
   title: ⭐ Humane Powers
-  description: ''
+  description: Problem-Solving Skills
   robots: []
   extra: []
   type: stackbit_page_meta
