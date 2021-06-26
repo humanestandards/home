@@ -100,6 +100,6 @@ seo:
     - name: 'twitter:title'
       value: Humane Standards | Connect
     - name: 'twitter:description'
-      value: This is the contact page
+      value: Better Together.
 template: advanced
 ---
