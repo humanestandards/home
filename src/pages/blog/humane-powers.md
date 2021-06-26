@@ -6,7 +6,7 @@ categories:
   - src/data/categories/category-twgaia9fr.yaml
 tags: []
 excerpt: The Easiest way to learn the Humane Standards.
-thumb_image_alt: mahamudra
+thumb_image_alt: mahamudra-reasoning
 image_alt: lorem-ipsum
 image_position: top
 seo:
