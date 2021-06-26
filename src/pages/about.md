@@ -167,7 +167,7 @@ seo:
     - name: 'twitter:title'
       value: About
     - name: 'twitter:description'
-      value: This is the about us page
+      value: A Universal Language for Human and Machine Learning
     - name: 'twitter:image'
       value: images/about-1.jpg
       relativeUrl: true
