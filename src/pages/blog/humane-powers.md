@@ -21,7 +21,9 @@ template: post
 
 Mnenomics, or Symbolic Association is the most efficient Learning technique.
 
-The Humane Standards use the limbs of our body, such as our hands to help us explore and remember them in a more intuitive manner. 
+The Humane Standards use the limbs of our body, such as our hands to help us explore and remember them in a more intuitive manner.
+
+
 
 ![](/\_static/app-assets/RightHand.png)
 
