@@ -16,7 +16,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-thumb_image: /images/pleasant-wallaby.png
+thumb_image: /images/HS_Empowerment_Cover.jpg
 image: /images/HS_Empowerment_Cover.jpg
 ---
 ## Using our Hands as a Mnemonic Gear.
