@@ -116,7 +116,7 @@ sections:
     padding_top: large
     background_image: /images/diy-preview.png
     background_image_opacity: 12
-    background_image_size: auto
+    background_image_size: contain
   - type: blog_feed_section
     title: Our Latest Kits
     subtitle: Intelligence Curation
