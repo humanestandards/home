@@ -165,7 +165,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About
+      value: Humane Standards | About
     - name: 'twitter:description'
       value: A Universal Language for Human and Machine Learning
     - name: 'twitter:image'
