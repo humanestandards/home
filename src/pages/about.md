@@ -36,6 +36,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: /images/Humane Governance - 21_.png
   - actions: []
     grid_items:
       - title: 1️⃣ Economic Liberty
