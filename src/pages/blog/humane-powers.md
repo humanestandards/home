@@ -17,9 +17,12 @@ seo:
   type: stackbit_page_meta
 template: post
 ---
-## Lorem ipsum
+### Using our Hands as a Mnemonic Gear.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Mnenomics, or Symbolic Association is the most efficient Learning technique.
 
-- Lorem ipsum
-- dolor sit amet
+The Humane Standards use the limbs of our body, such as our hands to help us explore and remember them in a more intuitive manner. 
+
+![](/\_static/app-assets/RightHand.png)
+
+![](/\_static/app-assets/LeftHand.png)
