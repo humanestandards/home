@@ -35,7 +35,7 @@ E X A M P L E
 
 ![](/\_static/app-assets/Humane%20Powers.png)
 
-We've translated our Fundamental Humane Capabilities to the proceeding Powers, which are visualized through Stellar Formations.
+We have converted our Fundamental Humane Capabilities to the proceeding Powers, which are visualized through Stellar Formations.
 
 Each Stellar Point is being assigned with a Humane Power.
 
