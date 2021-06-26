@@ -150,7 +150,7 @@ seo:
   description: About the Humane Standards
   extra:
     - name: 'og:type'
-      value: website
+      value: profile
       keyName: property
     - name: 'og:title'
       value: Humane Standards | About
