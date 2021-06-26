@@ -25,15 +25,15 @@ image: /images/Humane Standards Cover.jpg
 
 ## 🎮 Our Players:
 
-*   Character Management Agents (Pedagogy)
+*   Character Management Agents (Pedagogy Specialists)
 
-*   Intelligence Curation Agents (Research)
+*   Intelligence Curation Agents (Research Specialists)
 
-*   Care Interaction Agents (Deployment)
+*   Care Interaction Agents (Deployment Specialists)
 
-*   Community Harmonization Agents (Design)
+*   Community Harmonization Agents (Design Specialists)
 
-*   Family Operations Agents (Science)
+*   Family Operations Agents (Science Specialists)
 
 ## ⚡ Our Powers:
 
@@ -58,4 +58,6 @@ image: /images/Humane Standards Cover.jpg
 *   The Investigation of Symmetry for Ecotypic Order.
 
 *   The Inheritance of Variety for Ecosystemic Governance.
+
+
 
