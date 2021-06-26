@@ -18,7 +18,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-thumb_image: /images/Humane Standards Cover.jpg
+thumb_image: /images/Humane Standards Cover_.jpg
 image: /images/Humane Standards Cover.jpg
 ---
 > **Learn & Play with the Humane Standards through this Beginners-Friendly Edition of their Playbook.**
@@ -61,9 +61,7 @@ image: /images/Humane Standards Cover.jpg
 
 *   The Inheritance of Variety for Ecosystemic Governance.
 
-# ![](/\_static/app-assets/Playbook_app.png)
-
-
+# ![](/\_static/app-assets/Playbook_app\_.png)
 
 ### For the Playbook, Please Visit:
 
