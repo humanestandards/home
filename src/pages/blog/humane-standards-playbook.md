@@ -10,8 +10,10 @@ thumb_image_alt: Humane Standards Playbook
 image_alt: Humane Standards Playbook
 image_position: top
 seo:
-  title: ''
-  description: ''
+  title: Humane Standards Playbook
+  description: >-
+    Learn & Play with the Humane Standards through this Beginners-Friendly
+    Edition of their Playbook.
   robots: []
   extra: []
   type: stackbit_page_meta
@@ -59,5 +61,12 @@ image: /images/Humane Standards Cover.jpg
 
 *   The Inheritance of Variety for Ecosystemic Governance.
 
+#
 
+![](/\_static/app-assets/Playbook_app.png)
 
+### For the Playbook, Please Visit:
+
+[**https://coda.io/@symbiosis/humane-standards-beginners-edition**](https://coda.io/@symbiosis/humane-standards-beginners-edition)
+
+## Enjoy 😉

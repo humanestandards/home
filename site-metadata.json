@@ -166,6 +166,6 @@
             }
         ]
     },
-    "domain": "https://humanestandards.com/",
-    "favicon": "/images/NEWHumaneStandards Icon.svg"
+    "favicon": "/images/NEWHumaneStandards Icon.svg",
+    "domain": "https://home-859a3.netlify.app"
 }
