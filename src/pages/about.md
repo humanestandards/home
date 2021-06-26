@@ -146,7 +146,7 @@ sections:
     background_image_opacity: 30
 seo:
   type: stackbit_page_meta
-  title: About
+  title: Humane Standards | About
   description: About the Humane Standards
   extra:
     - name: 'og:type'
