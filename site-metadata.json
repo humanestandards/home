@@ -53,7 +53,7 @@
     },
     "footer": {
         "type": "footer",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "primary_nav_title": "Humane Standards",
         "primary_nav_links": [
             {
