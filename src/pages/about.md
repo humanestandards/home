@@ -143,6 +143,7 @@ sections:
     has_border: false
     background_color: primary
     background_image: /images/HS_Coexistence_Cover_.jpg
+    background_image_opacity: 30
 seo:
   type: stackbit_page_meta
   title: About
