@@ -87,7 +87,7 @@ sections:
           them, other than the Capacity of making the Honest Effort to Be the
           Best Version of ourselves in the Here and Now.*
         actions: []
-        image: /images/Woman_Window_Device.png
+        image: /images/Woman_Window_Device_.png
         image_alt: Feature 2 placeholder image
         media_position: right
         media_width: fifty
