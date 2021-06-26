@@ -53,7 +53,7 @@
     },
     "footer": {
         "type": "footer",
-        "has_primary_nav": false,
+        "has_primary_nav": true,
         "primary_nav_title": "Company",
         "primary_nav_links": [
             {
