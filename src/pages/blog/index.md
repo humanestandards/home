@@ -32,7 +32,7 @@ seo:
       value: Fair-Play Kits
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: Humane Standards Documentation Formats
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/HS_Sets.png
