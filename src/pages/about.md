@@ -125,7 +125,7 @@ sections:
     background_color: secondary
     background_image_opacity: 24
     background_image_size: cover
-    background_image_position: center bottom
+    background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
     background_image: /images/Humane Powers_.png
