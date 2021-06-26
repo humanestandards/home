@@ -31,11 +31,13 @@ E X A M P L E
 
 ![](/\_static/app-assets/LeftHand.png)
 
-## ⭐ Stellar Format
+##
+
+# ⭐ Stellar Format
 
 ![](/\_static/app-assets/Humane%20Powers.png)
 
-We have converted our Fundamental Humane Capabilities to the proceeding Powers, which are visualized through Stellar Formations.
+We have converted our Fundamental Humane Capabilities to the proceeding Powers, which are then being visualized through Stellar Formations.
 
 Each Stellar Point is being assigned with a Humane Power.
 
@@ -44,3 +46,7 @@ There are lots of ways to learn how they associate with each other, and the easi
 Choose your favorite Star which contains Powers more Relatable to your work or general personality and use them as a Guide for the Organization of your Operations.
 
 ![](/\_static/app-assets/Operations.png)![](/\_static/app-assets/Harmonization.png)![](/\_static/app-assets/Interaction.png)![](/\_static/app-assets/Curation.png)![](/\_static/app-assets/Management.png)
+
+For a more Detailed Exploration on our Standard Humane Powers, you may visit our Playbook for Beginners through the following Link:
+
+<https://coda.io/@symbiosis/humane-standards-beginners-edition>
