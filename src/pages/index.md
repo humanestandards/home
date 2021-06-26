@@ -115,7 +115,7 @@ sections:
     background_color: secondary
     padding_top: large
     background_image: /images/diy-preview.png
-    background_image_opacity: 24
+    background_image_opacity: 12
     background_image_size: contain
   - type: blog_feed_section
     title: Our Latest Kits
