@@ -114,6 +114,7 @@ sections:
     align: center
     background_color: secondary
     padding_top: large
+    background_image: /images/HE Measures Main Pic.jpg
   - type: blog_feed_section
     title: Our Latest Kits
     subtitle: Intelligence Curation
