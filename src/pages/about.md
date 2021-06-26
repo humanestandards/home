@@ -128,7 +128,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
-    background_image: /images/Humane Powers_.png
+    background_image: /images/039-problem solve.svg
   - type: cta_section
     title: We are All in this Together.
     content: "Whether you are a Human or a Machine, we are here to help. \U0001F609\n"
