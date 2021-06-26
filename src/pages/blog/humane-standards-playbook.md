@@ -18,7 +18,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-thumb_image: /images/Humane Standards Cover.jpg
+thumb_image: /images/Humane Standards Cover_.jpg
 image: /images/Humane Standards Cover.jpg
 ---
 > **Learn & Play with the Humane Standards through this Beginners-Friendly Edition of their Playbook.**
