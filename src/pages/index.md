@@ -118,6 +118,7 @@ sections:
     background_image_opacity: 12
     background_image_size: contain
     background_image_position: center top
+    background_image_repeat: no-repeat
   - type: blog_feed_section
     title: Our Latest Kits
     subtitle: Intelligence Curation
