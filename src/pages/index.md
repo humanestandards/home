@@ -176,7 +176,7 @@ seo:
         Intelligence Rights
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/Humane%20Governance%20-%2021.png
+      value: /_static/app-assets/og-image.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
