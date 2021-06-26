@@ -26,7 +26,7 @@ seo:
   description: This is the blog page
   extra:
     - name: 'og:type'
-      value: articles
+      value: article
       keyName: property
     - name: 'og:title'
       value: Fair-Play Kits
