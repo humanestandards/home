@@ -58,3 +58,4 @@ image: /images/Humane Standards Cover.jpg
 *   The Investigation of Symmetry for Ecotypic Order.
 
 *   The Inheritance of Variety for Ecosystemic Governance.
+
