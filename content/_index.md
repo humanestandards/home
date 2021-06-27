@@ -136,7 +136,7 @@ sections:
     subtitle: Intelligence Curation
     actions:
       - label: View All
-        url: /blog
+        url: /play
         style: primary
     blog_feed_cols: three
     enable_cards: true
