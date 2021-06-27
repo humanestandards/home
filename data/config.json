@@ -2,7 +2,7 @@
     "title": "Humane Standards",
     "layout_type": "boxed",
     "style": "classic",
-    "palette": "green",
+    "palette": "gray",
     "mode": "dark",
     "base_font": "sans-serif",
     "header": {
