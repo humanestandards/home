@@ -1,6 +1,6 @@
 ---
 title: Humane Standards Playbook
-subtitle: v
+subtitle: Beginner's Edition
 date: '2021-06-27'
 categories: []
 tags: []
