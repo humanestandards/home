@@ -130,7 +130,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - type: blog_feed_section
-    title: What's New
+    title: Our Latest Kits
     subtitle: Intelligence Curation
     actions:
       - label: View All
