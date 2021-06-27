@@ -2,7 +2,8 @@
 title: Humane Powers
 subtitle: How to Learn Ethics with the help of our Hands.
 date: '2021-06-27'
-categories: []
+categories:
+  - data/categories/category-7h7b2ktyr.json
 tags: []
 excerpt: The Easiest way to Practice with the Humane Standards.
 thumb_image_alt: lorem-ipsum
