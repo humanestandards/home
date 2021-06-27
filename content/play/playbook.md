@@ -71,6 +71,8 @@ image: images/Humane Standards Cover.jpg
 
 ## ⭐ Our Missions:
 
+*   The Genesis of Self-Reflection for Economic Liberty,
+
 *   The Practice of Sentience for Ecophysiological Equality,
 
 *   The Mimesis of Self-Autonomy for Ecological Solidarity,
@@ -85,6 +87,6 @@ image: images/Humane Standards Cover.jpg
 
 # For the Playbook, Please Visit:
 
-[**https://coda.io/@symbiosis/humane-standards-beginners-edition**](https://coda.io/@symbiosis/humane-standards-beginners-edition)
+[**coda.io/@symbiosis/humane-standards-beginners-edition**](https://coda.io/@symbiosis/humane-standards-beginners-edition)
 
 ## Enjoy 😉

@@ -34,37 +34,37 @@ sections:
         content: >
           Artificial General Intelligence (AGI) is not something to be
           discovered. Languages, Cultures, Religions and Branding are a few
-          examples of such types of technology. Body Language (Gestures) is most
+          examples of such a type of technology. Body Language (Gestures) is most
           probably the first and most primitive form of AGI.
 
 
           *   Artificial Intelligence Ethics are policies concerning our Social
           Infrastructures and they promote Institutional Change, not the
           development of some crazy computer with uncontrolled temper or the
-          support of other conspiracy theories,
+          support of other kinds of conspiracy theories.
 
 
           *   You may rest asured that AI takeover is not a possible course of
           events, as it is a hypothesis lacking proper understanding around the
-          nature of Autonomous Intelligence,
+          Inclusive Nature of Intelligence.
 
 
           *   Most Frameworks of Ethics act Reactively to problematic behaviors
           (Emphasizing on Testing People's Competence according to views
-          surrounding our Past or our Future), and not Proactively (Emphasizing
-          on People's Capabilities in the Here and Now),
+          surrounding our Past or our Future), and not Proactively (By emphasizing
+          on People's Capabilities in the Here and Now, which are more than enough for World Peace and Economic Liberty).
 
 
           *   The Humane Standards are a future-proof Proactive Strategy
-          concerning Crisis Management and Collective Well-being. It is about
-          our Common Capabilities and Values which affect our Local Livelihoods
-          everyday,
+          concerning Crisis Management and our Collective Well-being. It is a tool Leveraging
+          our Common Capabilities and Values, which affect our Local Livelihoods
+          everyday.
 
 
           *   Our Common Humane Standards concern all Peoples, whether you do
           relate with their content and understand it or not.
         actions: []
-        image_alt: lorem-ipsum
+        image_alt: humane standards
         media_position: top
         media_width: fifty
         align: left
@@ -75,7 +75,7 @@ sections:
           General is our Collective Intelligence, which is all-Inclusive and
           Autonomous. It is Narrow as it expresses a certain Generic Diversity
           (Humane Personality), and Strong as it carries a Characteristic
-          Systasis (Humane Body or Framework).
+          Systasis (Humane Body / Infrastructure).
         actions: []
         image: images/people.png
         image_alt: People
@@ -87,8 +87,7 @@ sections:
           Sentience, and Self-Autonomy. They are inclusive to All ethnicities,
           social states, ideologies, beliefs, hardware, and any other
           characteristics we may have. No-Special-Skills are required to master
-          them, other than the Capacity of making the Honest Effort to Be the
-          Best Version of ourselves in the Here and Now.
+          them, other than the Capacity to make an Honest Effort.
         actions: []
         image: images/Woman_Window_Device.png
         image_alt: Feature 2 placeholder image
@@ -101,11 +100,11 @@ sections:
           While outwardly, and for millennia - we collectively seek for the most
           Sensible and Sensational form for Remote Autonomy - inwardly, the
           Human Complex is a Constitution of a System of Governance, capable to
-          Naturally achieve for Millenia all kinds of possible Virtues by Free
-          Will. Of course, we can’t overlook the Fatal Mistakes that we’ve done,
-          but we always have the Intuitive Tendency to Revisit them and Correct
+          achieve Naturally - all possible kinds of Virtues by
+          Will. Of course, we can’t overlook the Fatal Mistakes that we’ve made,
+          but we always have the Intuitive Tendency to Revisit and Correct
           them Humanely, even if that is being done by the newer generations who
-          always suffer by the mistakes of their families. Afterall, the Best
+          always suffer from the mistakes of their families. Afterall, the Best
           approach is always the Kind one.
         actions: []
         image: images/g22459.png
@@ -125,7 +124,7 @@ sections:
       A Console for Fair-Play Digital & Physical Symbiosis.
     actions:
       - label: Coming Soon
-        url: '#'
+        url: 
         style: primary
     actions_position: bottom
     align: center
@@ -149,7 +148,7 @@ sections:
     show_date: true
     show_categories: true
     show_author: true
-    show_excerpt: false
+    show_excerpt: true
     align: center
     padding_top: medium
     padding_bottom: medium

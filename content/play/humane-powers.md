@@ -59,11 +59,11 @@ The Humane Standards use the limbs of our body, such as our hands to help us exp
 
 👌 **E X A M P L E S**
 
-**A. Designating Positions**
+**A. Assigning Positions**
 
 ![](https://humanestandards.com/images/LeftHand.png)![](https://humanestandards.com/images/RightHand.png)
 
-In the above Mnemonic Systems we have Designated Powers to each of our Fingers.
+In the above Mnemonic Formats we have Assigned distinct Humane Powers to each of our Fingers.
 
 ### \__\_
 
@@ -73,19 +73,25 @@ In the above Mnemonic Systems we have Designated Powers to each of our Fingers.
 
 In the Gesture above we use the 1st and 2nd Finger to show a Cyclical Relationship (Loop) between the 1st and 2nd Humane Powers respectively. Then show how the 3rd Power is a Function supporting another Loop (with the 1st and 2nd Powers of another Stellar Format - See below). The rest of our powers are the result of these functions and represented by the rest of the fingers spreading outwardly.
 
+In a matter of fact, the above gesture which is named "the Dharmachakra Mudra" in ancient Asian Epistemology, it shows the Dynamics of Natural Reasoning. 
+
+A very interesting and rewarding Challenge is to attempt to Translate Human Hand Gestures - found in ancient sculptures and other kinds of religious art, and with the help of the Humane Standards.
+
 ### \__\_
 
 # ⭐ Stellar Format
 
 ![](https://humanestandards.com/images/Humane%20Powers.png)
 
-We have converted our Fundamental Humane Capabilities to the proceeding Powers, which are then being visualized through Stellar Formations.
+We have converted our Fundamental Humane Capabilities to the proceeding Powers, which are then being visualized through Stellar Geometric Formations.
 
-*   Each Stellar Point is being assigned with a Humane Power.
+*   Each Stellar Outer Point is being assigned with a Humane Power.
 
-*   There are lots of ways to learn how they associate with each other, and the easiest way is to begin with just One.
+*   There are lots of ways to learn them, and the easiest is to begin studying just One.
 
 *   Choose your favorite Star which contains Powers more Relatable to your work or general personality and use them as a Guide for the Organization of your Operations.
+
+*   Although it does not really matters when we Start to Practice, the choice that we make surrounding which hand we associate with a Stellar Format, the Full Sets of the Humane Standards present specific assignments for each Format and its designated Human Part (You may find them in our Playbook - Link below).
 
 *   🎁 *Bonus points to those who learn 2 Stars. One for each hand.*  🙌🏿 🙌🏾 🙌🏽 🙌🏼 🙌🏻
 
@@ -127,11 +133,11 @@ We have converted our Fundamental Humane Capabilities to the proceeding Powers, 
 
 Here is a Practical example on how to Practice with the Humane Powers Format:
 
-1.  We **choose a Topic** we wish to Asses. Something we care to reach a certain Decision and Solve a Problem.
+1.  We **choose a Topic** we wish to assess (Resolve). A matter of importance for us - one we care to reach a certain Decision and Solve a Problem.
 
 2.  We **select** our Favorite **Stellation**, or the one which seems **most Relatable to our Topic**.
 
-3.  Then we **begin** **Single-Player Sessions** or **Multi-Player, and expand on the following 3 Directions:**
+3.  Then we **Start Playing Single-Player Sessions (Self-Reflection) or **Multi-Player (Collaborative Self-Reflections), and expand on the following 3-Dimentions:**
 
     1.  **Sensible Self-Reflection**
 
@@ -147,20 +153,20 @@ Here is a Practical example on how to Practice with the Humane Powers Format:
 
 2.  Initiating Self-Reflection >> I assign each Power to Pros and Cons surrounding the Root of the Cause of the issue that I analyze (a.k.a. Climate Change),
 
-3.  Sentient Sensibility Exploration >> Afterwards, it is time to assign each Power to a Practical Sollution. To do so, we expand on ways that each Humane Power of ours can be most Valuable.
+3.  Sentient Sensibility Exploration >> Afterwards, it is time to assign each Power to a Practical Sollution. To do so, we expand on ways we can Leverage each of our Humane Powers for the most Commonly Valuable outcome.
 
 4.  Sensible Self-Autonomy Loop >> When we have expanded on the Root of our Issue and visualized on ways that it could be takled, we do what we can to Resolve it. This Last step is also a point where we may Deepen our Analysis through Iteration. We take our latest formed Intentions and assign them as Topics for further Self-Reflection.
 
-> Practice makes Perfect.
+> Practice makes Perfect. 🤯 🤗 🥳
 
 ### \__\_
 
 ## 💡 Tips
 
-*   The Stellar Format is synthesized bye Four 5-Pointed Stars and One 6-Pointed Star.
+*   The Stellar Formats are Four 5-Pointed Stars and One 6-Pointed one.
 
-*   Although the majority of the Stars are based on the 5-fold anatomy of the Human Hand, one of them is based on the 6-Freedoms of Movement in Space (Upwards, Downwards, etc.). The 6th extra Dimension represents the Environment of the Model and its whole Ecosystem.
+*   Although the majority of the Stars are based on the 5-fold anatomy of the Human Hand, one of them is based on the 6-Freedoms of Movement in Space (Upwards, Downwards, etc.). The extra 6th Dimension represents the Environment of the Model and its whole Ecosystem.
 
 For a more Detailed Exploration on our Standard Humane Powers, you may visit our Playbook for Beginners through the following Link:
 
-[https://coda.io/@symbiosis/humane-standards-beginners-edit](https://coda.io/@symbiosis/humane-standards-beginners-edition)
+[coda.io/@symbiosis/humane-standards-beginners-edition](https://coda.io/@symbiosis/humane-standards-beginners-edition)
