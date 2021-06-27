@@ -155,7 +155,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: /images/Humane Systems PlayGrounds Background_.png
+    background_image: /images/HEconomy_Main.jpg
     background_image_opacity: 31
 seo:
   type: stackbit_page_meta
