@@ -169,8 +169,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Hybrid-Reality Symbiosis Standardization | Artificial General
-        Intelligence Rights
+        Hybrid-Reality Symbiosis Gamification | Artificial General Intelligence
+        Rights
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/EcoHR%20Operations.png
