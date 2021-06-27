@@ -81,7 +81,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    actions_position: bottom
+    actions_position: right
     actions_width: fourty
     align: left
     padding_top: medium
