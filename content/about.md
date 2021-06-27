@@ -73,7 +73,7 @@ sections:
       Virtues and take Care of each other.
     actions:
       - label: Play
-        url: '#'
+        url: /play
         style: link
         has_icon: false
         icon: arrow-left
