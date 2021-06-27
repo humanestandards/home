@@ -6,8 +6,8 @@ sections:
     subtitle: Hybrid-Reality Symbiosis Gamification
     content: >
       The scope of the Humane Standards is the constitution of Ethical
-      Eco-systemic Symbiosis (Multilateral Coexistence) through the practice of
-      Self-Reflection, Sentience, and Self-Autonomy.
+      Eco-systemic Symbiosis (Hybrid-Reality Multilateral Coexistence) for
+      People & Machines.
     actions:
       - label: Learn More
         url: /about
