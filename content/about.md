@@ -51,10 +51,9 @@ sections:
         actions_width: auto
         subtitle: Sensible Intelligence Curation
       - title: Some City
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
+        content: >
+          Through the Mimesis of Self-Autonomy, we define and measure Ecological
+          Solidarity as the solution to the critical issues we face.
         content_align: left
         actions:
           - label: Get Directions
