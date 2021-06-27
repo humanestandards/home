@@ -9,7 +9,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
 seo:
-  title: ''
+  title: Humane Powers
   description: Our Inherited Problem-Solving Skills
   robots: []
   extra: []
