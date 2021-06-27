@@ -6,7 +6,7 @@ categories:
   - data/categories/category-7h7b2ktyr.json
 tags: []
 excerpt: The Easiest way to Practice with the Humane Standards.
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: humane
 image_alt: lorem-ipsum
 image_position: top
 seo:
