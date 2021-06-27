@@ -42,10 +42,9 @@ sections:
         actions_width: auto
         subtitle: Sensible Character Management
       - title: 2️⃣ Ecophysiological Equality
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
+        content: >
+          Through the Practice of Sentience, we define and measure the principle
+          of Ecophysiological Equality (Trans-Species Multilateralism).
         content_align: left
         actions:
           - label: Get Directions
