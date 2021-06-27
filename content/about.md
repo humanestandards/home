@@ -70,7 +70,7 @@ sections:
     has_border: false
     background_color: none
     background_image: images/people.png
-    background_image_opacity: 12
+    background_image_opacity: 24
   - title: Our Fair-Play Kits
     content: >
       Through the Economic Liberty of Being Human, may we all Cultivate our
