@@ -33,7 +33,7 @@ sections:
         media_width: fifty
     background_color: secondary
   - title: Wanna know more?
-    subtitle: lorem-ipsum
+    subtitle: Introduction
     features: []
     feature_padding_vert: medium
     align: center
