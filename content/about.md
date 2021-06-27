@@ -106,6 +106,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
+    background_image: images/HS_Coexistence_Cover.jpg
 seo:
   title: About
   description: This is the about us page
