@@ -25,7 +25,7 @@ sections:
     subtitle: Welcome to the Future
     features:
       - title: 'First things first, let''s clarify some truths about Ethics and AI:'
-        subtitle: lorem-ipsum
+        subtitle: 'First things first, let''s clarify some truths about Ethics and AI:'
         content: >-
           ## Lorem ipsum
 
