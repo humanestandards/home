@@ -24,7 +24,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image: images/Humane Governance.png
-    background_image_opacity: 3
+    background_image_opacity: 6
   - type: features_section
     title: Artificial General Intelligence Rights
     subtitle: Welcome to the Future
