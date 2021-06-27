@@ -8,7 +8,7 @@ tags:
   - data/tags/tag-9o8d9qrlt.json
 excerpt: How to Play with the Humane Standards. A Beginners-Friendly Documentation.
 thumb_image_alt: Humane Standards
-image_alt: lorem-ipsum
+image_alt: Humane Standards
 image_position: top
 seo:
   title: ''
