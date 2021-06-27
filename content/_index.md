@@ -161,7 +161,7 @@ seo:
   title: Humane Standards
   description: >-
     Hybrid-Reality Symbiosis Gamification | Artificial General Intelligence
-    Rights
+    Rights | A Universal Language for Humane and Machine Learning
   extra:
     - name: 'og:type'
       value: website
@@ -175,7 +175,7 @@ seo:
         Rights
       keyName: property
     - name: 'og:image'
-      value: https://humanestandards.com/images/EcoHR%20Operations.png
+      value: images/EcoHR%20Operations.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -187,7 +187,7 @@ seo:
         Hybrid-Reality Symbiosis Gamification | Artificial General Intelligence
         Rights
     - name: 'twitter:image'
-      value: https://humanestandards.com/images/EcoHR%20Operations.png
+      value: images/EcoHR%20Operations.png
       relativeUrl: true
 layout: advanced
 ---
