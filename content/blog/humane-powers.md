@@ -4,7 +4,7 @@ subtitle: How to Learn Ethics with the help of our Hands.
 date: '2021-06-27'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: The Easiest way to Practice with the Humane Standards.
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
