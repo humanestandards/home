@@ -25,11 +25,6 @@ sections:
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
-      - title: Wanna know more?
-        subtitle: Introduction
-        image_alt: Happy co-workers
-        media_position: right
-        media_width: fifty
     background_color: secondary
   - title: Wanna know more?
     features:
