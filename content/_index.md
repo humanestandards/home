@@ -152,7 +152,9 @@ sections:
     background_color: none
 seo:
   title: Humane Standards
-  description: 'Hybrid-Reality Symbiosis Standardization | '
+  description: >-
+    Hybrid-Reality Symbiosis Standardization | Artificial General Intelligence
+    Rights
   extra:
     - name: 'og:type'
       value: website
