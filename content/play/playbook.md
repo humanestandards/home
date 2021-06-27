@@ -15,6 +15,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+author: data/team/person-ob8adpiab.json
 ---
 **Learn & Play with the Humane Standards through this Beginners-Friendly Edition of their Playbook.**
 
