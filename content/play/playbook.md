@@ -4,7 +4,8 @@ subtitle: Beginner's Edition
 date: '2021-06-27'
 categories:
   - data/categories/category-hu9dzlshp.json
-tags: []
+tags:
+  - data/tags/tag-9o8d9qrlt.json
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
