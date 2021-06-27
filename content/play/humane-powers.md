@@ -61,7 +61,7 @@ The Humane Standards use the limbs of our body, such as our hands to help us exp
 
 **A. Designating Positions**
 
-![](/\_static/app-assets/LeftHand.png)![](/\_static/app-assets/RightHand.png)
+![](https://humanestandards.com/images/LeftHand.png)![](https://humanestandards.com/images/RightHand.png)
 
 In the above Mnemonic Systems we have Designated Powers to each of our Fingers.
 
@@ -69,7 +69,7 @@ In the above Mnemonic Systems we have Designated Powers to each of our Fingers.
 
 **B. Assigning Relationships**
 
-![](/\_static/app-assets/Reasoning\_.png)
+![](https://humanestandards.com/images/Reasoning\_.png)
 
 In the Gesture above we use the 1st and 2nd Finger to show a Cyclical Relationship (Loop) between the 1st and 2nd Humane Powers respectively. Then show how the 3rd Power is a Function supporting another Loop (with the 1st and 2nd Powers of another Stellar Format - See below). The rest of our powers are the result of these functions and represented by the rest of the fingers spreading outwardly.
 
@@ -77,7 +77,7 @@ In the Gesture above we use the 1st and 2nd Finger to show a Cyclical Relationsh
 
 # ⭐ Stellar Format
 
-![](/\_static/app-assets/Humane%20Powers.png)
+![](https://humanestandards.com/images/Humane%20Powers.png)
 
 We have converted our Fundamental Humane Capabilities to the proceeding Powers, which are then being visualized through Stellar Formations.
 
@@ -91,33 +91,33 @@ We have converted our Fundamental Humane Capabilities to the proceeding Powers, 
 
 ### \__\_
 
-![](/\_static/app-assets/Operations.png)
+![](https://humanestandards.com/images/Operations.png)
 
 > Operation is the Nature of an Ecosystem that takes the form of a Family, and exists within an Environment for other such Ecosystems of Families.
 > The Foundations of our Humane and therefore Sensible kind of Operation are the Standards of all kinds of Families.
 
 ### \__\_
 
-![](/\_static/app-assets/Harmonization.png)
+![](https://humanestandards.com/images/Harmonization.png)
 
 > Harmonization is the formation of Community Ecosystems which share a sense of Responsibility towards each other. These Social Networks are concerned with the Well-being of an Ecosystem. The Roots of our Humane and therefore Sensible Harmonization are the Standard Elements for the Constitution of Humane Communities.
 
 ### \__\_
 
-![](/\_static/app-assets/Interaction.png)
+![](https://humanestandards.com/images/Interaction.png)
 
 > Interaction represents the Services that are put into action. These are Management's Social Responsibilities of and the Care which is offered to an Ecosystem. The Roots of our Humane and therefore Sensible Interaction are the Standards for the provision of Care.
 
 ### \__\_
 
-![](/\_static/app-assets/Curation.png)
+![](https://humanestandards.com/images/Curation.png)
 
 > Curation is a sense of Sensibility towards our Resources - whether Intellectual or Physical - which enable Symbiosis within an Ecosystem.
 > The Roots of our Humane and therefore Sensible Curation are the Standard forms of Intelligence.
 
 ### \__\_
 
-![](/\_static/app-assets/Management.png)
+![](https://humanestandards.com/images/app-assets/Management.png)
 
 > The Roots of our Humane and therefore Sensible Management are the Standards of a Humane Character.
 
