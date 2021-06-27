@@ -25,6 +25,10 @@ seo:
       value: /_static/app-assets/Humane%20Governance.png
       keyName: property
       relativeUrl: true
+    - name: 'og:type'
+      value: article
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 ---
