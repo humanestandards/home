@@ -3,7 +3,7 @@ title: Fair-Play Kits
 sections:
   - type: hero_section
     title: Our Fair-Play Kits
-    subtitle: The optional subtitle
+    subtitle: Humane Standards Documentation and other Formats.
     align: center
     padding_top: medium
     padding_bottom: none
