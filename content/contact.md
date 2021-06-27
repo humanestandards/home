@@ -23,6 +23,7 @@ sections:
             has_icon: true
             icon: facebook
             icon_position: left
+            new_window: true
         actions_align: center
         image_alt: Partnering and sponsorships icon
         image_position: top
