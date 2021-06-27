@@ -72,6 +72,20 @@ sections:
     background_color: primary
     background_image: images/people.png
     background_image_opacity: 24
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    features: []
+    feature_padding_vert: medium
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: features_section
   - title: Our Fair-Play Kits
     content: >
       Through the Economic Liberty of Being Human, may we all Cultivate our
@@ -113,20 +127,6 @@ sections:
     background_color: primary
     background_image: images/HS_Coexistence_Cover.jpg
     background_image_opacity: 24
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
-    features: []
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
 seo:
   title: About
   description: This is the about us page
