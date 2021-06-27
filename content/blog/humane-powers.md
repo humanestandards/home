@@ -14,7 +14,7 @@ seo:
   robots: []
   extra:
     - name: 'og:image'
-      value: Humane Powers
+      value: ⭐ Humane Powers
       keyName: property
       relativeUrl: true
     - name: 'og:title'
