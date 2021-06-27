@@ -92,13 +92,7 @@ sections:
           characteristics we may have. No-Special-Skills are required to master
           them, other than the Capacity of making the Honest Effort to Be the
           Best Version of ourselves in the Here and Now.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/Woman_Window_Device.png
         image_alt: Feature 2 placeholder image
         media_position: left
