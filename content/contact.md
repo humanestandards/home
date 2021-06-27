@@ -40,7 +40,7 @@ sections:
             style: link
             has_icon: true
             icon: arrow-right
-            icon_position: right
+            icon_position: left
         actions_align: center
         image_alt: Help and support icon
         image_position: top
