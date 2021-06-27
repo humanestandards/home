@@ -68,10 +68,11 @@ sections:
         type: feature
       - title: "\U0001F642 Humane Complexity"
         subtitle: Our Collective Inheritance.
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          General is our Collective Intelligence, which is all-Inclusive and
+          Autonomous. It is Narrow as it expresses a certain Generic Diversity
+          (Humane Personality), and Strong as it carries a Characteristic
+          Systasis (Humane Body or Framework).
         actions:
           - label: Learn More
             url: /style-guide
