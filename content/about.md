@@ -5,7 +5,7 @@ sections:
     title: Our NEW Humane Standards
     subtitle: About
     align: center
-    background_color: secondary
+    background_color: primary
     image: images/Humane Standards.png
   - type: features_section
     features:
