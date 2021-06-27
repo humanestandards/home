@@ -67,7 +67,7 @@ sections:
         align: left
         type: feature
       - title: "\U0001F642 Humane Complexity"
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: Our Collective Inheritance.
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
