@@ -33,6 +33,10 @@ seo:
       value: ⭐ Humane Powers
       keyName: name
       relativeUrl: false
+    - name: 'twitter:description'
+      value: Our Inherited Problem-Solving Skills
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 ---
