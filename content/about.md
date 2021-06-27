@@ -56,6 +56,7 @@ sections:
             icon_position: right
         actions_align: left
         actions_width: auto
+        subtitle: Sensible Intelligence Curation
       - title: Some City
         content: >-
           1234 Some St.<br/> Some City, ST 12345<br/>
