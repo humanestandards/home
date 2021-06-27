@@ -66,7 +66,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - title: The Big Title For the Feature
+      - title: "\U0001F642 Humane Complexity"
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
