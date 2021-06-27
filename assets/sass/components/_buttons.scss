@@ -5,12 +5,12 @@
 	align-items: center;
 	background-color: $color-btn-bg;
 	border: 0;
-	border-radius: 0;
+	border-radius: 1.3em;
 	box-sizing: border-box;
 	color: $color-btn-text;
 	cursor: pointer;
 	display: inline-flex;
-	font-size: 0.88889em;
+	font-size: 1em;
 	font-weight: 700;
 	justify-content: center;
 	line-height: 1.25;
@@ -102,13 +102,13 @@
 
 .style-classic {
 	.btn {
-		border-radius: 1.875em;
+		border-radius: 1.5em;
 	}
 }
 
 .style-minimal {
 	.btn {
-		border-radius: 2px;
+		border-radius: 1.5em;
 	}
 }
 
@@ -142,11 +142,11 @@
 	$colors: map-deep-get($theme-styles, $style, "colors");
 	@each $color, $value in $colors {
 		$color-suffix: "#{$color}";
-	
+
 		.style-#{$style-suffix} {
 			&.palette-#{$color-suffix} {
 				.btn--primary {
-					background-color: $value;
+					background-color: $color-btn-bg;
 				}
 			}
 		}

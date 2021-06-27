@@ -8,6 +8,11 @@
 .navbar__logo,
 .navbar__title {
 	text-decoration: none;
+	font-size: 1em;
+	font-weight: 900;
+	line-height: 1.2;
+	margin: 1.25em 0 0.5em;
+	color: $color-yellow;
 }
 
 .navbar__logo {
@@ -92,14 +97,14 @@
 
 	.js-nav-open {
 		overflow: hidden;
-	
+
 		.nav-overlay {
 				opacity: 1;
 				transition: opacity .25s;
 				visibility: visible;
 				z-index: 998;
 		}
-	
+
 		.navbar__container {
 			right: 0;
 			transition: right .3s ease;
@@ -135,7 +140,7 @@
 				transition: .3s ease-in-out;
 			}
 		}
-	
+
 		a:not(.btn):hover,
 		.is-active a {
 			text-decoration: none;
@@ -224,7 +229,7 @@
 	$colors: map-deep-get($theme-styles, $style, "colors");
 	@each $color, $value in $colors {
 		$color-suffix: "#{$color}";
-	
+
 		.style-#{$style-suffix} {
 			&.palette-#{$color-suffix} {
 				@include media-breakpoint-up(md) {

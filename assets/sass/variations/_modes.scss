@@ -5,7 +5,7 @@
 	&.style-classic {
 		.card--highlight {
 			box-shadow: none;
-	
+
 			&:hover {
 				box-shadow: 0 2px 30px $color-classic-card-shadow;
 			}
@@ -15,6 +15,7 @@
 	&.style-bold {
 		.card {
 			border-color: $color-bold-card-border;
+            border-radius: 1.3em;
 		}
 
 		.site-header {
@@ -33,6 +34,7 @@
 		@include media-breakpoint-down(md) {
 			.navbar__menu {
 				border-color: $color-bold-nav-mobile-border;
+				text-align: center;
 			}
 		}
 
@@ -206,6 +208,7 @@
 }
 
 .mode-dark {
+	scrollbar-color: dark;
 	background-color: $color-dark-body-bg;
 	color: $color-dark-body-text;
 
@@ -282,6 +285,7 @@
 		background: $color-dark-input-bg;
 		border-color: transparent;
 		color: $color-dark-input-text;
+		border-radius: 1.5em;
 	}
 
 	.form-select {
@@ -292,7 +296,7 @@
 		.btn--primary,
 		.btn--secondary {
 			box-shadow: 0.375em 0.375em 0 0 $color-dark-bold-btn-shadow;
-	
+
 			&:hover,
 			&:focus,
 			&:active {
@@ -315,7 +319,7 @@
 
 	@include media-breakpoint-down(md) {
 		.navbar__container {
-			background-color: $color-dark-nav-mobile-bg;
+			background-color: rgba(3, 81, 138, 0.96);
 		}
 
 		.navbar__menu {
@@ -357,12 +361,12 @@
 		}
 
 		.btn--primary {
-			background-color: $color-dark-primary-sect-btn-bg;
-			color: $color-dark-primary-sect-btn-text;
+			background-color: $color-btn-bg;
+			color: $color-btn-text;
 		}
 
 		.btn--secondary {
-			background-color: $color-dark-primary-sect-btn-alt-bg;
+			background-color: $color-btn-alt-bg;
 		}
 	}
 
@@ -373,7 +377,11 @@
 	.card {
 		background-color: $color-dark-card-bg;
 		border-color: $color-dark-card-border;
-	
+		border-radius: 1.5em;
+		border: solid;
+		border-width: thin;
+		border-color: #9292924a;
+
 		pre {
 			border-color: $color-dark-code-border;
 		}
@@ -381,11 +389,11 @@
 		hr {
 			background-color: $color-dark-hr-border;
 		}
-	
+
 		table {
 			border-color: $color-dark-table-border;
 		}
-	
+
 		th,
 		td {
 			border-color: $color-dark-table-border;
@@ -431,7 +439,7 @@
 	$colors: map-deep-get($theme-styles, $style, "colors");
 	@each $color, $value in $colors {
 		$color-suffix: "#{$color}";
-	
+
 		.style-#{$style-suffix} {
 			&.palette-#{$color-suffix} {
 				.card {
