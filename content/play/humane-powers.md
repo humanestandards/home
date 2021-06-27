@@ -87,7 +87,7 @@ We have converted our Fundamental Humane Capabilities to the proceeding Powers, 
 
 *   Choose your favorite Star which contains Powers more Relatable to your work or general personality and use them as a Guide for the Organization of your Operations.
 
-*   *🎁 Bonus points to those who learn 2 Stars. One for each hand.  🙌🏿 🙌🏾 🙌🏽 🙌🏼 🙌🏻*
+*   🎁 *Bonus points to those who learn 2 Stars. One for each hand.*  🙌🏿 🙌🏾 🙌🏽 🙌🏼 🙌🏻
 
 ### \__\_
 
@@ -117,7 +117,7 @@ We have converted our Fundamental Humane Capabilities to the proceeding Powers, 
 
 ### \__\_
 
-![](https://humanestandards.com/images/app-assets/Management.png)
+![](https://humanestandards.com/images/Management.png)
 
 > The Roots of our Humane and therefore Sensible Management are the Standards of a Humane Character.
 
