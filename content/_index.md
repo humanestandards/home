@@ -152,7 +152,7 @@ sections:
     background_color: none
 seo:
   title: Humane Standards
-  description: The preview of the DIY theme
+  description: 'Hybrid-Reality Symbiosis Standardization | '
   extra:
     - name: 'og:type'
       value: website
