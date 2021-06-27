@@ -94,10 +94,16 @@ sections:
         subtitle: Gamified Ecosystems.
       - title: "\U0001F310 Humane Symbiosis"
         subtitle: Remote Autonomy for People & Machines.
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          While outwardly, and for millennia - we collectively seek for the most
+          Sensible and Sensational form for Remote Autonomy - inwardly, the
+          Human Complex is a Constitution of a System of Governance, capable to
+          Naturally achieve for Millenia all kinds of possible Virtues by Free
+          Will. Of course, we can’t overlook the Fatal Mistakes that we’ve done,
+          but we always have the Intuitive Tendency to Revisit them and Correct
+          them Humanely, even if that is being done by the newer generations who
+          always suffer by the mistakes of their families. Afterall, the Best
+          approach is always the Kind one.
         actions:
           - label: Learn More
             url: /style-guide
