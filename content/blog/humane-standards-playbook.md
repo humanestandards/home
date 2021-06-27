@@ -1,7 +1,7 @@
 ---
 title: Humane Standards Playbook
 subtitle: Beginner's Edition
-date: '2021-06-27'
+date: '2021-06-25'
 categories: []
 tags: []
 excerpt: lorem-ipsum
