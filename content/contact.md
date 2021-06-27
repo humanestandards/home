@@ -72,7 +72,7 @@ sections:
     grid_gap_vert: medium
     enable_cards: true
     align: center
-    padding_top: none
+    padding_top: small
     padding_bottom: large
     background_color: primary
 seo:
