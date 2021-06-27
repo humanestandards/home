@@ -84,7 +84,7 @@ sections:
         image_alt: People
         media_position: left
         media_width: fifty
-      - title: The Big Title For the Feature
+      - title: ✋ Fair-Play Kits
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
