@@ -36,7 +36,7 @@ sections:
         content_align: center
         actions:
           - label: Get Support
-            url: /general-enquiries
+            url: 'https://www.linkedin.com/company/humanestandards/'
             style: secondary
             has_icon: true
             icon: arrow-right
