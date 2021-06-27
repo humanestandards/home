@@ -10,7 +10,7 @@ sections:
       Self-Reflection, Sentience, and Self-Autonomy.
     actions:
       - label: Learn More
-        url: /features
+        url: /about
         style: secondary
     image: images/PeopleRemote.png
     image_alt: Hero section placeholder image
