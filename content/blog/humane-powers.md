@@ -10,7 +10,7 @@ image_alt: lorem-ipsum
 image_position: top
 seo:
   title: ''
-  description: ''
+  description: Our Inherited Problem-Solving Skills
   robots: []
   extra: []
   type: stackbit_page_meta
