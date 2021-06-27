@@ -148,7 +148,7 @@
         "content": "<a href=\"https://humanestandards.com/\" target=\"_blank\" rel=\"noopener\">Humane Standards | </a>. Create yours <a href=\"https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
         "links": [
             {
-                "label": "lorem-ipsum",
+                "label": "CC BY-SA 4.0 | ",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
