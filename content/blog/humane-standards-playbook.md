@@ -13,7 +13,11 @@ seo:
   title: ''
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Humane Standards Playbook
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 author: data/team/person-ob8adpiab.json
