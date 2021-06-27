@@ -68,7 +68,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: This is a Call to Action
+    title: We are All in this Together.
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Compare Plans
