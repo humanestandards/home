@@ -22,6 +22,12 @@ seo:
       value: /_static/app-assets/Humane%20Standards%20Cover.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:description'
+      value: >-
+        Learn & Play with the Humane Standards through this Beginners-Friendly
+        Edition of their Playbook.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 author: data/team/person-ob8adpiab.json
