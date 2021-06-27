@@ -104,13 +104,7 @@ sections:
           them Humanely, even if that is being done by the newer generations who
           always suffer by the mistakes of their families. Afterall, the Best
           approach is always the Kind one.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/g22459.png
         image_alt: Feature 3 placeholder image
         media_position: right
