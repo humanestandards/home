@@ -130,6 +130,7 @@ sections:
     padding_bottom: large
     background_color: secondary
     background_image: images/Humane Systems PlayGrounds Background_.png
+    background_image_opacity: 24
   - type: blog_feed_section
     title: Our Latest Kits
     subtitle: Intelligence Curation
