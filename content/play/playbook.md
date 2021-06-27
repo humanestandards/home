@@ -16,7 +16,11 @@ seo:
     Learn & Play with the Humane Standards through this Beginners-Friendly
     Edition of their Playbook.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /_static/app-assets/EcoHR%20Operations.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: post
 author: data/team/person-ob8adpiab.json
