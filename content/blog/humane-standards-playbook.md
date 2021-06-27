@@ -28,6 +28,10 @@ seo:
         Edition of their Playbook.
       keyName: property
       relativeUrl: false
+    - name: 'og:type'
+      value: article
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 author: data/team/person-ob8adpiab.json
