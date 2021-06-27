@@ -48,11 +48,13 @@ author: data/team/person-ob8adpiab.json
 thumb_image: images/square-saturn_.jpg
 image: images/square-saturn_.jpg
 ---
-> The Easiest way to Practice with the Humane Standards.
+> ***The Easiest way to Practice with the Humane Standards.***
 
 Mnenomics, or Symbolic Association is the most efficient Learning technique.
 
 The Humane Standards use the limbs of our body, such as our hands to help us explore and remember our Humane Powers in a more intuitive manner.
+
+### \__\_
 
 👌 **E X A M P L E S**
 
@@ -62,13 +64,15 @@ The Humane Standards use the limbs of our body, such as our hands to help us exp
 
 In the above Mnemonic Systems we have Designated Powers to each of our Fingers.
 
+### \__\_
+
 **B. Assigning Relationships**
 
 ![](/\_static/app-assets/Reasoning\_.png)
 
 In the Gesture above we use the 1st and 2nd Finger to show a Cyclical Relationship (Loop) between the 1st and 2nd Humane Powers respectively. Then show how the 3rd Power is a Function supporting another Loop (with the 1st and 2nd Powers of another Stellar Format - See below). The rest of our powers are the result of these functions and represented by the rest of the fingers spreading outwardly.
 
-##
+### \__\_
 
 # ⭐ Stellar Format
 
@@ -82,41 +86,41 @@ We have converted our Fundamental Humane Capabilities to the proceeding Powers, 
 
 *   Choose your favorite Star which contains Powers more Relatable to your work or general personality and use them as a Guide for the Organization of your Operations.
 
-*   🎁 Bonus points to those who learn 2 Stars. One for each hand. 🙌🏿 🙌🏾 🙌🏽 🙌🏼 🙌🏻
+*   **🎁* Bonus points to those who learn 2 Stars. One for each hand. *🙌🏿 🙌🏾 🙌🏽 🙌🏼 🙌🏻**
 
-\__\_
+### \__\_
 
 ![](/\_static/app-assets/Operations.png)
 
 > Operation is the Nature of an Ecosystem that takes the form of a Family, and exists within an Environment for other such Ecosystems of Families.
 > The Foundations of our Humane and therefore Sensible kind of Operation are the Standards of all kinds of Families.
 
-\__\_
+### \__\_
 
 ![](/\_static/app-assets/Harmonization.png)
 
 > Harmonization is the formation of Community Ecosystems which share a sense of Responsibility towards each other. These Social Networks are concerned with the Well-being of an Ecosystem. The Roots of our Humane and therefore Sensible Harmonization are the Standard Elements for the Constitution of Humane Communities.
 
-\__\_
+### \__\_
 
 ![](/\_static/app-assets/Interaction.png)
 
 > Interaction represents the Services that are put into action. These are Management's Social Responsibilities of and the Care which is offered to an Ecosystem. The Roots of our Humane and therefore Sensible Interaction are the Standards for the provision of Care.
 
-\__\_
+### \__\_
 
 ![](/\_static/app-assets/Curation.png)
 
 > Curation is a sense of Sensibility towards our Resources - whether Intellectual or Physical - which enable Symbiosis within an Ecosystem.
 > The Roots of our Humane and therefore Sensible Curation are the Standard forms of Intelligence.
 
-\__\_
+### \__\_
 
 ![](/\_static/app-assets/Management.png)
 
 > The Roots of our Humane and therefore Sensible Management are the Standards of a Humane Character.
 
-## \__\_
+### \__\_
 
 ## 🤔 Problem Solving & Decision Management
 
@@ -134,7 +138,7 @@ Here is a Practical example on how to Practice with the Humane Powers Format:
 
     3.  **Sensible Self-Autonomy**
 
-\__\_
+### \__\_
 
 **E X A M P L E**
 
@@ -148,7 +152,7 @@ Here is a Practical example on how to Practice with the Humane Powers Format:
 
 > Practice makes Perfect.
 
-\__\_
+### \__\_
 
 ## 💡 Tips
 
