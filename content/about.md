@@ -32,7 +32,7 @@ sections:
         media_position: right
         media_width: fifty
     background_color: secondary
-  - title: lorem-ipsum
+  - title: Wanna know more?
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
