@@ -4,7 +4,8 @@ subtitle: Beginner's Edition
 date: '2021-06-25'
 categories:
   - data/categories/category-hu9dzlshp.json
-tags: []
+tags:
+  - data/tags/tag-9o8d9qrlt.json
 excerpt: How to Play with the Humane Standards. A Beginners-Friendly Documentation.
 thumb_image_alt: humane standards playbook
 image_alt: humane standards playbook
