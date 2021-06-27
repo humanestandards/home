@@ -73,13 +73,7 @@ sections:
           Autonomous. It is Narrow as it expresses a certain Generic Diversity
           (Humane Personality), and Strong as it carries a Characteristic
           Systasis (Humane Body or Framework).
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/people.png
         image_alt: People
         media_position: left
