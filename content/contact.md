@@ -47,9 +47,8 @@ sections:
         image_has_padding: true
       - title: YouTube
         title_align: center
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel.
+        content: |
+          Enjoy our Original Content
         content_align: center
         actions:
           - label: Get Support
