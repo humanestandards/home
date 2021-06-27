@@ -25,7 +25,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Contact",
+                "label": "Connect",
                 "url": "/contact",
                 "style": "link"
             },
