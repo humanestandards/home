@@ -12,7 +12,11 @@ seo:
   title: Humane Powers
   description: Our Inherited Problem-Solving Skills
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: Humane Powers
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: post
 ---
