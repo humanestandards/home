@@ -4,5 +4,6 @@
     "first_name": "Humane",
     "last_name": "Standards",
     "photo_alt": "lorem-ipsum",
-    "type": "person"
+    "type": "person",
+    "photo": "images/NEWHumaneStandards Icon.svg"
 }
