@@ -175,7 +175,7 @@ seo:
         Rights
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/EcoHR%20Operations.png
+      value: https://humanestandards.com/images/EcoHR%20Operations.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -187,7 +187,7 @@ seo:
         Hybrid-Reality Symbiosis Gamification | Artificial General Intelligence
         Rights
     - name: 'twitter:image'
-      value: /_static/app-assets/EcoHR%20Operations.png
+      value: https://humanestandards.com/images/EcoHR%20Operations.png
       relativeUrl: true
 layout: advanced
 ---
