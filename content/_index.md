@@ -24,7 +24,7 @@ sections:
     title: Artificial General Intelligence Rights
     subtitle: Welcome to the Future
     features:
-      - title: lorem-ipsum
+      - title: 'First things first, let''s clarify some truths about Ethics and AI:'
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
