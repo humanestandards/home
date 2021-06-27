@@ -9,7 +9,7 @@ sections:
     padding_bottom: small
     has_border: true
     background_color: none
-    background_image: images/EcoHR Operations.png
+    background_image: images/HS_Connect_Cover.jpg
   - type: grid_section
     grid_items:
       - title: Facebook
