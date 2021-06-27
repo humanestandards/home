@@ -1,6 +1,6 @@
 ---
 title: Humane Powers
-subtitle: Using our Hands as Self-Learning Devices.
+subtitle: Our Hands as Self-Learning Devices.
 date: '2021-06-27'
 categories: []
 tags: []
