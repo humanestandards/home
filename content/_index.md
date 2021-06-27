@@ -93,7 +93,7 @@ sections:
         media_width: fifty
         subtitle: Gamified Ecosystems.
       - title: "\U0001F310 Humane Symbiosis"
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: Remote Autonomy for People & Machines.
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
