@@ -31,7 +31,7 @@
             },
             {
                 "label": "Play",
-                "url": "/pricing",
+                "url": "/play",
                 "style": "primary"
             }
         ],
