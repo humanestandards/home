@@ -11,7 +11,6 @@ image_alt: humane standards playbook
 image_position: top
 seo:
   title: ''
-  description: ''
   robots: []
   extra:
     - name: 'og:title'
