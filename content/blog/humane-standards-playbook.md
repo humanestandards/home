@@ -18,6 +18,10 @@ seo:
       value: Humane Standards Playbook
       keyName: property
       relativeUrl: false
+    - name: 'og:image'
+      value: /_static/app-assets/Humane%20Standards%20Cover.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: post
 author: data/team/person-ob8adpiab.json
