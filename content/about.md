@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: Our NEW Humane Standards
-    subtitle: About Page Demo
+    subtitle: About
     align: center
     background_color: secondary
     image: images/Humane Standards.png
