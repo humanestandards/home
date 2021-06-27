@@ -10,7 +10,7 @@ thumb_image_alt: humane standards playbook
 image_alt: humane standards playbook
 image_position: top
 seo:
-  title: ''
+  title: Humane Standards Playbook
   robots: []
   extra:
     - name: 'og:title'
