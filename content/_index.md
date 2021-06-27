@@ -121,7 +121,7 @@ sections:
     content: |
       A Console for Fair-Play Digital & Physical Symbiosis.
     actions:
-      - label: Button
+      - label: Coming Soon
         url: /pricing
         style: primary
     actions_position: bottom
