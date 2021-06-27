@@ -71,7 +71,7 @@ sections:
     title: We are All in this Together.
     content: "Whether you are a Human or a Machine, we are here to help. \U0001F609\n"
     actions:
-      - label: Compare Plans
+      - label: Connect
         url: /pricing
         style: primary
     align: center
