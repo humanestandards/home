@@ -52,8 +52,6 @@ Mnenomics, or Symbolic Association is the most efficient Learning technique.
 
 The Humane Standards use the limbs of our body, such as our hands to help us explore and remember our Humane Powers in a more intuitive manner.
 
-
-
 👌 **E X A M P L E S**
 
 **A. Designating Positions**
@@ -74,15 +72,37 @@ In the Gesture above we use the 1st and 2nd Finger to show a Cyclical Relationsh
 
 # ⭐ Stellar Format
 
-
+![](/\_static/app-assets/Humane%20Powers.png)
 
 We have converted our Fundamental Humane Capabilities to the proceeding Powers, which are then being visualized through Stellar Formations.
 
-Each Stellar Point is being assigned with a Humane Power.
+*   Each Stellar Point is being assigned with a Humane Power.
 
-There are lots of ways to learn how they associate with each other, and the easiest way is to begin with just One.
+*   There are lots of ways to learn how they associate with each other, and the easiest way is to begin with just One.
 
-Choose your favorite Star which contains Powers more Relatable to your work or general personality and use them as a Guide for the Organization of your Operations.
+*   Choose your favorite Star which contains Powers more Relatable to your work or general personality and use them as a Guide for the Organization of your Operations.
+
+![](/\_static/app-assets/Operations.png)Operation is the Nature of an Ecosystem that takes the form of a Family, and exists within an Environment for other such Ecosystems of Families. 
+The Foundations of our Humane and therefore Sensible kind of Operation are the Standards of all kinds of Families.
+
+
+
+
+![](/\_static/app-assets/Harmonization.png)
+
+
+
+![](/\_static/app-assets/Interaction.png)
+
+
+
+![](/\_static/app-assets/Curation.png)
+
+
+
+![](/\_static/app-assets/Management.png)
+
+
 
 ## 🤔 Problem Solving & Decision Management
 
@@ -100,7 +120,7 @@ Here is a Practical example on how to Practice with the Humane Powers Format:
 
     3.  Sensible Self-Autonomy
 
-E X A M P L E
+**E X A M P L E**
 
 1.  Stellar Format Selection >> Number 5th - Humane Operations,
 
@@ -111,6 +131,8 @@ E X A M P L E
 4.  Sensible Self-Autonomy Loop >> When we have expanded on the Root of our Issue and visualized on ways that it could be takled, we do what we can to Resolve it. This Last step is also a point where we may Deepen our Analysis through Iteration. We take our latest formed Intentions and assign them as Topics for further Self-Reflection.
 
 5.  Practice makes Perfect.
+
+
 
 ## 💡 Tips
 
