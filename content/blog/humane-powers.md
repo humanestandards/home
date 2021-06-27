@@ -17,6 +17,10 @@ seo:
       value: Our Inherited Problem-Solving Skills
       keyName: property
       relativeUrl: false
+    - name: 'og:title'
+      value: ⭐ Humane Powers
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 ---
