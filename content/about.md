@@ -31,6 +31,7 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
+    background_color: secondary
   - type: grid_section
     title: Why Sensible Governance?
     grid_items:
