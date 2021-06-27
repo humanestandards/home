@@ -27,7 +27,7 @@ sections:
     content_align: center
     form_position: bottom
     form_layout: inline
-    form_id: PlaysubscribeForm
+    form_id: PlaySubscribeForm
     form_action: /thank-you
     form_fields:
       - input_type: email
