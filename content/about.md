@@ -55,13 +55,7 @@ sections:
           Through the Mimesis of Self-Autonomy, we define and measure Ecological
           Solidarity as the solution to the critical issues we face.
         content_align: left
-        actions:
-          - label: Get Directions
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         actions_align: left
         actions_width: auto
         subtitle: Sensible Care Interaction
