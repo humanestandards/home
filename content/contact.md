@@ -17,7 +17,7 @@ sections:
           Be part of our Global Family
         content_align: center
         actions:
-          - label: Get Support
+          - label: Like
             url: /general-enquiries
             style: link
             has_icon: true
