@@ -37,6 +37,10 @@ seo:
       value: Our Inherited Problem-Solving Skills
       keyName: name
       relativeUrl: false
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 ---
