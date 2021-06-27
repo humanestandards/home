@@ -24,7 +24,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: Wanna know more?
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
+        subtitle: Introduction
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
