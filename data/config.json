@@ -145,7 +145,20 @@
                 "new_window": true
             }
         ],
-        "content": "<a href=\"https://humanestandards.com/\" target=\"_blank\" rel=\"noopener\">Humane Standards | </a>. Create yours <a href=\"https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "<a href=\"https://humanestandards.com/\" target=\"_blank\" rel=\"noopener\">Humane Standards | </a>. Create yours <a href=\"https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ]
     },
     "domain": "https://website-84d91.netlify.app"
 }
