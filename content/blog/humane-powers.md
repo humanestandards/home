@@ -29,6 +29,10 @@ seo:
       value: article
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: ⭐ Humane Powers
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 ---
