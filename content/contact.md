@@ -30,9 +30,8 @@ sections:
         image_has_padding: true
       - title: LinkedIn
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla.
+        content: |
+          Join our Professional Page
         content_align: center
         actions:
           - label: Get Support
