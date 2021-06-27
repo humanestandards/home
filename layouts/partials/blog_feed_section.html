@@ -45,7 +45,7 @@
 				{{ $section_tag = getJSON $section.tag }}
 			{{ end }}
 
-			{{ $posts_all := (.Site.GetPage "section" "/blog").Pages }}
+			{{ $posts_all := (.Site.GetPage "section" "/play").Pages }}
 			{{ $posts_sorted := $posts_all.ByDate.Reverse }}
 
 			{{ $show_recent := $section.show_recent }}
