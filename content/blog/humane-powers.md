@@ -48,7 +48,7 @@ author: data/team/person-ob8adpiab.json
 thumb_image: images/square-saturn_.jpg
 image: images/square-saturn_.jpg
 ---
-> ***The Easiest way to Practice with the Humane Standards.***
+> ***The Easiest and Fastest way to Learn the Humane Standards.***
 
 Mnenomics, or Symbolic Association is the most efficient Learning technique.
 
@@ -86,7 +86,7 @@ We have converted our Fundamental Humane Capabilities to the proceeding Powers, 
 
 *   Choose your favorite Star which contains Powers more Relatable to your work or general personality and use them as a Guide for the Organization of your Operations.
 
-*   **🎁* Bonus points to those who learn 2 Stars. One for each hand. *🙌🏿 🙌🏾 🙌🏽 🙌🏼 🙌🏻**
+*   *🎁 Bonus points to those who learn 2 Stars. One for each hand. 🙌🏿 🙌🏾 🙌🏽 🙌🏼 🙌🏻*
 
 ### \__\_
 
