@@ -11,7 +11,7 @@ thumb_image_alt: Humane Standards
 image_alt: Humane Standards
 image_position: top
 seo:
-  title: ''
+  title: Humane Standards Playbook for Beginners
   description: ''
   robots: []
   extra: []
