@@ -24,7 +24,7 @@ image: images/Humane Standards Cover.jpg
 
 ***\*No-Special-Skills Required***
 
-### ******
+###
 
 ## 🎮 Our Players:
 
