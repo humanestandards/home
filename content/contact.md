@@ -5,7 +5,7 @@ sections:
     title: One of us?
     subtitle: Our Communication Channels
     align: center
-    padding_top: small
+    padding_top: large
     padding_bottom: small
     has_border: true
     background_color: none
