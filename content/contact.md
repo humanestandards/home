@@ -41,6 +41,7 @@ sections:
             has_icon: true
             icon: linkedin
             icon_position: left
+            new_window: true
         actions_align: center
         image_alt: Help and support icon
         image_position: top
