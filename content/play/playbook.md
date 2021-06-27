@@ -3,9 +3,7 @@ title: Humane Standards Playbook
 subtitle: Beginner's Edition
 date: '2021-06-27'
 categories:
-  - data/categories/category-hu9dzlshp.json
 tags:
-  - data/tags/tag-9o8d9qrlt.json
 excerpt: How to Play with the Humane Standards. A Beginners-Friendly Documentation.
 thumb_image_alt: Humane Standards
 image_alt: Humane Standards
@@ -18,7 +16,7 @@ seo:
   robots: []
   extra:
     - name: 'og:image'
-      value: /_static/app-assets/EcoHR%20Operations.png
+      value: images/EcoHR%20Operations.png
       keyName: property
       relativeUrl: true
     - name: 'og:type'

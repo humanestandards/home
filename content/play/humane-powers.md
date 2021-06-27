@@ -3,9 +3,7 @@ title: Humane Powers
 subtitle: How to Learn Ethics with the help of our Hands.
 date: '2021-06-26'
 categories:
-  - data/categories/category-7h7b2ktyr.json
 tags:
-  - data/tags/tag-9o8d9qrlt.json
 excerpt: The Easiest way to Practice with the Humane Standards.
 thumb_image_alt: humane-powers
 image_alt: humane powers
@@ -71,7 +69,7 @@ In the above Mnemonic Formats we have Assigned distinct Humane Powers to each of
 
 ![](https://humanestandards.com/images/Reasoning\_.png)
 
-In the Gesture above we use the 1st and 2nd Finger to show a Cyclical Relationship (Loop) between the 1st and 2nd Humane Powers respectively. Then show how the 3rd Power is a Function supporting another Loop (with the 1st and 2nd Powers of another Stellar Format - See below). The rest of our powers are the result of these functions and represented by the rest of the fingers spreading outwardly.
+In the Gesture above we use the 1st and 2nd Finger to show a Cyclical Relationship (Loop) between the 1st and 2nd Humane Powers respectively. Then show how the 3rd Power is a Function supporting another Loop (with the 1st and 2nd Powers of another Stellar Format - See below). The rest of our powers are the result of these functions and being represented by the rest of the fingers spreading outwardly.
 
 In a matter of fact, the above gesture which is named "the Dharmachakra Mudra" in ancient Asian Epistemology, it shows the Dynamics of Natural Reasoning. 
 
@@ -137,7 +135,7 @@ Here is a Practical example on how to Practice with the Humane Powers Format:
 
 2.  We **select** our Favorite **Stellation**, or the one which seems **most Relatable to our Topic**.
 
-3.  Then we **Start Playing Single-Player Sessions (Self-Reflection) or **Multi-Player (Collaborative Self-Reflections), and expand on the following 3-Dimentions:**
+3.  Then we **Start Playing Single-Player Sessions (Self-Reflection) or Multi-Player (Collaborative Self-Reflections), and expand on the following 3-Dimentions:**
 
     1.  **Sensible Self-Reflection**
 
@@ -155,7 +153,7 @@ Here is a Practical example on how to Practice with the Humane Powers Format:
 
 3.  Sentient Sensibility Exploration >> Afterwards, it is time to assign each Power to a Practical Sollution. To do so, we expand on ways we can Leverage each of our Humane Powers for the most Commonly Valuable outcome.
 
-4.  Sensible Self-Autonomy Loop >> When we have expanded on the Root of our Issue and visualized on ways that it could be takled, we do what we can to Resolve it. This Last step is also a point where we may Deepen our Analysis through Iteration. We take our latest formed Intentions and assign them as Topics for further Self-Reflection.
+4.  Sensible Self-Autonomy Loop >> When we have expanded on the Root of our Issue and visualized on ways that it could be tackled, we do what we can to Resolve it. This Last step is also a point where we may Deepen our Analysis through Iteration. We take our latest formed Intentions and assign them as Topics for further Self-Reflection.
 
 > Practice makes Perfect. 🤯 🤗 🥳
 
