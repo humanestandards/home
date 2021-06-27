@@ -12,6 +12,7 @@ sections:
       - label: Learn More
         url: /about
         style: secondary
+        has_icon: true
     image: images/PeopleRemote.png
     image_alt: Hero section placeholder image
     media_position: left
