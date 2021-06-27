@@ -155,6 +155,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
+    tag: data/tags/tag-9o8d9qrlt.json
 seo:
   title: Humane Standards
   description: >-
