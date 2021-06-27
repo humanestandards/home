@@ -17,6 +17,10 @@ seo:
       value: Humane Powers
       keyName: property
       relativeUrl: true
+    - name: 'og:title'
+      value: Our Inherited Problem-Solving Skills
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 ---
