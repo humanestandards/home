@@ -53,7 +53,7 @@ sections:
         content_align: center
         actions:
           - label: Get Support
-            url: /general-enquiries
+            url: 'https://www.youtube.com/channel/UCSNGXRE1MkXbUgKxxNcvjjw'
             style: primary
             has_icon: true
             icon: arrow-right
