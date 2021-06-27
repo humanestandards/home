@@ -81,7 +81,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: images/people.png
-        image_alt: Feature 1 placeholder image
+        image_alt: People
         media_position: left
         media_width: fifty
       - title: The Big Title For the Feature
