@@ -1,6 +1,6 @@
 ---
 title: Humane Powers
-subtitle: 'How to '
+subtitle: How to Learn through our Hands.
 date: '2021-06-27'
 categories: []
 tags: []
