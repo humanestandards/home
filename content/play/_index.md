@@ -14,7 +14,7 @@ sections:
     show_recent: false
     show_date: true
     show_categories: true
-    show_author: true
+    show_author: false
     show_excerpt: true
     show_image: true
     padding_top: small
