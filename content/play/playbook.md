@@ -21,6 +21,10 @@ seo:
       value: /_static/app-assets/EcoHR%20Operations.png
       keyName: property
       relativeUrl: true
+    - name: 'og:type'
+      value: article
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 author: data/team/person-ob8adpiab.json
