@@ -7,7 +7,7 @@ categories:
 tags: []
 excerpt: The Easiest way to Practice with the Humane Standards.
 thumb_image_alt: humane-powers
-image_alt: lorem-ipsum
+image_alt: humane powers
 image_position: top
 seo:
   title: ⭐ Humane Powers
