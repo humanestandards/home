@@ -58,6 +58,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: left
+            new_window: true
         actions_align: center
         image_alt: Other queries icon
         image_position: top
