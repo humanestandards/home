@@ -57,7 +57,7 @@ sections:
             url: 'https://www.youtube.com/channel/UCSNGXRE1MkXbUgKxxNcvjjw'
             style: link
             has_icon: true
-            icon: arrow-right
+            icon: youtube
             icon_position: left
             new_window: true
         actions_align: center
