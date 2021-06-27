@@ -145,7 +145,7 @@
                 "new_window": true
             }
         ],
-        "content": "<a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Humane Standards | </a>. Create yours <a href=\"https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "<a href=\"https://humanestandards.com/\" target=\"_blank\" rel=\"noopener\">Humane Standards | </a>. Create yours <a href=\"https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
     "domain": "https://website-84d91.netlify.app"
 }
