@@ -1,7 +1,7 @@
 ---
 title: Humane Powers
 subtitle: How to Learn Ethics with the help of our Hands.
-date: '2021-06-27'
+date: '2021-06-26'
 categories:
   - data/categories/category-7h7b2ktyr.json
 tags: []
