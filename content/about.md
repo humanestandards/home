@@ -50,7 +50,7 @@ sections:
         actions_align: left
         actions_width: auto
         subtitle: Sensible Intelligence Curation
-      - title: Some City
+      - title: 3️⃣ Ecological Solidarity
         content: >
           Through the Mimesis of Self-Autonomy, we define and measure Ecological
           Solidarity as the solution to the critical issues we face.
