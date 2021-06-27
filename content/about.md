@@ -11,10 +11,14 @@ sections:
     features:
       - title: Sensibility Standardisation
         subtitle: A Universal Language for Humane and Machine Learning
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          The Humane Standards are a Capability Framework of 180 Indices for
+          Hybrid-Reality Sensibility.
+
+
+          The Capabilities which are Inherited to all people by Design,
+          constitute the fundamental Principles of our Ethical and therefore
+          Humane Standards.
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
