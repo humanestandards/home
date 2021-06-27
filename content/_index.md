@@ -25,17 +25,38 @@ sections:
     subtitle: Welcome to the Future
     features:
       - subtitle: 'First things first, let''s clarify some truths about Ethics and AI:'
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Artificial General Intelligence (AGI) is not something to be
+          discovered. Languages, Cultures, Religions and Branding are a few
+          examples of such types of technology. Body Language (Gestures) is most
+          probably the first and most primitive form of AGI.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Artificial Intelligence Ethics are policies concerning our Social
+          Infrastructures and they promote Institutional Change, not the
+          development of some crazy computer with uncontrolled temper or the
+          support of other conspiracy theories,
 
 
-          - Lorem ipsum
+          *   You may rest asured that AI takeover is not a possible course of
+          events, as it is a hypothesis lacking proper understanding around the
+          nature of Autonomous Intelligence,
 
-          - dolor sit amet
+
+          *   Most Frameworks of Ethics act Reactively to problematic behaviors
+          (Emphasizing on Testing People's Competence according to views
+          surrounding our Past or our Future), and not Proactively (Emphasizing
+          on People's Capabilities in the Here and Now),
+
+
+          *   The Humane Standards are a future-proof Proactive Strategy
+          concerning Crisis Management and Collective Well-being. It is about
+          our Common Capabilities and Values which affect our Local Livelihoods
+          everyday,
+
+
+          *   Our Common Humane Standards concern all Peoples, whether you do
+          relate with their content and understand it or not.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
