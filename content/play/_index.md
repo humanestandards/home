@@ -2,7 +2,7 @@
 title: Fair-Play Kits
 sections:
   - type: hero_section
-    title: Blog
+    title: Our Fair-Play Kits
     subtitle: The optional subtitle
     align: center
     padding_top: medium
