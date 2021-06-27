@@ -1,6 +1,6 @@
 ---
 title: Humane Powers
-subtitle: lorem-ipsum
+subtitle: Using our Hands as Self-Learning Device.
 date: '2021-06-27'
 categories: []
 tags: []
