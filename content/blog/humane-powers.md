@@ -122,17 +122,19 @@ We have converted our Fundamental Humane Capabilities to the proceeding Powers, 
 
 Here is a Practical example on how to Practice with the Humane Powers Format:
 
-1.  We choose a Topic we wish to Asses. Something we care to reach a certain Decision and Solve a Problem.
+1.  We **choose a Topic** we wish to Asses. Something we care to reach a certain Decision and Solve a Problem.
 
-2.  We select our Favorite Stellation, or the one which seems more Relatable to our Topic.
+2.  We **select** our Favorite **Stellation**, or the one which seems **most Relatable to our Topic**.
 
-3.  Then we begin Single-Player Sessions or Multi-Player, and expand on the following 3 Directions:
+3.  Then we **begin** **Single-Player Sessions** or **Multi-Player, and expand on the following 3 Directions:**
 
-    1.  Sensible Self-Reflection
+    1.  **Sensible Self-Reflection**
 
-    2.  Sensible Sentience
+    2.  **Sensible Sentience**
 
-    3.  Sensible Self-Autonomy
+    3.  **Sensible Self-Autonomy**
+
+\__\_
 
 **E X A M P L E**
 
@@ -144,7 +146,9 @@ Here is a Practical example on how to Practice with the Humane Powers Format:
 
 4.  Sensible Self-Autonomy Loop >> When we have expanded on the Root of our Issue and visualized on ways that it could be takled, we do what we can to Resolve it. This Last step is also a point where we may Deepen our Analysis through Iteration. We take our latest formed Intentions and assign them as Topics for further Self-Reflection.
 
-5.  Practice makes Perfect.
+> Practice makes Perfect.
+
+\__\_
 
 ## 💡 Tips
 
