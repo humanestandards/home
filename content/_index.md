@@ -128,7 +128,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: secondary
+    background_color: primary
     background_image: images/Humane Systems PlayGrounds Background_.png
     background_image_opacity: 24
   - type: blog_feed_section
