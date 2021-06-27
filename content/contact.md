@@ -21,7 +21,7 @@ sections:
             url: /general-enquiries
             style: link
             has_icon: true
-            icon: arrow-right
+            icon: facebook
             icon_position: right
         actions_align: center
         image_alt: Partnering and sponsorships icon
