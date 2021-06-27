@@ -39,7 +39,7 @@ sections:
             url: 'https://www.linkedin.com/company/humanestandards/'
             style: link
             has_icon: true
-            icon: arrow-right
+            icon: linkedin
             icon_position: left
         actions_align: center
         image_alt: Help and support icon
