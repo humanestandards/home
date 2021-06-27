@@ -118,10 +118,8 @@ sections:
     background_color: primary
   - type: cta_section
     title: Remote PlayGrounds
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: |
+      A Console for Fair-Play Digital & Physical Symbiosis.
     actions:
       - label: Button
         url: /pricing
