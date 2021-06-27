@@ -180,7 +180,7 @@ seo:
         Hybrid-Reality Symbiosis Standardization | Artificial General
         Intelligence Rights
     - name: 'twitter:image'
-      value: images/diy-preview.png
+      value: /_static/app-assets/EcoHR%20Operations.png
       relativeUrl: true
 layout: advanced
 ---
