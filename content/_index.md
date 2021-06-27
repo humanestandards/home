@@ -122,7 +122,7 @@ sections:
       A Console for Fair-Play Digital & Physical Symbiosis.
     actions:
       - label: Coming Soon
-        url: /
+        url: '#'
         style: primary
     actions_position: bottom
     align: center
