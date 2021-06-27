@@ -182,8 +182,8 @@ seo:
       value: Humane Standards
     - name: 'twitter:description'
       value: >-
-        Hybrid-Reality Symbiosis Standardization | Artificial General
-        Intelligence Rights
+        Hybrid-Reality Symbiosis Gamification | Artificial General Intelligence
+        Rights
     - name: 'twitter:image'
       value: /_static/app-assets/EcoHR%20Operations.png
       relativeUrl: true
