@@ -147,5 +147,6 @@
             }
         ]
     },
-    "domain": "https://humanestandards.com/"
+    "domain": "https://humanestandards.com/",
+    "favicon": "images/HumaneStandards Icon.png"
 }
