@@ -1,6 +1,6 @@
 ---
 title: Humane Powers
-subtitle: Our Hands as a Pedagogic Method.
+subtitle: 'How to '
 date: '2021-06-27'
 categories: []
 tags: []
