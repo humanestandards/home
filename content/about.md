@@ -67,7 +67,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - title: lorem-ipsum
+  - title: Our Fair-Play Kits
     content: >-
       ## Lorem ipsum
 
