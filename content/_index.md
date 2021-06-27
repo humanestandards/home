@@ -92,7 +92,7 @@ sections:
         media_position: left
         media_width: fifty
         subtitle: Gamified Ecosystems.
-      - title: The Big Title For the Feature
+      - title: "\U0001F310 Humane Symbiosis"
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
