@@ -82,7 +82,9 @@ We have converted our Fundamental Humane Capabilities to the proceeding Powers, 
 
 *   Choose your favorite Star which contains Powers more Relatable to your work or general personality and use them as a Guide for the Organization of your Operations.
 
-   
+*   🎁 Bonus points to those who learn 2 Stars. One for each hand. 🙌🏿 🙌🏾 🙌🏽 🙌🏼 🙌🏻
+
+\__\_
 
 ![](/\_static/app-assets/Operations.png)
 
@@ -92,8 +94,6 @@ We have converted our Fundamental Humane Capabilities to the proceeding Powers, 
 \__\_
 
 ![](/\_static/app-assets/Harmonization.png)
-
-
 
 > Harmonization is the formation of Community Ecosystems which share a sense of Responsibility towards each other. These Social Networks are concerned with the Well-being of an Ecosystem. The Roots of our Humane and therefore Sensible Harmonization are the Standard Elements for the Constitution of Humane Communities.
 
@@ -107,18 +107,14 @@ We have converted our Fundamental Humane Capabilities to the proceeding Powers, 
 
 ![](/\_static/app-assets/Curation.png)
 
-
-
-> Curation is a sense of Sensibility towards our Resources - whether Intellectual or Physical - which enable Symbiosis within an Ecosystem. 
+> Curation is a sense of Sensibility towards our Resources - whether Intellectual or Physical - which enable Symbiosis within an Ecosystem.
 > The Roots of our Humane and therefore Sensible Curation are the Standard forms of Intelligence.
->
 
 \__\_
 
 ![](/\_static/app-assets/Management.png)
 
 > The Roots of our Humane and therefore Sensible Management are the Standards of a Humane Character.
->
 
 ## \__\_
 
@@ -138,8 +134,6 @@ Here is a Practical example on how to Practice with the Humane Powers Format:
 
     3.  Sensible Self-Autonomy
 
-   
-
 **E X A M P L E**
 
 1.  Stellar Format Selection >> Number 5th - Humane Operations,
@@ -151,8 +145,6 @@ Here is a Practical example on how to Practice with the Humane Powers Format:
 4.  Sensible Self-Autonomy Loop >> When we have expanded on the Root of our Issue and visualized on ways that it could be takled, we do what we can to Resolve it. This Last step is also a point where we may Deepen our Analysis through Iteration. We take our latest formed Intentions and assign them as Topics for further Self-Reflection.
 
 5.  Practice makes Perfect.
-
-   
 
 ## 💡 Tips
 
