@@ -275,7 +275,7 @@ models:
       - type: string
         name: link
         label: Link
-        description: 'The link to the author page, e.g. "blog/author/john-doe"'
+        description: 'The link to the author page, e.g. "play/author/john-doe"'
       - type: string
         name: first_name
         label: First name
@@ -302,7 +302,7 @@ models:
       - type: string
         name: link
         label: Link
-        description: 'The link to the category page, e.g. "blog/category/news"'
+        description: 'The link to the category page, e.g. "play/category/news"'
       - type: string
         name: title
         label: Title
@@ -321,7 +321,7 @@ models:
       - type: string
         name: link
         label: Link
-        description: 'The link to the tag page, e.g. "blog/tag/jamstack"'
+        description: 'The link to the tag page, e.g. "play/tag/jamstack"'
       - type: string
         name: title
         label: Title
@@ -331,7 +331,7 @@ models:
     type: page
     label: Page
     layout: page
-    exclude: blog/**/*
+    exclude: play/**/*
     fields:
       - type: string
         name: title
@@ -344,7 +344,7 @@ models:
           - stackbit_page_meta
   post:
     type: page
-    urlPath: '/blog/{slug}'
+    urlPath: '/play/{slug}'
     label: Post
     layout: post
     folder: blog

@@ -18,7 +18,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'og:image'
-      value: /_static/app-assets/Humane%20Standards%20Cover.jpg
+      value: /_static/app-assset/Humane%20Standards%20Cover.jpg
       keyName: property
       relativeUrl: true
     - name: 'og:description'
@@ -90,7 +90,9 @@ image: images/Humane Standards Cover.jpg
 
 *   The Inheritance of Variety for Ecosystemic Governance.
 
-![](/\_static/app-assets/Playbook_app.png)
+![Playbook App](images/Playbook_app.png)
+
+![Playbook App](/_static/app-assets/Playbook_app.png)
 
 # For the Playbook, Please Visit:
 

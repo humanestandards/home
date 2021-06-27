@@ -63,17 +63,17 @@
         "secondary_nav_links": [
             {
                 "label": "News",
-                "url": "/blog/category/news",
+                "url": "/play/category/news",
                 "style": "link"
             },
             {
                 "label": "General",
-                "url": "/blog/category/general",
+                "url": "/play/category/general",
                 "style": "link"
             },
             {
                 "label": "Tutorials",
-                "url": "/blog/category/tutorials",
+                "url": "/play/category/tutorials",
                 "style": "link"
             }
         ],
