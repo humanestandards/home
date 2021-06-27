@@ -36,6 +36,9 @@ seo:
       keyName: name
       relativeUrl: false
   type: stackbit_page_meta
+  description: >-
+    Learn & Play with the Humane Standards through this Beginners-Friendly
+    Edition of their Playbook.
 layout: post
 author: data/team/person-ob8adpiab.json
 thumb_image: images/Humane Standards Cover.jpg
