@@ -9,9 +9,6 @@ sections:
       Eco-systemic Symbiosis (Multilateral Coexistence) through the practice of
       Self-Reflection, Sentience, and Self-Autonomy.
     actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
       - label: Learn More
         url: /features
         style: secondary
