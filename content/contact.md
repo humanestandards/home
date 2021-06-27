@@ -18,7 +18,7 @@ sections:
         content_align: center
         actions:
           - label: Like
-            url: /general-enquiries
+            url: 'https://www.facebook.com/humanestandards'
             style: link
             has_icon: true
             icon: facebook
