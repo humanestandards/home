@@ -19,7 +19,7 @@ sections:
           The Capabilities which are Inherited to all people by Design,
           constitute the fundamental Principles of our Ethical and therefore
           Humane Standards.
-        image: images/about-5.jpg
+        image: images/HS_Sets_.png
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
