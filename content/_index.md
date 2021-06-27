@@ -13,6 +13,7 @@ sections:
         url: /about
         style: secondary
         has_icon: true
+        icon: arrow-right
     image: images/PeopleRemote.png
     image_alt: Hero section placeholder image
     media_position: left
