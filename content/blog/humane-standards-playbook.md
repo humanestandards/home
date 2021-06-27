@@ -6,7 +6,7 @@ categories:
   - data/categories/category-hu9dzlshp.json
 tags: []
 excerpt: How to Play with the Humane Standards. A Beginners-Friendly Documentation.
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: humane standards playbook
 image_alt: lorem-ipsum
 image_position: top
 seo:
