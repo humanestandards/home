@@ -174,7 +174,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit DIY Theme
+      value: Humane Standards
     - name: 'twitter:description'
       value: >-
         Hybrid-Reality Symbiosis Standardization | Artificial General
