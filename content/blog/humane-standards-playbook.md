@@ -5,7 +5,7 @@ date: '2021-06-25'
 categories:
   - data/categories/category-hu9dzlshp.json
 tags: []
-excerpt: lorem-ipsum
+excerpt: How to Play with the Humane Standards. A Beginners-Friendly Documentation.
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
