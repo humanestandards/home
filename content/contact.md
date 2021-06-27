@@ -35,7 +35,7 @@ sections:
           Join our Professional Page
         content_align: center
         actions:
-          - label: Get Support
+          - label: Follow
             url: 'https://www.linkedin.com/company/humanestandards/'
             style: secondary
             has_icon: true
