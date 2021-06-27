@@ -40,6 +40,7 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: secondary
+    enable_card: true
 seo:
   title: Blog
   description: This is the blog page
