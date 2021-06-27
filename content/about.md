@@ -8,6 +8,7 @@ sections:
     background_color: primary
     image: images/Humane Standards.png
     background_image: images/Humane Governance.png
+    background_image_opacity: 12
   - type: features_section
     features:
       - title: Sensibility Standardisation
