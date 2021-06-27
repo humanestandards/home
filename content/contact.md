@@ -10,6 +10,7 @@ sections:
     has_border: true
     background_color: none
     background_image: images/HS_Connect_Cover.jpg
+    background_image_opacity: 12
   - type: grid_section
     grid_items:
       - title: Facebook
