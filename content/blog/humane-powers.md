@@ -8,7 +8,7 @@ tags: []
 excerpt: The Easiest way to Practice with the Humane Standards.
 thumb_image_alt: humane-powers
 image_alt: humane powers
-image_position: top
+image_position: left
 seo:
   title: ⭐ Humane Powers
   description: Our Inherited Problem-Solving Skills
