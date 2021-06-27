@@ -64,6 +64,7 @@ sections:
             icon_position: right
         actions_align: left
         actions_width: auto
+        subtitle: Sensible Care Interaction
     grid_cols: three
     grid_gap_horiz: large
     grid_gap_vert: large
