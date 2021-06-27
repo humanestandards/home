@@ -156,6 +156,7 @@ sections:
     has_border: false
     background_color: none
     tag: data/tags/tag-9o8d9qrlt.json
+    author: data/team/person-ob8adpiab.json
 seo:
   title: Humane Standards
   description: >-
