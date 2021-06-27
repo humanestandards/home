@@ -158,7 +158,7 @@ sections:
 seo:
   title: Humane Standards
   description: >-
-    Hybrid-Reality Symbiosis Standardization | Artificial General Intelligence
+    Hybrid-Reality Symbiosis Gamification | Artificial General Intelligence
     Rights
   extra:
     - name: 'og:type'
