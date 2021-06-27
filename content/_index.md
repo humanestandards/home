@@ -76,7 +76,7 @@ sections:
         actions: []
         image: images/people.png
         image_alt: People
-        media_position: left
+        media_position: right
         media_width: fifty
       - title: ✋ Fair-Play Kits
         content: >
