@@ -78,7 +78,7 @@ sections:
     actions:
       - label: Play
         url: /play
-        style: secondary
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
