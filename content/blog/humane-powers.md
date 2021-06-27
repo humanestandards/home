@@ -13,10 +13,6 @@ seo:
   description: Our Inherited Problem-Solving Skills
   robots: []
   extra:
-    - name: 'og:image'
-      value: ⭐ Humane Powers
-      keyName: property
-      relativeUrl: true
     - name: 'og:description'
       value: Our Inherited Problem-Solving Skills
       keyName: property
