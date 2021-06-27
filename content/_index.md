@@ -163,7 +163,9 @@ seo:
       value: Humane Standards
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: >-
+        Hybrid-Reality Symbiosis Standardization | Artificial General
+        Intelligence Rights
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/EcoHR%20Operations.png
