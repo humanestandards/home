@@ -52,7 +52,7 @@ sections:
           Enjoy our Original Content
         content_align: center
         actions:
-          - label: Get Support
+          - label: Subscribe
             url: 'https://www.youtube.com/channel/UCSNGXRE1MkXbUgKxxNcvjjw'
             style: primary
             has_icon: true
