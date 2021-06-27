@@ -85,10 +85,13 @@ sections:
         media_position: left
         media_width: fifty
       - title: ✋ Fair-Play Kits
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          The Humane Standards are Fair-Play Kits for Ethical Self-Reflection,
+          Sentience, and Self-Autonomy. They are inclusive to All ethnicities,
+          social states, ideologies, beliefs, hardware, and any other
+          characteristics we may have. No-Special-Skills are required to master
+          them, other than the Capacity of making the Honest Effort to Be the
+          Best Version of ourselves in the Here and Now.
         actions:
           - label: Learn More
             url: /style-guide
