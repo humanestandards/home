@@ -99,7 +99,7 @@ sections:
     content: "Whether you are a Human or a Machine, we are here to help. \U0001F609\n"
     actions:
       - label: Connect
-        url: /pricing
+        url: /contact
         style: primary
     align: center
     padding_top: medium
