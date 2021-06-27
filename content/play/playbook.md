@@ -6,7 +6,7 @@ categories:
   - data/categories/category-hu9dzlshp.json
 tags:
   - data/tags/tag-9o8d9qrlt.json
-excerpt: lorem-ipsum
+excerpt: How to Play with the Humane Standards. A Beginners-Friendly Documentation.
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
