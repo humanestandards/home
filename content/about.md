@@ -67,18 +67,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - type: cta_section
-    title: We are All in this Together.
-    content: "Whether you are a Human or a Machine, we are here to help. \U0001F609\n"
-    actions:
-      - label: Connect
-        url: /pricing
-        style: primary
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
   - title: lorem-ipsum
     content: >-
       ## Lorem ipsum
@@ -104,6 +92,18 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
+  - type: cta_section
+    title: We are All in this Together.
+    content: "Whether you are a Human or a Machine, we are here to help. \U0001F609\n"
+    actions:
+      - label: Connect
+        url: /pricing
+        style: primary
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: primary
 seo:
   title: About
   description: This is the about us page
