@@ -45,6 +45,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 author: data/team/person-ob8adpiab.json
+thumb_image: images/square-saturn_.jpg
 ---
 > The Easiest way to Practice with the Humane Standards.
 
