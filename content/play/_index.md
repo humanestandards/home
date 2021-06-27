@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Fair-Play Kits
 sections:
   - type: hero_section
     title: Blog

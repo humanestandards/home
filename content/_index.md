@@ -141,7 +141,7 @@ sections:
       - label: View All
         url: /play
         style: primary
-    blog_feed_cols: three
+    blog_feed_cols: two
     enable_cards: true
     show_recent: true
     recent_count: 3
@@ -155,6 +155,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
+    author: data/team/person-ob8adpiab.json
 seo:
   title: Humane Standards
   description: >-

@@ -21,23 +21,52 @@ seo:
       value: This is the privacy policy page
 layout: page
 ---
+**A. Who we are**
 
-Donec luctus lorem sit amet tincidunt euismod. Etiam ut mauris non magna placerat tempor non vel purus. Quisque ac urna eu sapien placerat aliquet eget id diam. Sed elementum enim non mollis consequat. Maecenas laoreet elementum elit, id luctus odio sagittis nec. Nam ornare lorem sed nunc aliquet vulputate. Phasellus fringilla lacus mi, in porta quam eleifend vitae. Cras suscipit, neque blandit tempor aliquam, tortor sem tristique ex, non scelerisque justo massa id tortor. Maecenas tristique at metus non volutpat. Pellentesque nec felis eu dui tristique cursus sit amet vitae nibh. Duis malesuada ullamcorper sapien viverra tristique. Quisque malesuada, ligula vel lobortis ornare, turpis purus consequat massa, sit amet auctor velit neque sit amet justo. Donec at est sed nisl posuere commodo.
+**Humane Standards**
 
-## Phasellus Finibus Risus Eget est Cursus Finibus
+email: <humanestandards@gmail.com>
 
-Aliquam aliquam porta massa, et aliquam tortor mollis quis. Sed sodales leo vulputate metus gravida cursus. In fringilla imperdiet elit. Etiam eget sapien elementum, facilisis arcu vitae, finibus ipsum. Aliquam erat nibh, commodo id urna ut, fermentum tristique metus.
+location: Athens, Greece, Planet Earth
 
-### Morbi Egestas Ullamcorper Vulputate
+domain: [**humanestandards.com**](http://humanestandards.com/)
 
-Mauris dignissim varius arcu in laoreet. In mollis erat velit, in hendrerit arcu lobortis in. Donec facilisis malesuada sapien, non mollis lacus faucibus quis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+**B. What personal data we collect and why we collect it**
 
-### Donec Vitae Tincidunt Erat
+B.1. Comments
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+When
+visitors leave comments on the site we collect the data shown in the
+comments form, and also the visitor’s IP address and browser user agent
+string to help spam detection.
 
-In et diam congue, porta dui ac, rhoncus diam. Quisque imperdiet ex nec lorem gravida ultrices. Fusce ut volutpat metus. Morbi sollicitudin mi vel erat consectetur gravida. Donec consequat velit eget turpis dapibus, sed scelerisque sem pulvinar. Phasellus sit amet arcu eu metus auctor finibus. Phasellus a mauris ut urna auctor ornare. Morbi mollis laoreet orci at iaculis. 
+B.2. Embedded content from other websites
 
-## Aliquam at Velit eu Elit Iaculis Cursus
+Articles
+on this site may include embedded content (e.g. videos, images,
+articles, etc.). Embedded content from other websites behaves in the
+exact same way as if the visitor has visited the other website.
 
-In eu neque leo. Proin felis risus, maximus at ornare non, feugiat ac dui. Nam ornare feugiat sem, ac pretium urna bibendum quis. In hac habitasse platea dictumst. Curabitur sapien ante, molestie sit amet maximus id, malesuada eget felis. Praesent nec imperdiet neque.
+These
+websites may collect data about you, use cookies, embed additional
+third-party tracking, and monitor your interaction with that embedded
+content, including tracing your interaction with the embedded content if
+you have an account and are logged in to that website.
+
+**C. Forms & Analytics**
+
+We use Google Analytics to gather anonymous data concerning the audience of this website.
+
+C.1. Who we share your data with
+
+Nobody without your consent.
+
+C.2. How long we retain your data
+
+With your concent, for two years maximum. By your request we delete them immediately.
+
+**D. Additional information**
+
+More additions will be added as soon as our services are fully developed.
+
+Thank you for understanding, and we apologize for any inconvenience.
