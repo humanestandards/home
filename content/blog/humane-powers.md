@@ -21,6 +21,10 @@ seo:
       value: ⭐ Humane Powers
       keyName: property
       relativeUrl: false
+    - name: 'og:image'
+      value: /_static/app-assets/Humane%20Governance.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: post
 ---
