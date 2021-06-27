@@ -151,7 +151,7 @@ sections:
     has_border: false
     background_color: none
 seo:
-  title: Stackbit DIY Theme
+  title: Humane Standards
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
