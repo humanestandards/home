@@ -186,8 +186,5 @@ seo:
       value: >-
         Hybrid-Reality Symbiosis Gamification | Artificial General Intelligence
         Rights
-    - name: 'twitter:image'
-      value: images/EcoHR%20Operations.png
-      relativeUrl: true
 layout: advanced
 ---
