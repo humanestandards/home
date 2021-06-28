@@ -10,7 +10,19 @@
         "logo": "images/NEWHumaneStandards Icon.svg",
         "logo_alt": "Humane Standards",
         "has_primary_nav": true,
-        "primary_nav_links": [],
+        "primary_nav_links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ],
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
