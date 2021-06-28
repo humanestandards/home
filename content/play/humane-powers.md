@@ -22,7 +22,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'og:image'
-      value: /_static/app-assets/Humane%20Governance.png
+      value: images/Huma/square-saturn_.jpg
       keyName: property
       relativeUrl: true
     - name: 'og:type'
