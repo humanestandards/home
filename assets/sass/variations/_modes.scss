@@ -210,7 +210,7 @@
 .mode-dark {
 	scrollbar-color: dark;
 	background-color: $color-primary;
-	color: white;
+	color: rgba(249, 249, 249, 0.91);
 
 	&.layout-boxed {
 		background-color: $color-dark-boxed-bg;
