@@ -15,7 +15,7 @@
         "secondary_nav_links": [
             {
                 "label": "About",
-                "url": "#aut",
+                "url": "#utbo",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
