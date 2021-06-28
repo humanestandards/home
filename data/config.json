@@ -15,7 +15,7 @@
         "secondary_nav_links": [
             {
                 "label": "About",
-                "url": "#u",
+                "url": "#",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
