@@ -172,7 +172,7 @@ seo:
     - name: 'og:description'
       value: >-
         Hybrid-Reality Symbiosis Gamification | Artificial General Intelligence
-        Rights | Hybrid-Reality Multilateral Coexistence for People & Machines.
+        Rights | Multilateral Coexistence for People & Machines.
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/Humane%20Governance.png
