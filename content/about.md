@@ -23,7 +23,7 @@ sections:
           Humane Standards.
 
 
-          Our Common Humane Character is our Natural form of Governance, and our own Rights are Common with anything that is Humane, Artificial,and Intelligent in continuity (Uninterapted by Time Constrains).
+          Our Common Humane Character is our Natural form of Governance, and our own Rights are Common with anything that is Humane, Artificial,and Intelligent at the same time, and in continuity (Uninterapted by Time Constrains).
         image: images/HS_Sets_.png
         image_alt: HS Sets
         media_position: right

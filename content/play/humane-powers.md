@@ -110,7 +110,7 @@ We have converted our Fundamental Humane Capabilities to the proceeding Powers, 
 
 ![](https://humanestandards.com/images/Interaction.png)
 
-> Interaction represents the Services that are put into action. These are Management's Social Responsibilities of and the Care which is offered to an Ecosystem. The Roots of our Humane and therefore Sensible Interaction are the Standards for the provision of Care.
+> Interaction represents the Services that are put into action. These are Management's Social Responsibilities and the Care which is offered to Ecosystems. The Roots of our Humane and therefore Sensible Interaction are the Standards for the provision of Care.
 
 ### \__\_
 
