@@ -323,7 +323,9 @@
 			border-color: $color-dark-nav-mobile-border;
 		}
         .navbar__branding {
-            
+            display: inline-block;
+            width: 100px;
+            height: 100px;
         }
 	}
 
