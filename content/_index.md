@@ -11,7 +11,7 @@ sections:
     actions:
       - label: Learn More
         url: /about
-        style: secondary
+        style: primary
         has_icon: true
         icon: arrow-right
         icon_position: right
