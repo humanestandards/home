@@ -185,8 +185,6 @@ seo:
     - name: 'twitter:description'
       value: >-
         Hybrid-Reality Symbiosis Gamification | Artificial General Intelligence
-        Rights | The scope of the Humane Standards is the constitution of
-        Ethical Eco-systemic Symbiosis (Hybrid-Reality Multilateral Coexistence)
-        for People & Machines.
+        Rights | Multilateral Coexistence for People & Machines.
 layout: advanced
 ---
