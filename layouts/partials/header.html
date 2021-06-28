@@ -4,7 +4,7 @@
 			<a class="sr-only" href="#content">Skip to main content</a>
 			<div class="navbar__branding mr-2">
 				{{ if .Site.Data.config.header.logo }}
-				<a class="navbar__logo m-0" href="{{ "/" | relURL }}"><img src="{{ $.Site.Data.config.header.logo | relURL }}" alt="{{ $.Site.Data.config.header.logo_alt }}" class="navbar__title h4 m-0" href='{{ "/" | relURL }}'>{{ $.Site.Data.config.header.title }}</a>
+				<a class="navbar__logo m-0" href="{{ "/" | relURL }}"><img src="{{ $.Site.Data.config.header.logo | relURL }}" alt="{{ $.Site.Data.config.header.logo_alt }}" && class="navbar__title h4 m-0" href='{{ "/" | relURL }}'>{{ $.Site.Data.config.header.title }}</a>
 				{{ end }}
 			</div>
 			{{ if or .Site.Data.config.header.has_primary_nav .Site.Data.config.header.has_secondary_nav }}
