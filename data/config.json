@@ -1,29 +1,29 @@
 {
     "title": "Humane Standards",
     "layout_type": "boxed",
-    "style": "classic",
-    "palette": "gray",
+    "style": "minimal",
+    "palette": "green",
     "mode": "dark",
     "base_font": "sans-serif",
     "header": {
         "title": "Humane Standards",
         "logo": "images/NEWHumaneStandards Icon.svg",
         "logo_alt": "Humane Standards",
-        "has_primary_nav": true,
-        "primary_nav_links": [
-            {
-                "label": "Humane Standards",
-                "url": "/",
-                "style": "link"
-            },
+        "has_primary_nav": false,
+        "primary_nav_links": [],
+        "has_secondary_nav": true,
+        "secondary_nav_links": [
             {
                 "label": "About",
                 "url": "/about",
-                "style": "link"
-            }
-        ],
-        "has_secondary_nav": true,
-        "secondary_nav_links": [
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
             {
                 "label": "Connect",
                 "url": "/contact",

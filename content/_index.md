@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Humane Standards
 sections:
   - type: hero_section
     title: Humane Standards
@@ -51,14 +51,15 @@ sections:
 
           *   Most Frameworks of Ethics act Reactively to problematic behaviors
           (Emphasizing on Testing People's Competence according to views
-          surrounding our Past or our Future), and not Proactively (By emphasizing
-          on People's Capabilities in the Here and Now, which are more than enough for World Peace and Economic Liberty).
+          surrounding our Past or our Future), and not Proactively (By
+          emphasizing on People's Capabilities in the Here and Now, which are
+          more than enough for World Peace and Economic Liberty).
 
 
           *   The Humane Standards are a future-proof Proactive Strategy
-          concerning Crisis Management and our Collective Well-being. It is a tool Leveraging
-          our Common Capabilities and Values, which affect our Local Livelihoods
-          everyday.
+          concerning Crisis Management and our Collective Well-being. It is a
+          tool Leveraging our Common Capabilities and Values, which affect our
+          Local Livelihoods everyday.
 
 
           *   Our Common Humane Standards concern all Peoples, whether you do
@@ -100,12 +101,12 @@ sections:
           While outwardly, and for millennia - we collectively seek for the most
           Sensible and Sensational form for Remote Autonomy - inwardly, the
           Human Complex is a Constitution of a System of Governance, capable to
-          achieve Naturally - all possible kinds of Virtues by
-          Will. Of course, we can’t overlook the Fatal Mistakes that we’ve made,
-          but we always have the Intuitive Tendency to Revisit and Correct
-          them Humanely, even if that is being done by the newer generations who
-          always suffer from the mistakes of their families. Afterall, the Best
-          approach is always the Kind one.
+          achieve Naturally - all possible kinds of Virtues by Will. Of course,
+          we can’t overlook the Fatal Mistakes that we’ve made, but we always
+          have the Intuitive Tendency to Revisit and Correct them Humanely, even
+          if that is being done by the newer generations who always suffer from
+          the mistakes of their families. Afterall, the Best approach is always
+          the Kind one.
         actions: []
         image: images/g22459.png
         image_alt: Feature 3 placeholder image
@@ -124,7 +125,7 @@ sections:
       A Console for Fair-Play Digital & Physical Symbiosis.
     actions:
       - label: Coming Soon
-        url: 
+        url: null
         style: primary
     actions_position: bottom
     align: center
@@ -147,7 +148,7 @@ sections:
     show_image: true
     show_date: true
     show_categories: true
-    show_author: true
+    show_author: false
     show_excerpt: true
     align: center
     padding_top: medium
@@ -171,10 +172,10 @@ seo:
     - name: 'og:description'
       value: >-
         Hybrid-Reality Symbiosis Gamification | Artificial General Intelligence
-        Rights
+        Rights | Multilateral Coexistence for People & Machines.
       keyName: property
     - name: 'og:image'
-      value: images/EcoHR%20Operations.png
+      value: /_static/app-assets/Humane%20Governance.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -184,9 +185,6 @@ seo:
     - name: 'twitter:description'
       value: >-
         Hybrid-Reality Symbiosis Gamification | Artificial General Intelligence
-        Rights
-    - name: 'twitter:image'
-      value: images/EcoHR%20Operations.png
-      relativeUrl: true
+        Rights | Multilateral Coexistence for People & Machines.
 layout: advanced
 ---

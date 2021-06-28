@@ -5,7 +5,7 @@
 			<div class="navbar__branding mr-2">
 				{{ if .Site.Data.config.header.logo }}
 				<a class="navbar__logo m-0" href="{{ "/" | relURL }}"><img src="{{ $.Site.Data.config.header.logo | relURL }}" alt="{{ $.Site.Data.config.header.logo_alt }}" /></a>
-				{{ else }}
+				
 				<a class="navbar__title h4 m-0" href='{{ "/" | relURL }}'>{{ $.Site.Data.config.header.title }}</a>
 				{{ end }}
 			</div>
