@@ -1,5 +1,5 @@
 ---
-title: 'Humane Standards '
+title: Humane Standards
 sections:
   - type: hero_section
     title: Humane Standards
