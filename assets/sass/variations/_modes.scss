@@ -326,7 +326,9 @@
           display: flex;
         }
         .navbar__logo, .navbar__title {
-            
+            flex-basis: 100px;
+  height: 100px;
+  margin: 5px;
         }
 	}
 
