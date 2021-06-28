@@ -89,7 +89,7 @@ We have converted our Fundamental Humane Capabilities to the proceeding Powers, 
 
 *   Choose your favorite Star which contains Powers more Relatable to your work or general personality and use them as a Guide for the Organization of your Operations.
 
-*   Although it does not really matters when we Start to Practice, the choice that we make surrounding which hand we associate with a Stellar Format, the Full Sets of the Humane Standards present specific assignments for each Format and its designated Human Part (You may find them in our Playbook - Link below).
+*   Although it doesn't really matter - when we Start to Practice - the choice that we make surrounding which hand we associate with a Stellar Format, the Full Sets of the Humane Standards present specific assignments for each Format and its designated Human Part (You may find them in our Playbook - Link below).
 
 *   🎁 *Bonus points to those who learn 2 Stars. One for each hand.*  🙌🏿 🙌🏾 🙌🏽 🙌🏼 🙌🏻
 
