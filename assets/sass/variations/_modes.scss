@@ -108,11 +108,11 @@
 	&.style-bold {
 		.bg-secondary {
 			pre {
-				background-color: $color-secondary-sect-code-bg;
+				background-color: $color-secondary;
 			}
 
 			th {
-				background-color: $color-secondary-sect-table-bg;
+				background-color: $color-secondary;
 			}
 		}
 	}
@@ -209,8 +209,8 @@
 
 .mode-dark {
 	scrollbar-color: dark;
-	background-color: $color-dark-body-bg;
-	color: $color-dark-body-text;
+	background-color: $color-primary;
+	color: rgba(255, 255, 255, 0.98);
 
 	&.layout-boxed {
 		background-color: $color-dark-boxed-bg;
@@ -305,10 +305,7 @@
 		}
 	}
 
-	.menu__item {
-		color: $color-dark-nav-link-text;
-	}
-
+	
 	.site-header {
 		border-color: $color-dark-header-border;
 	}
@@ -325,6 +322,7 @@
 		.navbar__menu {
 			border-color: $color-dark-nav-mobile-border;
 		}
+        
 	}
 
 	.site-footer__nav,
@@ -371,7 +369,7 @@
 	}
 
 	.bg-secondary {
-		background: $color-dark-secondary-sect-bg;
+		background: $color-secondary;
 	}
 
 	.card {
@@ -451,3 +449,11 @@
 		}
 	}
 }
+.navbar__branding {
+            display: flex;
+        }
+        .navbar__logo, .navbar__title {
+            flex-basis: 3em;
+            height: 2.3em;
+            margin: 0.3px;
+        }
