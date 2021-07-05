@@ -55,6 +55,10 @@ seo:
       value: /images/Humane%20Operations%20Episode.jpg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: /images/Humane%20Operations%20Episode.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: post
 author: data/team/person-nkb0v964y.json
