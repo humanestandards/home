@@ -17,6 +17,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+author: data/team/person-22lnurfjz.json
 ---
 **Human-Generated Theorems:**
 
