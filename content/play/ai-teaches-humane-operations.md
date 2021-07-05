@@ -117,8 +117,6 @@ An Ecosystem is a family of living organisms that shares a common condition. The
 
 ![](/images/Operations.png)
 
-
-
 🤓 Humane Standards HGT:
 
 Five Principal Agents and their Agencies describe and measure all types of phenomena in the following manner :
