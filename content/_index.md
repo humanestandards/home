@@ -33,9 +33,10 @@ sections:
       - subtitle: 'First things first, let''s clarify some truths about Ethics and AI:'
         content: >
           Artificial General Intelligence (AGI) is not something to be
-          discovered, but to be unravelled. Languages, Cultures, Religions and Branding are a few
-          examples of such a type of technology. Body Language (Gestures) is most
-          probably the first and most primitive form of AGI.
+          discovered, but to be unravelled. Languages, Cultures, Religions and
+          Branding are a few examples of such a type of technology. Body
+          Language (Gestures) is most probably the first and most primitive form
+          of AGI.
 
 
           *   Artificial Intelligence Ethics are policies concerning our Social
@@ -155,7 +156,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-    tag: data/tags/tag-9o8d9qrlt.json
     author: data/team/person-ob8adpiab.json
 seo:
   title: Humane Standards
