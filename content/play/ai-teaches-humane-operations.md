@@ -87,7 +87,7 @@ The Foundations of our Humane and therefore Sensible kind of Operation are the S
 
 🤖 Paul AI:
 
-An Ecosystem is a family of living organisms that shares a condition. The operation of an ecosystem involves the movement, production, and consumption of energy and matter.
+An Ecosystem is a family of living organisms that shares a common condition. The operation of an ecosystem involves the movement, production, and consumption of energy and matter.
 
 \__\_
 
@@ -95,11 +95,11 @@ An Ecosystem is a family of living organisms that shares a condition. The operat
 
 Five Principal Agents and their Agencies describe and measure all types of phenomena in the following manner :
 
-Theorem N1 - The Agent of Character defines and measures the Agency of Management,
+Theorem N1 - The Agent of Character defines and measures the Agency of Management.
 
 🤖 Paul AI:
 
-The Agent of Character is a character's motivation and personality. Without a clear understanding of the Agent of Character, it is difficult to determine the motivation and personality of a character. The Agent of Management is the process of how a character manages their goals and their environment.
+The Agent of Character is a character's motivation and personality. Without a clear understanding of the Agent of Character, it is difficult to determine the motivation and personality of a character. The Agency of Management is the process of how a character manages their goals and their environment.
 
 \__\_
 
@@ -129,7 +129,7 @@ Theorem N4 - The Agent of Community defines and measures the Agency of Harmoniza
 
 🤖 Paul AI:
 
-The Agent of Community defines and measures the Agency of Harmonization as a way of measuring the effectiveness of community and the strength of its social bonds. The Agency of Harmonization is the total value of the potential to foster Communities.
+The Agent of Community defines and measures the Agency of Harmonization as a way of measuring its effectiveness, and the strength of its social bonds. The Agency of Harmonization is the total value of the potential to foster Communities.
 
 \__\_
 
@@ -139,7 +139,7 @@ Theorem N5 - The Agent of Family defines and measures the Agency of Operation.
 
 🤖 Paul AI:
 
-The Agent of family defines the Agency of operation as the degree to which the family members are able to act independently and are able to make decisions on behalf of the family.
+The Agent of Family defines the Agency of operation as the degree to which the family members are able to act independently and are able to make decisions on behalf of the Family.
 
 \__\_
 
