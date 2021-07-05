@@ -113,7 +113,11 @@ The Foundations of our Humane and therefore Sensible kind of Operation are the S
 
 An Ecosystem is a family of living organisms that shares a common condition. The operation of an ecosystem involves the movement, production, and consumption of energy and matter.
 
-\__\_
+
+
+![](/\_static/app-assets/Operations.png)
+
+
 
 🤓 Humane Standards HGT:
 
