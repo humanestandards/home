@@ -23,6 +23,10 @@ seo:
       value: /_static/app-assets/Humane%20Operations%20Episode.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:type'
+      value: articles
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 author: data/team/person-nkb0v964y.json
