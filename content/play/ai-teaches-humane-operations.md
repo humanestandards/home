@@ -15,9 +15,8 @@ image_position: top
 seo:
   title: Paul Ai Teaches Humane Operations
   description: >-
-    Artificial Intelligence Agent elaborates on the Theorems of the Humane
-    Standards - a Universal Language for Humane and Machine Learning of Sensible
-    Governance.
+    An Artificial Intelligence Agent elaborates on the Theorems of the Humane
+    Standards - a Universal Language for Humane and Machine Learning.
   robots: []
   extra:
     - name: 'og:image'
