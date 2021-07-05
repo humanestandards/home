@@ -20,7 +20,7 @@ seo:
   robots: []
   extra:
     - name: 'og:image'
-      value: /_static/app-assets/Humane%20Operations%20Episode.jpg
+      value: /images/Humane%20Operations%20Episode.jpg
       keyName: property
       relativeUrl: true
     - name: 'og:type'
