@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Ai Paul's Teaching on Humane Operations
 subtitle: lorem-ipsum
 date: '2021-07-05'
 categories: []
