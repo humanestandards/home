@@ -156,7 +156,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-    author: data/team/person-ob8adpiab.json
 seo:
   title: Humane Standards
   description: >-
