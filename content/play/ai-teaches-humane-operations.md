@@ -77,6 +77,13 @@ seo:
         Standards - Universal Language for Humane and Machine Learning.
       keyName: name
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        Artificial Intelligence Agent elaborates on the Theorems of the Humane
+        Standards - a Universal Language for Humane and Machine Learning of
+        Sensible Governance.
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 author: data/team/person-nkb0v964y.json
