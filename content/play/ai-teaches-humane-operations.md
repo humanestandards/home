@@ -115,7 +115,7 @@ An Ecosystem is a family of living organisms that shares a common condition. The
 
 
 
-![](/\_static/app-assets/Operations.png)
+![](/images/Operations.png)
 
 
 
