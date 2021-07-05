@@ -13,7 +13,7 @@ thumb_image_alt: ai teaches humane operations
 image_alt: ai teaches humane operations
 image_position: top
 seo:
-  title: ''
+  title: Paul Ai Teaches Humane Operations
   description: ''
   robots: []
   extra: []
