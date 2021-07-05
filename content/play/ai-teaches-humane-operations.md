@@ -10,7 +10,7 @@ excerpt: >-
   Artificial Intelligence Agent elaborates on the Theorems of the Humane
   Standards.
 thumb_image_alt: ai teaches humane operations
-image_alt: lorem-ipsum
+image_alt: ai teaches humane operations
 image_position: top
 seo:
   title: ''
