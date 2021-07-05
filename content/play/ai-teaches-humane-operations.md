@@ -21,6 +21,7 @@ seo:
 layout: post
 author: data/team/person-nkb0v964y.json
 thumb_image: images/Humane Operations Episode.jpg
+image: images/Humane Operations Episode.jpg
 ---
 ## Intro
 
