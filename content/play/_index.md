@@ -20,7 +20,6 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
-    tag: data/tags/tag-9o8d9qrlt.json
   - type: form_section
     title: Would you like to join our mailing list?
     title_align: center
