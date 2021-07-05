@@ -7,7 +7,7 @@ date: '2021-07-05'
 categories: []
 tags: []
 excerpt: >-
-  Artificial Intelligence Agent elaborates on the Theorems of the Humane
+  Artificial Intelligence Agent Paul elaborates on the Theorems of the Humane
   Standards.
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
