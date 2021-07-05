@@ -34,7 +34,7 @@ seo:
       keyName: name
       relativeUrl: false
     - name: 'twitter:description'
-      value: Our Inherited Problem-Solving Skills
+      value: Our Inherited Problem-Solving Skills. We have converted our Fundamental Capabilities to Humane Powers, which are then being visualized through Stellar Geometric Formations.
       keyName: name
       relativeUrl: false
     - name: 'twitter:card'
