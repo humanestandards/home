@@ -4,5 +4,6 @@
     "first_name": "PAUL - ",
     "last_name": "Artificial Intelligence",
     "photo_alt": "lorem-ipsum",
-    "type": "person"
+    "type": "person",
+    "photo": "images/PAUL_Yogi.png"
 }
