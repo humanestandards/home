@@ -10,6 +10,7 @@ sections:
     has_border: true
     background_color: primary
     background_image_opacity: 24
+    background_image: images/Humane Governance.png
   - type: grid_section
     grid_items:
       - title: Facebook
