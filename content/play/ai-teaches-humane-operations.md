@@ -14,7 +14,9 @@ image_alt: ai teaches humane operations
 image_position: top
 seo:
   title: Paul Ai Teaches Humane Operations
-  description: ''
+  description: >-
+    Artificial Intelligence Agent elaborates on the Theorems of the Humane
+    Standards.
   robots: []
   extra: []
   type: stackbit_page_meta
