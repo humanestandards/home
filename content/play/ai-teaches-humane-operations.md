@@ -24,7 +24,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'og:type'
-      value: articles
+      value: article
       keyName: property
       relativeUrl: false
     - name: 'twitter:image'
