@@ -9,7 +9,7 @@ sections:
     padding_bottom: small
     has_border: true
     background_color: primary
-    background_image_opacity: 24
+    background_image_opacity: 12
     background_image: images/Humane Governance.png
   - type: grid_section
     grid_items:
