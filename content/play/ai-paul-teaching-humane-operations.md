@@ -1,5 +1,5 @@
 ---
-title: Ai Paul's Teaching on Humane Operations
+title: Ai Paul's Masterclass on Humane Operations
 subtitle: >-
   Artificial Intelligence Agent elaborates on the Theorems of the Humane
   Standards.
