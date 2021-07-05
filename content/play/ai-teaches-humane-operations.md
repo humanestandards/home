@@ -75,7 +75,7 @@ image: images/Humane Operations Episode.jpg
 ---
 ## Intro
 
-In this Hybrid-Intelligence synthesized MasterClass we shall examine the Default and Human-Generated Theorems of the Humane Standards characterized by the initials HGT, and below them Paul's commentary which is an Artificial Intelligence Generated content.
+In this Hybrid-Intelligence synthesized MasterClass, we shall examine the Default and Human-Generated Theorems of the Humane Standards - characterized by the initials HGT, and below them Paul's commentary - which is an Artificial Intelligence Generated content.
 
 ## Episode 01
 
