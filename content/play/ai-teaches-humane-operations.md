@@ -18,7 +18,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-**Humane Operations Theorems:**
+**Human-Generated Theorems:**
 
 Operation is the Nature of an Ecosystem that takes the form of a Family, and exists within an Environment for other such Ecosystems of Families.
 
