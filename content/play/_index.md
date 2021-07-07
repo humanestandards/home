@@ -100,7 +100,8 @@ sections:
       >
     actions:
       - label: Watch on YouTube
-        url: '#'
+        url: >-
+          https://www.youtube.com/watch?v=F8bjhRSi0vo&list=PLGYNxF_pnQgv9WorsLMsTjJXWMGxWSnlX
         style: primary
         has_icon: true
         icon: youtube
