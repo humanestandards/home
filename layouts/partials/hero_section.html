@@ -54,7 +54,7 @@
 			</div>
 			{{ end }}
 			{{ if $has_text }}
-			<div class="hero__body my-2 cell-12{{ if and (and $is_horiz $has_media) (eq $media_width "fourty") }} cell-md-8{{ end }}{{ if and (and $is_horiz $has_media) (eq $media_width "fifty") }} cell-md-6{{ end }}{{ if and (and $is_horiz $has_media) (eq $media_width "sixty") }} cell-md-5{{ end }}{{ if and $has_media (eq $media_pos "right") }} order-md-first{{ end }}{{ if and $has_media (eq $media_pos "bottom") }} order-first{{ end }}{{ if eq $align_x "center" }} text-center{{ end }}{{ if eq $align_x "right" }} text-right{{ end }}">
+			<div class="hero__body my-2 cell-12{{ if and (and $is_horiz $has_media) (eq $media_width "fourty") }} cell-md-7{{ end }}{{ if and (and $is_horiz $has_media) (eq $media_width "fifty") }} cell-md-6{{ end }}{{ if and (and $is_horiz $has_media) (eq $media_width "sixty") }} cell-md-5{{ end }}{{ if and $has_media (eq $media_pos "right") }} order-md-first{{ end }}{{ if and $has_media (eq $media_pos "bottom") }} order-first{{ end }}{{ if eq $align_x "center" }} text-center{{ end }}{{ if eq $align_x "right" }} text-right{{ end }}">
 				{{ if $section.title }}
 				<h1 class="hero__title">{{ $section.title }}</h1>
 				{{ end }}
