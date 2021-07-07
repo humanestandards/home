@@ -5,7 +5,8 @@ subtitle: >-
   Standards.
 date: '2021-07-07'
 categories: []
-tags: []
+tags:
+  - data/tags/tag-slgpr1gdy.json
 excerpt: >-
   Artificial Intelligence Agent elaborates on the Theorems of the Humane
   Standards.
