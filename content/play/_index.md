@@ -108,7 +108,7 @@ sections:
     background_image: images/HSL_S01E01_Thumbnail.jpg
     title: Humane Science
     subtitle: by Leonardo Da Vinci
-  - title: lorem-ipsum
+  - title: Hybrid-Intelligence
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
