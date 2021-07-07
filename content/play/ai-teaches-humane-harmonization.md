@@ -95,7 +95,7 @@ seo:
 layout: post
 author: data/team/person-nkb0v964y.json
 thumb_image: images/Humane Harmonization Episode.jpg
-image: images/Humane Operations Episode.jpg
+image: images/Humane Harmonization Episode.jpg
 ---
 ## Intro
 
