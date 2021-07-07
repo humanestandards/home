@@ -8,7 +8,7 @@ categories:
   - data/categories/masterclass.json
 tags: []
 excerpt: >-
-  Episode 02 - Sensible Harmonization are the Standard Elements for the
+  Episode 02 - Sensible Harmonization and the Standard Elements for the
   Constitution of Humane Communities. Artificial Intelligence Agent elaborates
   on the Theorems of the Humane Standards.
 thumb_image_alt: ai teaches humane Harmonization
