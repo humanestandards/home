@@ -4,7 +4,8 @@ subtitle: >-
   Artificial Intelligence Agent elaborates on the Theorems of the Humane
   Standards.
 date: '2021-07-07'
-categories: []
+categories:
+  - data/categories/category-6wi18cr9t.json
 tags:
   - data/tags/tag-slgpr1gdy.json
 excerpt: >-
