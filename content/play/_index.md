@@ -104,6 +104,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    image: images/Leo.png
 seo:
   title: Fair-Play Kits
   description: Humane Standards Documentation and other Formats.
