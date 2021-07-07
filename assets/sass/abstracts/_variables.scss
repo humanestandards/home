@@ -45,7 +45,7 @@ $font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","
 
 // Primary color for the gray palette
 $color-primary:                      RGBA(0, 0, 0, 0.60) !default;
-$color-secondary:				   	 rgba(0, 135, 255, 0.75) !default;
+$color-secondary:				   	 linear-gradient(48deg, #00ffcf 0%, #6900a4 57%) !default;
 $color-dark-transparency:			 RGBA(0, 0, 0, 0.60) !default;
 $color-light-transparency:		     RGBA(0, 0, 0, 0.60) !default;
 $color-blue:						 #00A3FF !default;
