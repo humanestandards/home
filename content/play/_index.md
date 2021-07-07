@@ -53,7 +53,7 @@ sections:
     show_excerpt: true
     show_image: true
     align: center
-    padding_top: medium
+    padding_top: large
     padding_bottom: medium
     has_border: false
     background_color: secondary
