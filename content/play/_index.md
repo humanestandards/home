@@ -41,7 +41,6 @@ sections:
     has_border: true
     background_color: secondary
   - title: Humane Standards MasterClass
-    subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
     enable_cards: false
