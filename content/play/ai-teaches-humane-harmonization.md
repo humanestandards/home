@@ -3,7 +3,7 @@ title: Paul Ai Teaches Humane Harmonization
 subtitle: >-
   Artificial Intelligence Agent elaborates on the Theorems of the Humane
   Standards.
-date: '2021-07-05'
+date: '2021-07-07'
 categories: []
 tags: []
 excerpt: >-
