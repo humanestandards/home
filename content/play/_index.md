@@ -91,7 +91,7 @@ sections:
         new_window: true
         no_follow: false
         type: action
-    image_alt: lorem-ipsum
+    image_alt: leonardo da vinci
     media_position: top
     media_width: fifty
     align: left
