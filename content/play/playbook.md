@@ -30,7 +30,7 @@ seo:
       relativeUrl: false
   type: stackbit_page_meta
 layout: post
-author: data/author/humane-standards.json
+author: data/author/originals.json
 thumb_image: images/Humane Standards Cover.jpg
 image: images/Humane Standards Cover.jpg
 ---

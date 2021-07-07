@@ -44,7 +44,7 @@ seo:
       relativeUrl: false
   type: stackbit_page_meta
 layout: post
-author: data/author/humane-standards.json
+author: data/author/originals.json
 thumb_image: images/square-saturn_.jpg
 image: images/square-saturn_.jpg
 ---

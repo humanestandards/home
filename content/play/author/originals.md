@@ -12,7 +12,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    author: data/author/humane-standards.json
+    author: data/author/originals.json
     show_date: false
     show_categories: true
     show_author: false
