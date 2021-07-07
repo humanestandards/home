@@ -64,8 +64,7 @@ sections:
     type: blog_feed_section
     category: data/categories/masterclass.json
     subtitle: Hybrid-Intelligence
-  - subtitle: Humane Science
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
