@@ -65,7 +65,7 @@ sections:
     category: data/categories/masterclass.json
     subtitle: Hybrid-Intelligence
   - title: MasterClass
-    subtitle: lorem-ipsum
+    subtitle: Humane Science
     content: >-
       ## Lorem ipsum
 
