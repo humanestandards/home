@@ -64,7 +64,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'og:image'
-      value: /_static/app-assets/Humaneundefined20Episode.jpg
+      value: /images/Humaneundefined20Episode.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:description'
