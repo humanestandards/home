@@ -88,7 +88,7 @@ sections:
         has_icon: true
         icon: youtube
         icon_position: left
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
     image_alt: lorem-ipsum
