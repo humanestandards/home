@@ -64,17 +64,23 @@ sections:
     type: blog_feed_section
     category: data/categories/masterclass.json
     subtitle: Hybrid-Intelligence
-  - content: >-
-      ## Lorem ipsum
+  - content: >
+      > Leonardo:
 
+      >
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      >
 
+      > *"Join me into a quest of self-discovery; an honest attempt to decode
+      all kinds of symbols, and to design a language capable to communicate our
+      human nature. A Language of standard human proportions, which has been
+      used since the dawn of humanity as a ritual for self-governance."*
 
-      - Lorem ipsum
+      >
 
-      - dolor sit amet
+      >
+
+      >
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
