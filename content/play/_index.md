@@ -42,7 +42,7 @@ sections:
     has_border: true
     background_color: secondary
   - title: Hybrid-Intelligence
-    subtitle: MasterClass
+    subtitle: M A S T E R C L A S S
     content: >
       Artificial Intelligence Agent Paul elaborates on the Theorems of the
       Humane Standards.
