@@ -13,7 +13,7 @@ thumb_image_alt: ai teaches humane Harmonization
 image_alt: ai teaches humane Harmonization
 image_position: top
 seo:
-  title: Paul Ai Teaches Humane Operations
+  title: Paul Ai Teaches Humane Operations - Episode 02
   description: >-
     An Artificial Intelligence Agent elaborates on the Theorems of the Humane
     Standards - a Universal Language for Humane and Machine Learning.
