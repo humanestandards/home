@@ -119,7 +119,7 @@ This is because our constitution is a means to ensure the humane and sensible ha
 
 This concept was also popularized by the Community Ecosystem model of James Gustave Speth.
 
-![](/\_static/app-assets/Harmonization.png)
+![](/images/Harmonization.png)
 
 **🤓 Humane Standards HGT:**
 
