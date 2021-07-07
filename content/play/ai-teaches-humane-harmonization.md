@@ -28,7 +28,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'twitter:image'
-      value: /images/Humaneundefined20Episode.jpg
+      value: /images/Humane%20Harmonization%20Episode.jpg
       keyName: property
       relativeUrl: true
     - name: 'og:type'
