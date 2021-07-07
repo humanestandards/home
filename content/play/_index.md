@@ -41,6 +41,28 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: secondary
+  - title: Hybrid-Intelligence
+    subtitle: MasterClass
+    content: >
+      Artificial Intelligence Agent elaborates on the Theorems of the Humane
+      Standards.
+    actions: []
+    image_alt: lorem-ipsum
+    video_embed_html: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    media_position: top
+    media_width: fifty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
   - title: MasterClass
     actions: []
     blog_feed_cols: three
@@ -108,28 +130,6 @@ sections:
     background_image: images/HSL_S01E01_Thumbnail.jpg
     title: Humane Science
     subtitle: by Leonardo Da Vinci
-  - title: Hybrid-Intelligence
-    subtitle: MasterClass
-    content: >
-      Artificial Intelligence Agent elaborates on the Theorems of the Humane
-      Standards.
-    actions: []
-    image_alt: lorem-ipsum
-    video_embed_html: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    media_position: top
-    media_width: fifty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
 seo:
   title: Fair-Play Kits
   description: Humane Standards Documentation and other Formats.
