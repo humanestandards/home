@@ -82,22 +82,13 @@ sections:
     type: blog_feed_section
     category: data/categories/masterclass.json
   - content: >
-      > Leonardo:
+      ## Leonardo:
 
-      >
 
-      >
-
-      > *"Join me into a quest of self-discovery; an honest attempt to decode
-      all kinds of symbols, and to design a language capable to communicate our
+      *"Join me into a quest of self-discovery; an honest attempt to decode all
+      kinds of symbols, and to design a language capable to communicate our
       human nature. A Language of standard human proportions, which has been
       used since the dawn of humanity as a ritual for self-governance."*
-
-      >
-
-      >
-
-      >
     actions:
       - label: Watch on YouTube
         url: >-
