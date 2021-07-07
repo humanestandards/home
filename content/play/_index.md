@@ -105,6 +105,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Leo.png
+    background_image: images/HSL_S01E01_Thumbnail.jpg
 seo:
   title: Fair-Play Kits
   description: Humane Standards Documentation and other Formats.
