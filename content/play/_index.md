@@ -82,7 +82,7 @@ sections:
     type: blog_feed_section
     category: data/categories/masterclass.json
   - content: >
-      ### Leonardo:
+      #### **Leonardo:**
 
 
       *"Join me into a quest of self-discovery; an honest attempt to decode all
