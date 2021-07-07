@@ -63,6 +63,7 @@ sections:
     background_image_repeat: no-repeat
     type: blog_feed_section
     category: data/categories/masterclass.json
+    subtitle: Hybrid-Intelligence
 seo:
   title: Fair-Play Kits
   description: Humane Standards Documentation and other Formats.
