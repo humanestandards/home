@@ -18,7 +18,7 @@ sections:
     image: images/PeopleRemote.png
     image_alt: Hero section placeholder image
     media_position: left
-    media_width: fourty
+    media_width: fifty
     align: left
     padding_top: large
     padding_bottom: large
