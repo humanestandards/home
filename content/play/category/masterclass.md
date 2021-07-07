@@ -13,7 +13,7 @@ sections:
     enable_cards: true
     show_recent: false
     category: data/categories/masterclass.json
-    show_date: true
+    show_date: false
     show_categories: true
     show_author: true
     show_excerpt: true
