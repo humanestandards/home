@@ -8,7 +8,8 @@ categories:
   - data/categories/masterclass.json
 tags: []
 excerpt: >-
-  Artificial Intelligence Agent elaborates on the Theorems of the aHumane
+  Episode 01 - Sensible Operations and the Standards of all kinds of Families.
+  Artificial Intelligence Agent elaborates on the Theorems of the Humane
   Standards.
 thumb_image_alt: ai teaches humane Harmonization
 image_alt: ai teaches humane Harmonization
