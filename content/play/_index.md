@@ -20,7 +20,7 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
-    title: MasterClass
+    title: Humane Standards MasterClass
   - type: form_section
     title: Would you like to join our mailing list?
     title_align: center
