@@ -44,8 +44,8 @@ sections:
   - title: Hybrid-Intelligence
     subtitle: MasterClass
     content: >
-      Artificial Intelligence Agent elaborates on the Theorems of the Humane
-      Standards.
+      Artificial Intelligence Agent PAUL elaborates on the Theorems of the
+      Humane Standards.
     actions: []
     image_alt: lorem-ipsum
     media_position: top
