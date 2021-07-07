@@ -71,7 +71,7 @@ sections:
     show_excerpt: true
     show_image: true
     align: center
-    padding_top: large
+    padding_top: none
     padding_bottom: medium
     has_border: false
     background_color: none
