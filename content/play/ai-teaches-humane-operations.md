@@ -8,7 +8,7 @@ categories:
   - data/categories/masterclass.json
 tags: []
 excerpt: >-
-  Episode 01 - Sensible Operation are the Standards of all kinds of Families.
+  Episode 01 - Sensible Operations are the Standards of all kinds of Families.
   Artificial Intelligence Agent elaborates on the Theorems of the Humane
   Standards.
 thumb_image_alt: ai teaches humane operations
