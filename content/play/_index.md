@@ -107,6 +107,7 @@ sections:
     image: images/Leo.png
     background_image: images/HSL_S01E01_Thumbnail.jpg
     title: Humane Science
+    subtitle: by Leonardo Da Vinci
 seo:
   title: Fair-Play Kits
   description: Humane Standards Documentation and other Formats.
