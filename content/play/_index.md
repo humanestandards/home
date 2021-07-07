@@ -116,7 +116,7 @@ sections:
     image: images/Leo.png
     background_image: images/HSL_S01E01_Thumbnail.jpg
     title: Humane Science
-    subtitle: MasterClass
+    subtitle: M A S T E R C L A S S
 seo:
   title: Fair-Play Kits
   description: Humane Standards Documentation and other Formats.
