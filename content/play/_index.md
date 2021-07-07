@@ -98,7 +98,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     has_border: true
-    background_color: primary
+    background_color: none
     background_image_opacity: 14
     background_image_size: cover
     background_image_position: center center
