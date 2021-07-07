@@ -3,7 +3,7 @@ title: PAUL - GPT3 Artificial Intelligence
 sections:
   - type: hero_section
     title: PAUL
-    subtitle: null
+    subtitle: GPT3 Artificial Intelligence
     align: center
     padding_top: medium
     padding_bottom: none
