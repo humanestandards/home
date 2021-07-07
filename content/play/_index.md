@@ -41,7 +41,7 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: secondary
-  - title: Our MasterClass
+  - title: MasterClass
     actions: []
     blog_feed_cols: three
     enable_cards: true
