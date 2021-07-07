@@ -65,7 +65,7 @@ sections:
     enable_cards: true
     show_recent: false
     recent_count: 0
-    show_date: true
+    show_date: false
     show_categories: false
     show_author: false
     show_excerpt: true
