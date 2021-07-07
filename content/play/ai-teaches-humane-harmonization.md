@@ -8,7 +8,7 @@ categories:
   - data/categories/masterclass.json
 tags: []
 excerpt: >-
-  Artificial Intelligence Agent elaborates on the Theorems of the Humane
+  Artificial Intelligence Agent elaborates on the Theorems of the aHumane
   Standards.
 thumb_image_alt: ai teaches humane Harmonization
 image_alt: ai teaches humane Harmonization
