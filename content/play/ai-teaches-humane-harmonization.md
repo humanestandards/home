@@ -94,7 +94,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 author: data/team/person-nkb0v964y.json
-thumb_image: images/Humane Operations Episode.jpg
+thumb_image: images/Humane Harmonization Episode.jpg
 image: images/Humane Operations Episode.jpg
 ---
 ## Intro
