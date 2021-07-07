@@ -45,7 +45,7 @@
 	<div class="container{{ if $is_vert }} container--medium{{ end }}">
 		<div class="hero__content grid items-center">
 			{{ if $has_media }}
-			<div class="hero__media cell-6 items-center{{ if and (and $is_horiz $has_text) (eq $media_width "fourty") }} cell-md-4{{ end }}{{ if and (and $is_horiz $has_text) (eq $media_width "fifty") }} cell-md-6{{ end }}{{ if and (and $is_horiz $has_text) (eq $media_width "sixty") }} cell-md-7{{ end }}">
+			<div class="hero__media cell-6 grid items-center{{ if and (and $is_horiz $has_text) (eq $media_width "fourty") }} cell-md-4{{ end }}{{ if and (and $is_horiz $has_text) (eq $media_width "fifty") }} cell-md-6{{ end }}{{ if and (and $is_horiz $has_text) (eq $media_width "sixty") }} cell-md-7{{ end }}">
 				{{ if $section.video_embed_html }}
 					{{ $section.video_embed_html | safeHTML }}
 				{{ else }}
