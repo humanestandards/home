@@ -64,7 +64,7 @@ sections:
     type: blog_feed_section
     category: data/categories/masterclass.json
     subtitle: Hybrid-Intelligence
-  - title: MasterClass
+  - title: Leonardo Da Vinci
     subtitle: Humane Science
     content: >-
       ## Lorem ipsum
