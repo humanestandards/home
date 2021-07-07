@@ -68,7 +68,10 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'twitter:description'
-      value: A Universal Language for Humane and Machine Learning
+      value: >-
+        Artificial Intelligence Agent elaborates on the Theorems of the Humane
+        Standards - a Universal Language for Humane and Machine Learning of
+        Sensible Governance.
       keyName: name
       relativeUrl: false
     - name: 'twitter:description'
