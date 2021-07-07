@@ -3,7 +3,7 @@ title: Humane Standards
 sections:
   - type: hero_section
     title: Humane Standards
-    subtitle: null
+    subtitle: Official Documentation
     align: center
     padding_top: medium
     padding_bottom: none
