@@ -20,6 +20,7 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
+    category: data/categories/documentation.json
   - type: form_section
     title: Would you like to join our mailing list?
     title_align: center
