@@ -84,7 +84,7 @@ sections:
     actions:
       - label: Watch on YouTube
         url: '#'
-        style: primary
+        style: secondary
         has_icon: true
         icon: youtube
         icon_position: left
