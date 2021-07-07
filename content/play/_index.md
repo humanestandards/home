@@ -116,7 +116,7 @@ sections:
     image: images/Leo.png
     background_image: images/HSL_S01E01_Thumbnail.jpg
     title: Humane Science
-    subtitle: MasterClass by Leonardo Da Vinci
+    subtitle: MasterClass
 seo:
   title: Fair-Play Kits
   description: Humane Standards Documentation and other Formats.
