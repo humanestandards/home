@@ -3,7 +3,7 @@ title: Masterclass
 sections:
   - type: hero_section
     title: Masterclass
-    subtitle: The optional subtitle
+    subtitle: Hybrid-Intelligence
     align: center
     padding_top: medium
     padding_bottom: none
