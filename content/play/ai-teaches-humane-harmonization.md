@@ -9,8 +9,7 @@ categories:
 tags: []
 excerpt: >-
   Episode 02 - Sensible Harmonization and the Standard Elements for the
-  Constitution of Communities. Artificial Intelligence Agent elaborates on the
-  Theorems of the Humane Standards.
+  Constitution of Communities.
 thumb_image_alt: ai teaches humane Harmonization
 image_alt: ai teaches humane Harmonization
 image_position: top
