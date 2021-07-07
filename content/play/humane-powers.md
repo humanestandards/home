@@ -3,6 +3,7 @@ title: Humane Powers
 subtitle: How to Learn Ethics with the help of our Hands.
 date: '2021-06-26'
 categories:
+  - data/categories/documentation.json
 tags:
 excerpt: The Easiest way to Practice with the Humane Standards.
 thumb_image_alt: humane-powers
@@ -43,7 +44,7 @@ seo:
       relativeUrl: false
   type: stackbit_page_meta
 layout: post
-author: data/team/person-ob8adpiab.json
+author: data/author/humane-standards.json
 thumb_image: images/square-saturn_.jpg
 image: images/square-saturn_.jpg
 ---

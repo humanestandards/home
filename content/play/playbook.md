@@ -3,6 +3,7 @@ title: Humane Standards Playbook
 subtitle: Beginner's Edition
 date: '2021-06-27'
 categories:
+  - data/categories/documentation.json
 tags:
 excerpt: How to Play with the Humane Standards. A Beginners-Friendly Documentation.
 thumb_image_alt: Humane Standards
@@ -29,7 +30,7 @@ seo:
       relativeUrl: false
   type: stackbit_page_meta
 layout: post
-author: data/team/person-ob8adpiab.json
+author: data/author/humane-standards.json
 thumb_image: images/Humane Standards Cover.jpg
 image: images/Humane Standards Cover.jpg
 ---

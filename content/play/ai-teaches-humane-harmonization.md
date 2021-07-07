@@ -5,9 +5,8 @@ subtitle: >-
   Standards.
 date: '2021-07-07'
 categories:
-  - data/categories/category-6wi18cr9t.json
-tags:
-  - data/tags/tag-slgpr1gdy.json
+  - data/categories/masterclass.json
+tags: []
 excerpt: >-
   Artificial Intelligence Agent elaborates on the Theorems of the Humane
   Standards.
@@ -98,7 +97,7 @@ seo:
       relativeUrl: false
   type: stackbit_page_meta
 layout: post
-author: data/team/person-nkb0v964y.json
+author: data/author/paul-ai.json
 thumb_image: /images/Humane Harmonization Episode.jpg
 image: /images/Humane Harmonization Episode.jpg
 ---

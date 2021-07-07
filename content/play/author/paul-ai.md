@@ -1,9 +1,9 @@
 ---
-title: General
+title: PAUL - GPT3 Artificial Intelligence
 sections:
   - type: hero_section
-    title: General
-    subtitle: The optional subtitle
+    title: PAUL - GPT3 Artificial Intelligence
+    subtitle: 
     align: center
     padding_top: medium
     padding_bottom: none
@@ -12,7 +12,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    category: data/categories/general.json
+    author: data/author/paul-ai.json
     show_date: true
     show_categories: true
     show_author: true

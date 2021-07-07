@@ -4,7 +4,8 @@ subtitle: >-
   Artificial Intelligence Agent elaborates on the Theorems of the Humane
   Standards.
 date: '2021-07-05'
-categories: []
+categories: 
+  - data/categories/masterclass.json
 tags: []
 excerpt: >-
   Artificial Intelligence Agent elaborates on the Theorems of the Humane
@@ -93,7 +94,7 @@ seo:
       relativeUrl: false
   type: stackbit_page_meta
 layout: post
-author: data/team/person-nkb0v964y.json
+author: data/author/paul-ai.json
 thumb_image: /images/Humane Operations Episode.jpg
 image: /images/Humane Operations Episode.jpg
 ---

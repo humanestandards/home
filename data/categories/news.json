@@ -1,5 +1,6 @@
 {
     "id": "news",
     "link": "play/category/news",
-    "title": "News"
+    "title": "News",
+    "type": "category"
 }

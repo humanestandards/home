@@ -1,33 +1,34 @@
 ---
-title: Fair-Play Kits
+title: Masterclass
 sections:
   - type: hero_section
-    title: Our Fair-Play Kits
-    subtitle: Humane Standards Documentation and other Formats.
+    title: Masterclass
+    subtitle: The optional subtitle
     align: center
     padding_top: medium
     padding_bottom: none
     background_color: none
   - type: blog_feed_section
-    blog_feed_cols: two
+    blog_feed_cols: three
     enable_cards: true
     show_recent: false
+    category: data/categories/masterclass.json
     show_date: true
     show_categories: true
-    show_author: false
+    show_author: true
     show_excerpt: true
     show_image: true
     padding_top: small
     padding_bottom: large
     has_border: true
   - type: form_section
-    title: Would you like to join our mailing list?
+    title: Inline Form
     title_align: center
     content: Subscribe to our newsletter to make sure you don't miss anything.
     content_align: center
     form_position: bottom
     form_layout: inline
-    form_id: PlaySubscribeForm
+    form_id: subscribeForm
     form_action: /thank-you
     form_fields:
       - input_type: email
@@ -40,39 +41,18 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: secondary
-  - title: Humane Standards MasterClass
-    actions: []
-    blog_feed_cols: three
-    enable_cards: false
-    show_recent: false
-    recent_count: 0
-    show_date: true
-    show_categories: false
-    show_author: false
-    show_excerpt: false
-    show_image: true
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: blog_feed_section
 seo:
-  title: Fair-Play Kits
-  description: Humane Standards Documentation and other Formats.
+  title: Posts in Tutorials
+  description: This is the author archive page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Fair-Play Kits
+      value: Posts in Tutorials
       keyName: property
     - name: 'og:description'
-      value: Humane Standards Documentation and other Formats.
+      value: This is the author archive page
       keyName: property
     - name: 'og:image'
       value: images/classic/post-5.png
@@ -81,9 +61,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Fair-Play Kits
+      value: Posts in Tutorials
     - name: 'twitter:description'
-      value: Humane Standards Documentation and other Formats.
+      value: This is the author archive page
     - name: 'twitter:image'
       value: images/classic/post-5.png
       relativeUrl: true

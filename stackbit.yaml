@@ -262,10 +262,10 @@ models:
           type: model
           models:
             - action
-  person:
+  author:
     type: data
-    label: Person
-    folder: team
+    label: Author
+    folder: author
     fields:
       - type: string
         name: id
@@ -373,7 +373,7 @@ models:
         label: Author
         description: The author of the post
         models:
-          - person
+          - author
       - type: list
         name: categories
         label: Categories
@@ -917,7 +917,7 @@ models:
         label: Author filter
         description: Filter posts by an author
         models:
-          - person
+          - author
       - type: reference
         name: category
         label: Category filter
