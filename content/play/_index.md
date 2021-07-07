@@ -94,7 +94,7 @@ sections:
     image_alt: leonardo da vinci
     media_position: left
     media_width: fourty
-    align: right
+    align: left
     padding_top: medium
     padding_bottom: medium
     has_border: false
