@@ -110,17 +110,9 @@ sections:
     subtitle: by Leonardo Da Vinci
   - title: Hybrid-Intelligence
     subtitle: MasterClass
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Artificial Intelligence Agent elaborates on the Theorems of the Humane
+      Standards.
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
