@@ -109,7 +109,9 @@ sections:
     title: Humane Science
     subtitle: by Leonardo Da Vinci
   - title: Hybrid-Intelligence
-    subtitle: lorem-ipsum
+    subtitle: >-
+      Artificial Intelligence Agent elaborates on the Theorems of the Humane
+      Standards.
     content: >-
       ## Lorem ipsum
 
