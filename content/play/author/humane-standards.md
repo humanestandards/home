@@ -13,7 +13,7 @@ sections:
     enable_cards: true
     show_recent: false
     author: data/author/humane-standards.json
-    show_date: true
+    show_date: false
     show_categories: true
     show_author: true
     show_excerpt: true
