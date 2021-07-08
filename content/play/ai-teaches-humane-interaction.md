@@ -8,7 +8,7 @@ categories:
   - data/categories/masterclass.json
 tags: []
 excerpt: >-
-  Episode 03 - Sensible Harmonization and the Standard Elements for the
+  Episode 03 - Sensible Interaction and the Standard Elements for the
   Constitution of Communities.
 thumb_image_alt: ai teaches humane Interaction
 image_alt: ai teaches humane Interaction
