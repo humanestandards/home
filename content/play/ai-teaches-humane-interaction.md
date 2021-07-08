@@ -11,7 +11,7 @@ excerpt: >-
   Episode 02 - Sensible Harmonization and the Standard Elements for the
   Constitution of Communities.
 thumb_image_alt: ai teaches humane Interaction
-image_alt: ai teaches humane Harmonization
+image_alt: ai teaches humane Interaction
 image_position: top
 seo:
   title: Paul Ai Teaches Humane Interaction - Episode 03
