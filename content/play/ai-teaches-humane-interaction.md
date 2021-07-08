@@ -98,7 +98,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 author: data/author/paul-ai.json
-thumb_image: /images/Humane Harmonization Episode.jpg
+thumb_image: images/Humane Interaction Episode.jpg
 image: images/Humane Interaction Episode.jpg
 ---
 ## Intro
