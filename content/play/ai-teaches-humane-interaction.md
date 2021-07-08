@@ -21,7 +21,7 @@ seo:
   robots: []
   extra:
     - name: 'og:image'
-      value: /images/Humaneundefined20Episode.jpg
+      value: /_static/app-assets/Humane%20Interaction%20Episode.jpg
       keyName: property
       relativeUrl: true
     - name: 'og:type'
