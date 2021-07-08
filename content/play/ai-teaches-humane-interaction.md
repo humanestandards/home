@@ -1,5 +1,5 @@
 ---
-title: Paul Ai Teaches Humane Harmonization
+title: Paul Ai Teaches Humane Interaction
 subtitle: >-
   Artificial Intelligence Agent elaborates on the Theorems of the Humane
   Standards.
