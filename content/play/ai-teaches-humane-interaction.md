@@ -121,7 +121,7 @@ It's not about the tech, it's about the humans.
 
 ⌘
 
-![](/\_static/app-assets/Interaction.png)
+![](images/Interaction.png)
 
 **🤓 Humane Standards HGT:**
 
