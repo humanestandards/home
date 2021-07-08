@@ -7,9 +7,7 @@ date: '2021-07-09'
 categories:
   - data/categories/masterclass.json
 tags: []
-excerpt: >-
-  Episode 03 - Sensible Interaction and the Standard Elements for the
-  Constitution of Communities.
+excerpt: Episode 03 - Sensible Interaction and the Standard
 thumb_image_alt: ai teaches humane Interaction
 image_alt: ai teaches humane Interaction
 image_position: top
