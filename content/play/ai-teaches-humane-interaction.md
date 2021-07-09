@@ -119,7 +119,7 @@ It's not about the tech, it's about the humans.
 
 ⌘
 
-![](images/Interaction.png)
+![](/images/Interaction.png)
 
 **🤓 Humane Standards HGT:**
 
