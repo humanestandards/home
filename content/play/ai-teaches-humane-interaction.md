@@ -3,7 +3,7 @@ title: Paul Ai Teaches Humane Interaction
 subtitle: >-
   Artificial Intelligence Agent elaborates on the Theorems of the Humane
   Standards.
-date: '2021-07-09'
+date: '2021-07-08'
 categories:
   - data/categories/masterclass.json
 tags: []
