@@ -31,40 +31,8 @@ sections:
     subtitle: Welcome to the Future
     features:
       - subtitle: 'First things first, let''s clarify some truths about Ethics and AI:'
-        content: >
-          Artificial General Intelligence (AGI) is not something to be
-          discovered, but to be unravelled. Languages, Cultures, Religions and
-          Branding are a few examples of such a type of technology. Body
-          Language (Gestures) is most probably the first and most primitive form
-          of AGI.
-
-
-          *   Artificial Intelligence Ethics are policies concerning our Social
-          Infrastructures and they promote Institutional Change, not the
-          development of some crazy computer with uncontrolled temper or the
-          support of other kinds of conspiracy theories.
-
-
-          *   You may rest asured that AI takeover is not a possible course of
-          events, as it is a hypothesis lacking proper understanding around the
-          Inclusive Nature of Intelligence.
-
-
-          *   Most Frameworks of Ethics act Reactively to problematic behaviors
-          (Emphasizing on Testing People's Competence according to views
-          surrounding our Past or our Future), and not Proactively (By
-          emphasizing on People's Capabilities in the Here and Now, which are
-          more than enough for World Peace and Economic Liberty).
-
-
-          *   The Humane Standards are a future-proof Proactive Strategy
-          concerning Crisis Management and our Collective Well-being. It is a
-          tool Leveraging our Common Capabilities and Values, which affect our
-          Local Livelihoods everyday.
-
-
-          *   Our Common Humane Standards concern all Peoples, whether you do
-          relate with their content and understand it or not.
+        content: |
+          *
         actions: []
         image_alt: humane standards
         media_position: top
