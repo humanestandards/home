@@ -30,9 +30,7 @@ sections:
     title: Artificial General Intelligence Rights
     subtitle: Welcome to the Future
     features:
-      - content: |
-          *
-        actions: []
+      - actions: []
         image_alt: humane standards
         media_position: top
         media_width: fifty
