@@ -79,8 +79,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Hybrid-Reality Symbiosis Gamification | Artificial General Intelligence
-        Rights | Multilateral Coexistence for People & Machines.
+        Hybrid-Reality Synagonism Gamification | Artificial General Intelligence
+        Rights | A Universal Language for Fair-Play Governance.
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/Humane%20Governance.png
