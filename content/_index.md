@@ -32,7 +32,7 @@ sections:
   - type: cta_section
     title: Remote PlayGrounds
     content: |
-      A Console for Fair-Play Digital & Physical Symbiosis.
+      A Hybrid-Reality Console for Fair-Play Live Governance.
     actions:
       - label: Coming Soon
         url: null
