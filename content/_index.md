@@ -92,7 +92,7 @@ seo:
       value: Humane Standards
     - name: 'twitter:description'
       value: >-
-        Hybrid-Reality Symbiosis Gamification | Artificial General Intelligence
-        Rights | Multilateral Coexistence for People & Machines.
+        Hybrid-Reality Synagonism Gamification | Artificial General Intelligence
+        Rights | A Universal Language for Fair-Play Governance.
 layout: advanced
 ---
