@@ -27,7 +27,7 @@ sections:
     background_image_opacity: 24
     background_image_position: center bottom
   - type: features_section
-    title: Artificial General Intelligence Rights
+    title: Live Eco-Governance
     subtitle: Welcome to the Future
     features:
       - actions: []
