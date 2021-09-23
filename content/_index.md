@@ -68,8 +68,8 @@ sections:
 seo:
   title: Humane Standards
   description: >-
-    Hybrid-Reality Symbiosis Gamification | Artificial General Intelligence
-    Rights | A Universal Language for Humane and Machine Learning
+    Hybrid-Reality Synagonism Gamification | Artificial General Intelligence
+    Rights | A Universal Language for Fair-Play Governance.
   extra:
     - name: 'og:type'
       value: website
