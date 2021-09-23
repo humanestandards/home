@@ -30,8 +30,7 @@ sections:
     title: Artificial General Intelligence Rights
     subtitle: Welcome to the Future
     features:
-      - subtitle: 'First things first, let''s clarify some truths about Ethics and AI:'
-        content: |
+      - content: |
           *
         actions: []
         image_alt: humane standards
