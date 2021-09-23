@@ -35,7 +35,7 @@
                 "style": "primary"
             }
         ],
-        "has_anncmnt": true,
+        "has_anncmnt": false,
         "anncmnt_content": "**\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
