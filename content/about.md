@@ -18,15 +18,9 @@ sections:
           Hybrid-Reality Sensibility.
 
 
-          The Capabilities which are Inherited to all people by Design
+          Our Human Virtues which are Inherited to all people by Design
           (Functional Capabilities), constitute the fundamental Principles of
           our Ethical and therefore Humane Standards.
-
-
-          Our Common Humane Character is our Natural form of Governance, and our
-          own Rights are Common with anything that is Humane, Artificial,and
-          Intelligent at the same time, and in continuity (Uninterrupted by Time
-          Constrains).
         image: images/HS_Sets_.png
         image_alt: HS Sets
         media_position: right
