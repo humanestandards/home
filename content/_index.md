@@ -3,7 +3,7 @@ title: Humane Standards
 sections:
   - type: hero_section
     title: Humane Standards
-    subtitle: Hybrid-Reality Symbiosis Gamification
+    subtitle: Hybrid-Reality Synagonism Gamification
     content: >
       The scope of the Humane Standards is the constitution of Ethical
       Eco-systemic Symbiosis (Hybrid-Reality Multilateral Coexistence) for
