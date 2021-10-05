@@ -1,6 +1,6 @@
 ---
 title: Omni-Personal Governance
-subtitle: The Gamification of Fair
+subtitle: 'One short tap for you, one giant leap for Personal Freedom.'
 date: '2021-10-06'
 categories: []
 tags: []
