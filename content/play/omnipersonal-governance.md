@@ -1,8 +1,6 @@
 ---
 title: Omni-Personal Governance
-subtitle: >-
-  Artificial Intelligence Agent elaborates on the Theorems of the Humane
-  Standards.
+subtitle: The Gamification of Fair
 date: '2021-10-06'
 categories: []
 tags: []
