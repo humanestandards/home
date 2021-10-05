@@ -1,6 +1,6 @@
 ---
 title: Omni-Personal Governance
-subtitle: 'One short tap for you, one giant leap for Personal Freedom.'
+subtitle: 'Economic Liberty, Equality'
 date: '2021-10-06'
 categories: []
 tags: []
