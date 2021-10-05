@@ -4,8 +4,7 @@ subtitle: >-
   Artificial Intelligence Agent elaborates on the Theorems of the Humane
   Standards.
 date: '2021-10-06'
-categories:
-  - data/categories/masterclass.json
+categories: []
 tags: []
 excerpt: >-
   Episode 02 - Sensible Harmonization and the Standard Elements for the
