@@ -3,7 +3,7 @@ title: Omni-Personal Governance
 subtitle: >-
   Artificial Intelligence Agent elaborates on the Theorems of the Humane
   Standards.
-date: '2021-07-07'
+date: '2021-10-06'
 categories:
   - data/categories/masterclass.json
 tags: []
