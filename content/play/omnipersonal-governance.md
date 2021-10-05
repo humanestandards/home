@@ -1,6 +1,6 @@
 ---
 title: Omni-Personal Governance
-subtitle: 'Fair Economic Liberty, Equality'
+subtitle: 'Fair-Play Economic Liberty, Equality'
 date: '2021-10-06'
 categories: []
 tags: []
