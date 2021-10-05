@@ -32,7 +32,7 @@ sections:
   - type: cta_section
     title: Remote PlayGrounds
     content: |
-      A Hybrid-Reality Console for Fair-Play Live Governance.
+      A Hybrid-Reality Console for Fair-Play Omni-Personal Governance.
     actions:
       - label: Coming Soon
         url: null
