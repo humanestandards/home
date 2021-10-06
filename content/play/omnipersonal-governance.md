@@ -97,21 +97,18 @@ layout: post
 thumb_image: /images/Humane Harmonization Episode.jpg
 image: images/omnipersonal-governance.png
 ---
-*We - the Human Family, Individually Act and React Responsibly, according to Common Humane Sensibility (*[*Humane Standards*](https://coda.io/@symbiosis/humanestandards)*). We are #HumansTogether, and all part of #OneFamily. *
+*We - the Human Family, Individually Act and React Responsibly, according to Common Humane Sensibility (*[*Humane Standards*](https://coda.io/@symbiosis/humanestandards)\*). We are #HumansTogether, and all part of #OneFamily. \*
 
+People have the Power to solve all types of issues, and as our problems are Common, our power becomes a Personal Responsibility that was all share.
 
-People have the Power to solve all types of issues, and as our problems are Common, our power becomes a Personal Responsibility that was all share. 
+Omni-Personal Governance is the Evolution of our Service Management Systems (Private and Public Agencies), and their Continuous Adaptation to our everyday problems.
 
-Omni-Personal Governance is the Evolution of our Service Management Systems (Private and Public Agencies), and their Continuous Adaptation to our everyday problems. 
+Personalization
 
-
-
-
-
+Personalization (broadly known as customization) consists of tailoring a service or a product to accommodate specific individuals, sometimes tied to groups or segments of individuals.
 
 
 
 **⌘**
 
 ###
-
