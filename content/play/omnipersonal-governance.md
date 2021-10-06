@@ -9,7 +9,7 @@ excerpt: >-
   Constitution of Communities.
 thumb_image_alt: Omni-Personal Governance
 image_alt: Omni-Personal Governance
-image_position: top
+image_position: left
 seo:
   title: Paul Ai Teaches Humane Operations - Episode 02
   description: >-
