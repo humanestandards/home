@@ -8,7 +8,7 @@ excerpt: >-
   Episode 02 - Sensible Harmonization and the Standard Elements for the
   Constitution of Communities.
 thumb_image_alt: Omni-Personal Governance
-image_alt: ai teaches humane Harmonization
+image_alt: Omni-Personal Governance
 image_position: top
 seo:
   title: Paul Ai Teaches Humane Operations - Episode 02
