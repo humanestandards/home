@@ -94,7 +94,7 @@ seo:
       relativeUrl: false
   type: stackbit_page_meta
 layout: post
-thumb_image: /images/Humane Harmonization Episode.jpg
+thumb_image: images/omnipersonal-governance.png
 image: images/omnipersonal-governance.png
 ---
 *We - the Human Family, Individually Act and React Responsibly, according to Common Humane Sensibility (*[*Humane Standards*](https://coda.io/@symbiosis/humanestandards)\*). We are #HumansTogether, and all part of #OneFamily. \*
