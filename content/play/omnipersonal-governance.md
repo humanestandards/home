@@ -88,9 +88,9 @@ seo:
       relativeUrl: false
     - name: 'og:description'
       value: >-
-        Artificial Intelligence Agent elaborates on the Theorems of the Humane
-        Standards - a Universal Language for Humane and Machine Learning of
-        Sensible Governance.
+        Pedagogy and Business as Usual, or in other words Antagonism
+        (Competition / Competence) in Interactions leads to Critical issues - no
+        matter where we assess them or how we might call them.
       keyName: property
       relativeUrl: false
   type: stackbit_page_meta
