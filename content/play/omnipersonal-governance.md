@@ -124,27 +124,21 @@ All problems surrounding our Social Behaviors and our Bad Business Practices, ar
 
 Antagonism is a rather Sadistic Tendency of the Mind (Negative Reinforcement, Punishment), which is the real cause of Poverty, Wars, Depression, Isolation, Bulling, Anxiety, Suicides, Addiction to Unhealthy Lifestyles and the Destruction of our Planet.
 
-### Fair-Play Synagonism
-
-Through Fair-Play Synagonism is a Social Innovation against depression, antagonism, poverty, scarcity and all sorts of conflict.
-
-People have the Power to solve all types of issues, and as our problems are Common, our power becomes a Personal Responsibility that was all share.
-
-Synagonism (Lit. Translation: Collaboration), or in simple terms the process of Solving issues Together is the solution to all kinds of Economic, Environmental and Mental Crisis. As simple as that!
-
-### #EconomicLiberty through Omni-Personal Governance
-
-Omni-Personal Governance is the Evolution of our Service Management Systems (Private and Public Agencies), and their Continuous Adaptation to our everyday problems.
+### #EconomicLiberty through Omni-Personal Ecosystemic Governance
 
 Economía which is the Greek root of the word Economy is not about money or material gains. In fact, it is based on the words Ecos ‘House’ + Nemein which means ‘to Manage, to Distribute’. In short, the word means Ecosystemic Management.
 
 All types of Management are forms of Input Feedback - which is a Human Freedom dependent on our ability to Self-Reflect. Our Self-Reflections help us understand anything we need to Manage, and since their essential function is to Empower the Freedom of being oneself, they measure our Economic Liberty. This is the Liberty of Being the Best Version of Oneself Economically; Economy being the Efficient Adaptation to our Present Ecosystem.
 
-**The Self is Liberated to be Indefinitely itself within its own Boundaries shaping its Economic Liberty.**
+All-Inclusive *(Omni) and Personal Governance is* the Evolution of our Service Management Systems (Private and Public Agencies), and their Continuous Adaptation to our everyday problems.
+
+### Fair-Play Synagonism
+
+Synagonism (Lit. Translation: Collaboration), or in simple terms the process of Solving issues Together is the solution to all kinds of Economic, Environmental and Mental Crisis. As simple as that!
+
+Through Fair-Play Synagonism we have the Power to solve all types of issues, and as our problems are Common, our power becomes a Personal Responsibility that was all share. As a Strategy it may be Proactively help us Resolve depression, antagonism, poverty, scarcity and all sorts of conflict.
 
 ***
-
-
 
 **⌘**
 
