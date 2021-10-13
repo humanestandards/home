@@ -1,7 +1,7 @@
 ---
 title: Omni-Personal Synagonism
 subtitle: 'Fair-Play Economic Liberty, Equality and Solidarity for Everyone.'
-date: '2021-10-06'
+date: '2021-10-13'
 categories: []
 tags: []
 excerpt: >-
