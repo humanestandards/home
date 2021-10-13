@@ -41,7 +41,7 @@ sections:
       - label: Learn More
         url: 'https://humanestandards.com/play/omnipersonal-governance'
         style: primary
-        has_icon: false
+        has_icon: true
     actions_position: bottom
     align: center
     padding_top: large
