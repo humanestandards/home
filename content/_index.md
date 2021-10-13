@@ -39,7 +39,7 @@ sections:
       ***COMING SOON***
     actions:
       - label: Learn More
-        url: null
+        url: 'https://humanestandards.com/play/omnipersonal-governance'
         style: primary
     actions_position: bottom
     align: center
