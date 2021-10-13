@@ -101,20 +101,13 @@ image: images/omnipersonal-governance.png
 
 Pedagogy and Business as Usual, or in other words Antagonism (Competition / Competence) in Interactions leads to Critical issues - no matter where we assess them or how we might call them.
 
-Antagonism which is a Mental Bias (Cognitive Delusion), and not an actual Physical Phenomenon, is to be Entirely Replaced (Eradication of Poverty of Mind) by an Intuitive Sense of Synagonism. 
+Antagonism which is a Mental Bias (Cognitive Delusion), and not an actual Physical Phenomenon, is to be Entirely Replaced (Eradication of Poverty of Mind) by an Intuitive Sense of Synagonism.
 
 We are all in this Together and Fair-Play is the only Sensible Path towards a Great Wellbeing.
 
-
-
 ## The Gamification of Sensibility
 
-> *We - the Human Family, have the capacity to Individually Act and React Responsibly, according to Common Humane Sensibility (*
->
-> [*Humane Standards*](https://coda.io/@symbiosis/humanestandards)
->
-> \*). We are #HumansTogether, and all part of #OneFamily. 
->
+> *We - the Human Family, have the capacity to Individually Act and React Responsibly, according to Common Humane Sensibility (*[*Humane Standards*](https://coda.io/@symbiosis/humanestandards)). We are #HumansTogether, and all part of #OneFamily.
 
 Life is a Play, and in the same way that the term is being used in Music and Dramaturgy  (Rhythmic Orchestration).
 
@@ -132,8 +125,6 @@ All problems surrounding our Social Behaviors and our Bad Business Practices, ar
 
 Antagonism is a rather Sadistic Tendency of the Mind (Negative Reinforcement, Punishment), which is the real cause of Poverty, Wars, Depression, Isolation, Bulling, Anxiety, Suicides, Addiction to Unhealthy Lifestyles and the Destruction of our Planet.
 
-
-
 ### #EconomicLiberty through Omni-Personal Governance
 
 Omni-Personal Governance is the Evolution of our Service Management Systems (Private and Public Agencies), and their Continuous Adaptation to our everyday problems.
@@ -144,7 +135,7 @@ All types of Management are forms of Input Feedback - which is a Human Freedom d
 
 **The Self is Liberated to be Indefinitely itself within its own Boundaries shaping its Economic Liberty.**
 
-****
+***
 
 ### Fair-Play Synagonism
 
@@ -153,8 +144,6 @@ Through Fair-Play Synagonism is a Social Innovation against depression, antagoni
 People have the Power to solve all types of issues, and as our problems are Common, our power becomes a Personal Responsibility that was all share.
 
 Synagonism (Lit. Translation: Collaboration), or in simple terms the process of Solving issues Together is the solution to all kinds of Economic, Environmental and Mental Crisis. As simple as that!
-
-
 
 **⌘**
 
