@@ -19,7 +19,7 @@ seo:
   robots: []
   extra:
     - name: 'og:image'
-      value: /images/Humaneundefined20Episode.jpg
+      value: /images/Humane Systems - 1 (1).png
       keyName: property
       relativeUrl: true
     - name: 'og:type'
