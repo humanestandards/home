@@ -11,7 +11,7 @@ thumb_image_alt: Omni-Personal Governance
 image_alt: Omni-Personal Governance
 image_position: left
 seo:
-  title: Paul Ai Teaches Humane Operations - Episode 02
+  title: Omni-Personal Synagonism
   description: >-
     Pedagogy and Business as Usual, or in other words Antagonism (Competition /
     Competence) in Interactions leads to Critical issues - no matter where we
