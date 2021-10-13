@@ -38,7 +38,7 @@ sections:
 
       ***COMING SOON***
     actions:
-      - label: a
+      - label: lEARN
         url: null
         style: primary
     actions_position: bottom
