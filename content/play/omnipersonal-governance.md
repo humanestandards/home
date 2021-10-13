@@ -136,7 +136,7 @@ All-Inclusive *(Omni) and Personal Governance is* the Evolution of our Service M
 
 Synagonism (Lit. Translation: Collaboration), or in simple terms the process of Solving issues Together is the solution to all kinds of Economic, Environmental and Mental Crisis. As simple as that!
 
-Through Fair-Play Synagonism we have the Power to solve all types of issues, and as our problems are Common, our power becomes a Personal Responsibility that was all share. As a Strategy it may be Proactively help us Resolve depression, antagonism, poverty, scarcity and all sorts of conflict.
+Through Fair-Play Synagonism we have the Power to solve all types of issues, and as our problems are Common, our power becomes a Personal Responsibility that was all share. As a Strategy for Risk Assessment, it may be Proactively help us Resolve depression, antagonism, poverty, scarcity and all sorts of conflict.
 
 ***
 
