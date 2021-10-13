@@ -1,5 +1,5 @@
 ---
-title: Omni-Personal Governance
+title: Omni-Personal Synagonism
 subtitle: 'Fair-Play Economic Liberty, Equality and Solidarity for Everyone.'
 date: '2021-10-06'
 categories: []
