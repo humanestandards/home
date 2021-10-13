@@ -32,7 +32,7 @@ sections:
   - type: cta_section
     title: Remote PlayGrounds
     content: |
-      *A Hybrid-Reality Console for Fair-Play Omni-Personal Synagonism.*
+      ***A Hybrid-Reality Console for Fair-Play Omni-Personal Synagonism.***
 
       *COMING SOON*
     actions:
