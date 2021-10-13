@@ -96,7 +96,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: images/Humane Systems - 1 (1).png
-image: images/omnipersonal-governance.png
+image: images/Humane Systems - 1 (1).png
 ---
 > The Best approach is always the Kind one.
 
