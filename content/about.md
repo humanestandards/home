@@ -12,7 +12,7 @@ sections:
   - type: features_section
     features:
       - title: Sensibility Standardisation
-        subtitle: A Universal Language for Fair-Play Governance
+        subtitle: A Universal Language for Omni-Personal Governance
         content: >
           The Humane Standards are a Capability Framework of 180 Indices for
           Hybrid-Reality Sensibility.
