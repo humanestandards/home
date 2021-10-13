@@ -116,8 +116,6 @@ Fair-Play, or in other words Ethical Synagonism (Non-Antagonistic Collaboration)
 
 It is the way we Act, React, and generally Behave with Common Sensibility, and above all Kindness in all of our Personal and Public Interactions.
 
-
-
 ### Getting to the Root of our problems
 
 Finding the Source of our Issues - whether personal or professional - helps us get to the point more easily and resolve them.
@@ -126,7 +124,13 @@ All problems surrounding our Social Behaviors and our Bad Business Practices, ar
 
 Antagonism is a rather Sadistic Tendency of the Mind (Negative Reinforcement, Punishment), which is the real cause of Poverty, Wars, Depression, Isolation, Bulling, Anxiety, Suicides, Addiction to Unhealthy Lifestyles and the Destruction of our Planet.
 
+### Fair-Play Synagonism
 
+Through Fair-Play Synagonism is a Social Innovation against depression, antagonism, poverty, scarcity and all sorts of conflict.
+
+People have the Power to solve all types of issues, and as our problems are Common, our power becomes a Personal Responsibility that was all share.
+
+Synagonism (Lit. Translation: Collaboration), or in simple terms the process of Solving issues Together is the solution to all kinds of Economic, Environmental and Mental Crisis. As simple as that!
 
 ### #EconomicLiberty through Omni-Personal Governance
 
@@ -139,14 +143,6 @@ All types of Management are forms of Input Feedback - which is a Human Freedom d
 **The Self is Liberated to be Indefinitely itself within its own Boundaries shaping its Economic Liberty.**
 
 ***
-
-### Fair-Play Synagonism
-
-Through Fair-Play Synagonism is a Social Innovation against depression, antagonism, poverty, scarcity and all sorts of conflict.
-
-People have the Power to solve all types of issues, and as our problems are Common, our power becomes a Personal Responsibility that was all share.
-
-Synagonism (Lit. Translation: Collaboration), or in simple terms the process of Solving issues Together is the solution to all kinds of Economic, Environmental and Mental Crisis. As simple as that!
 
 
 
