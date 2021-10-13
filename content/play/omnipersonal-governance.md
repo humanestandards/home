@@ -13,8 +13,9 @@ image_position: left
 seo:
   title: Paul Ai Teaches Humane Operations - Episode 02
   description: >-
-    An Artificial Intelligence Agent elaborates on the Theorems of the Humane
-    Standards - a Universal Language for Humane and Machine Learning.
+    Pedagogy and Business as Usual, or in other words Antagonism (Competition /
+    Competence) in Interactions leads to Critical issues - no matter where we
+    assess them or how we might call them.
   robots: []
   extra:
     - name: 'og:image'
