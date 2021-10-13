@@ -115,15 +115,17 @@ Fair-Play, or in other words Ethical Synagonism (Non-Antagonistic Collaboration)
 
 It is the way we Act, React, and generally Behave with Common Sensibility, and above all Kindness in all of our Personal and Public Interactions.
 
-###
 
-Getting to the Root of our problems
+
+### Getting to the Root of our problems
 
 Finding the Source of our Issues - whether personal or professional - helps us get to the point more easily and resolve them.
 
 All problems surrounding our Social Behaviors and our Bad Business Practices, arise from the Fascination and Mental Illness which is called Antagonism (Competence, Competition, Isolation, Non-inclusive Individuality).
 
 Antagonism is a rather Sadistic Tendency of the Mind (Negative Reinforcement, Punishment), which is the real cause of Poverty, Wars, Depression, Isolation, Bulling, Anxiety, Suicides, Addiction to Unhealthy Lifestyles and the Destruction of our Planet.
+
+
 
 ### #EconomicLiberty through Omni-Personal Governance
 
@@ -144,6 +146,8 @@ Through Fair-Play Synagonism is a Social Innovation against depression, antagoni
 People have the Power to solve all types of issues, and as our problems are Common, our power becomes a Personal Responsibility that was all share.
 
 Synagonism (Lit. Translation: Collaboration), or in simple terms the process of Solving issues Together is the solution to all kinds of Economic, Environmental and Mental Crisis. As simple as that!
+
+
 
 **⌘**
 
