@@ -34,7 +34,7 @@ sections:
     content: |
       ***A Hybrid-Reality Console for Fair-Play Omni-Personal Synagonism.***
 
-      *COMING SOON*
+      > ***COMING SOON***
     actions:
       - label: Coming Soon
         url: null
