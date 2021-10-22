@@ -4,9 +4,7 @@ subtitle: 'Fair-Play Economic Liberty, Equality and Solidarity for Everyone.'
 date: '2021-10-13'
 categories: []
 tags: []
-excerpt: >-
-  Episode 02 - Sensible Harmonization and the Standard Elements for the
-  Constitution of Communities.
+excerpt: 'Fair-Play Economic Liberty, Equality and Solidarity for Everyone.'
 thumb_image_alt: Omni-Personal Governance
 image_alt: Omni-Personal Governance
 image_position: left
