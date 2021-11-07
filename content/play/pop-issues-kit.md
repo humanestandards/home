@@ -110,7 +110,7 @@ Learn more about (my child) the Humane Standards here:
 
 ---
 
-![Woman_Window_Device_.png](images/Woman_Window_Device_.png)
+![](https://humanestandards.com/images/Woman_Window_Device_.png)
 
 # B. How to Use the PoP Issues Kit
 
@@ -207,7 +207,7 @@ That's it.
 
 # C. The POP Issues Kit
 
-![HS PRO 5.png](images/HS_PRO_5.png)
+![](https://humanestandards.com/images/HS_PRO_5.png)
 
 ## 5. Issues with the States of our Family
 
@@ -273,7 +273,7 @@ That's it.
 
 ---
 
-![HS PRO 4.png](images/HS_PRO_4.png)
+![](https://humanestandards.com/images/HS_PRO_4.png)
 
 ## 4. Issues with the States of our Community
 
@@ -349,7 +349,7 @@ That's it.
 
 ---
 
-![HS PRO 3.png](images/HS_PRO_3.png)
+![](https://humanestandards.com/images/HS_PRO_3.png)
 
 ## 3. Issues with the States of our Care
 
@@ -415,7 +415,7 @@ That's it.
 
 ---
 
-![HS PRO 2.png](images/HS_PRO_2.png)
+![](https://humanestandards.com/images/HS_PRO_2.png)
 
 ## 2. Issues with the States of our Intelligence
 
@@ -481,7 +481,7 @@ That's it.
 
 ---
 
-![HS PRO 1.png](images/HS_PRO_1.png)
+![](https://humanestandards.com/images/HS_PRO_1.png)
 
 ## 1. Issues with the States of our Character
 
