@@ -15,7 +15,7 @@ seo:
   robots: []
   extra:
     - name: 'og:image'
-      value: /images/Humane Systems - 1 (1).png
+      value: /images/HS_PopKit_Cover.png
       keyName: property
       relativeUrl: true
     - name: 'og:type'
@@ -23,7 +23,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'twitter:image'
-      value: /images/Humane Systems - 1 (1).png
+      value: /images/HS_PopKit_Cover.png
       keyName: property
       relativeUrl: true
     - name: 'og:type'
@@ -39,27 +39,27 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'og:image'
-      value: /images/Humaneundefined20Episode.jpg
+      value: /images/HS_PopKit_Cover.png
       keyName: property
       relativeUrl: true
     - name: 'og:image'
-      value: /images/Humaneundefined20Episode.jpg
+      value: /images/HS_PopKit_Cover.png
       keyName: property
       relativeUrl: true
     - name: 'og:image'
-      value: /images/Humaneundefined20Episode.jpg
+      value: /images/HS_PopKit_Cover.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:image'
-      value: /images/Humaneundefined20Episode.jpg
+      value: /images/HS_PopKit_Cover.png
       keyName: property
       relativeUrl: true
     - name: 'og:image'
-      value: /images/Humaneundefined20Episode.jpg
+      value: /images/HS_PopKit_Cover.png
       keyName: property
       relativeUrl: true
     - name: 'og:image'
-      value: /images/Humaneundefined20Episode.jpg
+      value: /images/HS_PopKit_Cover.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:description'
@@ -84,8 +84,8 @@ seo:
       relativeUrl: false
   type: stackbit_page_meta
 layout: post
-thumb_image: images/Humane Systems - 1 (1).png
-image: images/Humane Systems - 1 (1).png
+thumb_image: images/HS_PopKit_Cover.png
+image: images/HS_PopKit_Cover.png
 ---
 > We are all in this Together
 
@@ -110,7 +110,7 @@ Learn more about (my child) the Humane Standards here:
 
 ---
 
-![Woman_Window_Device_.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eaed5017-1ae3-43c3-bb95-8aa53f1454fc/Woman_Window_Device_.png)
+![Woman_Window_Device_.png](images/Woman_Window_Device_.png)
 
 # B. How to Use the PoP Issues Kit
 
@@ -207,7 +207,7 @@ That's it.
 
 # C. The POP Issues Kit
 
-![HS PRO 5.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/748c7d6c-42fb-4b36-add3-fc6e67befdba/HS_PRO_5.png)
+![HS PRO 5.png](images/HS_PRO_5.png)
 
 ## 5. Issues with the States of our Family
 
@@ -273,7 +273,7 @@ That's it.
 
 ---
 
-![HS PRO 4.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7aa84dd3-05b4-45c8-a518-1817bf92e09a/HS_PRO_4.png)
+![HS PRO 4.png](images/HS_PRO_4.png)
 
 ## 4. Issues with the States of our Community
 
@@ -349,7 +349,7 @@ That's it.
 
 ---
 
-![HS PRO 3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/001dbc53-696a-4297-9b52-d824c01d863e/HS_PRO_3.png)
+![HS PRO 3.png](images/HS_PRO_3.png)
 
 ## 3. Issues with the States of our Care
 
@@ -363,7 +363,7 @@ That's it.
 
 3.5.4. Formation & Non-Formation
 
-3.5.5. Convertability & Non-Convertability
+3.5.5. Convertibility & Non-Convertibility
 
 3**.4. Issues with Harmonization of:**
 
@@ -415,7 +415,7 @@ That's it.
 
 ---
 
-![HS PRO 2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/76de0f97-1ab9-4618-b572-4863fb1641fa/HS_PRO_2.png)
+![HS PRO 2.png](images/HS_PRO_2.png)
 
 ## 2. Issues with the States of our Intelligence
 
@@ -481,7 +481,7 @@ That's it.
 
 ---
 
-![HS PRO 1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7bfc9303-8b68-48d7-a78e-47fcf40b5ca3/HS_PRO_1.png)
+![HS PRO 1.png](images/HS_PRO_1.png)
 
 ## 1. Issues with the States of our Character
 
