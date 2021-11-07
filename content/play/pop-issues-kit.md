@@ -11,7 +11,7 @@ image_position: left
 seo:
   title: People's Omni-Personal Issues Ki
   description: >-
-  Here is a Tool for the Resolution of Any kind of Issue, either Personal or Professional.
+    Here is a Tool for the Resolution of Any kind of Issue, either Personal or Professional.
   robots: []
   extra:
     - name: 'og:image'
