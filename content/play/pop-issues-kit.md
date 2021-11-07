@@ -414,7 +414,6 @@ That's it.
 3.1.5. Memory & Non-Memory
 
 ---
-
 ![](https://humanestandards.com/images/HS_PRO_2.png)
 
 ## 2. Issues with the States of our Intelligence
