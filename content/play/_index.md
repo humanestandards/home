@@ -41,6 +41,27 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: secondary
+  - type: cta_section
+    title: Omni-Personal Governance Kits
+    content: |
+      Our Latest Research & Development
+
+      ***
+
+      ***Fair-Play Liberty, Equality and Solidarity for Everyone.***
+    actions:
+      - label: Play Here
+        url: 'https://humanestandards.notion.site/Humane-Standards-Fair-Play-Kits-75e0196d963d4200a632d816fd5f9129'
+        style: secondary
+        has_icon: true
+        icon: arrow-right
+    actions_position: bottom
+    align: center
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
+    background_image: images/Humane Governance.png
+    background_image_opacity: 24
   - title: Hybrid-Intelligence
     subtitle: M A S T E R C L A S S
     content: >
@@ -117,27 +138,6 @@ sections:
     background_image: images/HSL_S01E01_Thumbnail.jpg
     title: Humane Science
     subtitle: M A S T E R C L A S S
-  - type: cta_section
-    title: Omni-Personal Governance
-    content: |
-      ***Our Latest Research & Development
-
-      ***
-
-      ***All the Kits***
-    actions:
-      - label: Play
-        url: 'https://humanestandards.notion.site/Humane-Standards-Fair-Play-Kits-75e0196d963d4200a632d816fd5f9129'
-        style: primary
-        has_icon: true
-        icon: arrow-right
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    background_image: images/Humane Governance.png
-    background_image_opacity: 24
 seo:
   title: Fair-Play Kits
   description: Humane Standards Documentation and other Formats.
