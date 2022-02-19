@@ -42,7 +42,7 @@ sections:
     has_border: true
     background_color: secondary
   - type: cta_section
-    title: Omni-Personal Governance Kits
+    title: Omni-Personal Wellbeing Kits
     content: |
       Our Latest Research & Development
 
