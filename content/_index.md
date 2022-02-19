@@ -3,10 +3,9 @@ title: Humane Standards
 sections:
   - type: hero_section
     title: Humane Standards
-    subtitle: Hybrid-Reality Synagonism Gamification
+    subtitle: Wellbeing Gamification
     content: >
-      The scope of the Humane Standards is the constitution of Ethical
-      Eco-systemic Synagonism (Non-antagonistic Collaboration).
+      A Proactive Model of Governance, based on the Quality of Being Human. 
     actions:
       - label: Learn More
         url: /about

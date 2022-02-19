@@ -1,16 +1,16 @@
 ---
-title: Humane Powers
+title: Fair-Play Powers
 subtitle: How to Learn Ethics with the help of our Hands.
 date: '2021-06-26'
 categories:
   - data/categories/documentation.json
 tags:
 excerpt: The Easiest way to Practice with the Humane Standards.
-thumb_image_alt: humane-powers
-image_alt: humane powers
+thumb_image_alt: fair-play-powers
+image_alt: Fair-Play Powers
 image_position: left
 seo:
-  title: ⭐ Humane Powers
+  title: ⭐ Fair-Play Powers
   description: Our Inherited Problem-Solving Skills
   robots: []
   extra:
@@ -19,7 +19,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'og:title'
-      value: ⭐ Humane Powers
+      value: ⭐ Fair-Play Powers
       keyName: property
       relativeUrl: false
     - name: 'og:image'
@@ -31,11 +31,11 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'twitter:title'
-      value: ⭐ Humane Powers
+      value: ⭐ Fair-Play Powers
       keyName: name
       relativeUrl: false
     - name: 'twitter:description'
-      value: Our Inherited Problem-Solving Skills. We have converted our Fundamental Capabilities to Humane Powers, which are then being visualized through Stellar Geometric Formations.
+      value: Our Inherited Problem-Solving Skills. We have converted our Fundamental Capabilities to Fair-Play Powers, which are then being visualized through Stellar Geometric Formations.
       keyName: name
       relativeUrl: false
     - name: 'twitter:card'
@@ -52,7 +52,7 @@ image: images/square-saturn_.jpg
 
 Mnenomics, or Symbolic Association is the most efficient Learning technique.
 
-The Humane Standards use the limbs of our body, such as our hands to help us explore and remember our Humane Powers in a more intuitive manner.
+The Humane Standards use the limbs of our body, such as our hands to help us explore and remember our Fair-Play Powers in a more intuitive manner.
 
 ### \__\_
 
@@ -62,7 +62,7 @@ The Humane Standards use the limbs of our body, such as our hands to help us exp
 
 ![](https://humanestandards.com/images/LeftHand.png)![](https://humanestandards.com/images/RightHand.png)
 
-In the above Mnemonic Formats we have Assigned distinct Humane Powers to each of our Fingers.
+In the above Mnemonic Formats we have Assigned distinct Fair-Play Powers to each of our Fingers.
 
 ### \__\_
 
@@ -70,7 +70,7 @@ In the above Mnemonic Formats we have Assigned distinct Humane Powers to each of
 
 ![](https://humanestandards.com/images/Reasoning\_.png)
 
-In the Gesture above we use the 1st and 2nd Finger to show a Cyclical Relationship (Loop) between the 1st and 2nd Humane Powers respectively. Then show how the 3rd Power is a Function supporting another Loop (with the 1st and 2nd Powers of another Stellar Format - See below). The rest of our powers are the result of these functions and being represented by the rest of the fingers spreading outwardly.
+In the Gesture above we use the 1st and 2nd Finger to show a Cyclical Relationship (Loop) between the 1st and 2nd Fair-Play Powers respectively. Then show how the 3rd Power is a Function supporting another Loop (with the 1st and 2nd Powers of another Stellar Format - See below). The rest of our powers are the result of these functions and being represented by the rest of the fingers spreading outwardly.
 
 In a matter of fact, the above gesture which is named "the Dharmachakra Mudra" in ancient Asian Epistemology, it shows the Dynamics of Natural Reasoning.
 
@@ -130,7 +130,7 @@ We have converted our Fundamental Humane Capabilities to the proceeding Powers, 
 
 ## 🤔 Problem Solving & Decision Management
 
-Here is a Practical example on how to Practice with the Humane Powers Format:
+Here is a Practical example on how to Practice with the Fair-Play Powers Format:
 
 1.  We **choose a Topic** we wish to assess (Resolve). A matter of importance for us - one we care to reach a certain Decision and Solve a Problem.
 
@@ -152,7 +152,7 @@ Here is a Practical example on how to Practice with the Humane Powers Format:
 
 2.  Initiating Self-Reflection >> I assign each Power to Pros and Cons surrounding the Root of the Cause of the issue that I analyze (a.k.a. Climate Change),
 
-3.  Sentient Sensibility Exploration >> Afterwards, it is time to assign each Power to a Practical Sollution. To do so, we expand on ways we can Leverage each of our Humane Powers for the most Commonly Valuable outcome.
+3.  Sentient Sensibility Exploration >> Afterwards, it is time to assign each Power to a Practical Sollution. To do so, we expand on ways we can Leverage each of our Fair-Play Powers for the most Commonly Valuable outcome.
 
 4.  Sensible Self-Autonomy Loop >> When we have expanded on the Root of our Issue and visualized on ways that it could be tackled, we do what we can to Resolve it. This Last step is also a point where we may Deepen our Analysis through Iteration. We take our latest formed Intentions and assign them as Topics for further Self-Reflection.
 
@@ -166,6 +166,6 @@ Here is a Practical example on how to Practice with the Humane Powers Format:
 
 *   Although the majority of the Stars are based on the 5-fold anatomy of the Human Hand, one of them is based on the 6-Freedoms of Movement in Space (Upwards, Downwards, etc.). The extra 6th Dimension represents the Environment of the Model and its whole Ecosystem.
 
-For a more Detailed Exploration on our Standard Humane Powers, you may visit our Playbook for Beginners through the following Link:
+For a more Detailed Exploration on our Standard Fair-Play Powers, you may visit our Playbook for Beginners through the following Link:
 
 [coda.io/@humanestandards/playbook](https://coda.io/@humanestandards/playbook)
