@@ -107,7 +107,7 @@ We are all in this Together and Fair-Play is the only Sensible Path towards a Gr
 
 ## The Gamification of Sensibility
 
-> *We - the Human Family, have the capacity to Individually Act and React Responsibly, according to Common Humane Sensibility (*[*Humane Standards*](https://coda.io/@symbiosis/humanestandards)). We are #HumansTogether, and all part of #OneFamily.
+> *We - the Human Family, have the capacity to Individually Act and React Responsibly, according to Common Humane Sensibility (*[*Humane Standards*](https://coda.io/@humanestandards/playbook)). We are #HumansTogether, and all part of #OneFamily.
 
 Life is a Play, and in the same way that the term is being used in Music and Dramaturgy  (Rhythmic Orchestration).
 

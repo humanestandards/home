@@ -72,7 +72,7 @@ In the above Mnemonic Formats we have Assigned distinct Humane Powers to each of
 
 In the Gesture above we use the 1st and 2nd Finger to show a Cyclical Relationship (Loop) between the 1st and 2nd Humane Powers respectively. Then show how the 3rd Power is a Function supporting another Loop (with the 1st and 2nd Powers of another Stellar Format - See below). The rest of our powers are the result of these functions and being represented by the rest of the fingers spreading outwardly.
 
-In a matter of fact, the above gesture which is named "the Dharmachakra Mudra" in ancient Asian Epistemology, it shows the Dynamics of Natural Reasoning. 
+In a matter of fact, the above gesture which is named "the Dharmachakra Mudra" in ancient Asian Epistemology, it shows the Dynamics of Natural Reasoning.
 
 A very interesting and rewarding Challenge is to attempt to Translate Human Hand Gestures - found in ancient sculptures and other kinds of religious art, and with the help of the Humane Standards.
 
@@ -168,4 +168,4 @@ Here is a Practical example on how to Practice with the Humane Powers Format:
 
 For a more Detailed Exploration on our Standard Humane Powers, you may visit our Playbook for Beginners through the following Link:
 
-[coda.io/@symbiosis/humane-standards-beginners-edition](https://coda.io/@symbiosis/humane-standards-beginners-edition)
+[coda.io/@humanestandards/playbook](https://coda.io/@humanestandards/playbook)
